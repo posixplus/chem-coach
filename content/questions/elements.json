@@ -1,0 +1,362 @@
+[
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Hydrogen?",
+  "answer": "H",
+  "hint": null,
+  "explanation": "Hydrogen = H."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol H?",
+  "answer": "Hydrogen",
+  "hint": null,
+  "explanation": "H = Hydrogen."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Helium?",
+  "answer": "He",
+  "hint": null,
+  "explanation": "Helium = He."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol He?",
+  "answer": "Helium",
+  "hint": null,
+  "explanation": "He = Helium."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Lithium?",
+  "answer": "Li",
+  "hint": null,
+  "explanation": "Lithium = Li."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Li?",
+  "answer": "Lithium",
+  "hint": null,
+  "explanation": "Li = Lithium."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Beryllium?",
+  "answer": "Be",
+  "hint": null,
+  "explanation": "Beryllium = Be."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Be?",
+  "answer": "Beryllium",
+  "hint": null,
+  "explanation": "Be = Beryllium."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Boron?",
+  "answer": "B",
+  "hint": null,
+  "explanation": "Boron = B."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol B?",
+  "answer": "Boron",
+  "hint": null,
+  "explanation": "B = Boron."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Carbon?",
+  "answer": "C",
+  "hint": null,
+  "explanation": "Carbon = C."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol C?",
+  "answer": "Carbon",
+  "hint": null,
+  "explanation": "C = Carbon."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Nitrogen?",
+  "answer": "N",
+  "hint": null,
+  "explanation": "Nitrogen = N."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol N?",
+  "answer": "Nitrogen",
+  "hint": null,
+  "explanation": "N = Nitrogen."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Oxygen?",
+  "answer": "O",
+  "hint": null,
+  "explanation": "Oxygen = O."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol O?",
+  "answer": "Oxygen",
+  "hint": null,
+  "explanation": "O = Oxygen."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Fluorine?",
+  "answer": "F",
+  "hint": null,
+  "explanation": "Fluorine = F."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol F?",
+  "answer": "Fluorine",
+  "hint": null,
+  "explanation": "F = Fluorine."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Neon?",
+  "answer": "Ne",
+  "hint": null,
+  "explanation": "Neon = Ne."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Ne?",
+  "answer": "Neon",
+  "hint": null,
+  "explanation": "Ne = Neon."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Sodium?",
+  "answer": "Na",
+  "hint": null,
+  "explanation": "Sodium = Na."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Na?",
+  "answer": "Sodium",
+  "hint": null,
+  "explanation": "Na = Sodium."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Magnesium?",
+  "answer": "Mg",
+  "hint": null,
+  "explanation": "Magnesium = Mg."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Mg?",
+  "answer": "Magnesium",
+  "hint": null,
+  "explanation": "Mg = Magnesium."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Aluminum?",
+  "answer": "Al",
+  "hint": null,
+  "explanation": "Aluminum = Al."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Al?",
+  "answer": "Aluminum",
+  "hint": null,
+  "explanation": "Al = Aluminum."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Silicon?",
+  "answer": "Si",
+  "hint": null,
+  "explanation": "Silicon = Si."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Si?",
+  "answer": "Silicon",
+  "hint": null,
+  "explanation": "Si = Silicon."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Phosphorus?",
+  "answer": "P",
+  "hint": null,
+  "explanation": "Phosphorus = P."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol P?",
+  "answer": "Phosphorus",
+  "hint": null,
+  "explanation": "P = Phosphorus."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Sulfur?",
+  "answer": "S",
+  "hint": null,
+  "explanation": "Sulfur = S."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol S?",
+  "answer": "Sulfur",
+  "hint": null,
+  "explanation": "S = Sulfur."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Chlorine?",
+  "answer": "Cl",
+  "hint": null,
+  "explanation": "Chlorine = Cl."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Cl?",
+  "answer": "Chlorine",
+  "hint": null,
+  "explanation": "Cl = Chlorine."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Argon?",
+  "answer": "Ar",
+  "hint": null,
+  "explanation": "Argon = Ar."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Ar?",
+  "answer": "Argon",
+  "hint": null,
+  "explanation": "Ar = Argon."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Potassium?",
+  "answer": "K",
+  "hint": null,
+  "explanation": "Potassium = K."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol K?",
+  "answer": "Potassium",
+  "hint": null,
+  "explanation": "K = Potassium."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "What is the symbol for Calcium?",
+  "answer": "Ca",
+  "hint": null,
+  "explanation": "Calcium = Ca."
+ },
+ {
+  "topic_id": "u2-elements20",
+  "qtype": "flashcard",
+  "difficulty": 1,
+  "prompt": "Which element has the symbol Ca?",
+  "answer": "Calcium",
+  "hint": null,
+  "explanation": "Ca = Calcium."
+ }
+]

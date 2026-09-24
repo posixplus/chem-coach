@@ -1,0 +1,3874 @@
+For Review
+
+121. On October 21, 1982, the Bureau of the Mint changed the
+composition of pennies (see Exercise 120). Instead of an
+alloy of 95% Cu and 5% Zn by mass, a core of 99.2% Zn and
+0.8% Cu with a thin shell of copper was adopted. The overall
+composition of the new penny was 97.6% Zn and 2.4% Cu
+by mass. Does this account for the difference in mass among
+the pennies in Exercise 120? Assume the volume of the individual metals that make up each penny can be added together
+to give the overall volume of the penny, and assume each
+penny is the same size. (Density of Cu 5 8.96 g/cm3; density
+of Zn 5 7.14 g/cm3.)
+122. As part of a science project, you study traffic patterns in your
+city at an intersection in the middle of downtown. You set up a
+device that counts the cars passing through this intersection
+for a 24-hr period during a weekday. The graph of hourly traffic looks like this.
+
+34g
+
+125. Confronted with the box shown in the diagram, you wish to
+discover something about its internal workings. You have no
+tools and cannot open the box. You pull on rope B, and it
+moves rather freely. When you pull on rope A, rope C appears
+to be pulled slightly into the box. When you pull on rope C,
+rope A almost disappears into the box.*
+
+A
+
+B
+
+C
+
+Number of Cars
+
+12 A.M.
+
+noon
+
+6 A.M.
+
+6 P.M.
+
+Time
+
+a. At what time(s) does the highest number of cars pass
+through the intersection?
+b. At what time(s) does the lowest number of cars pass
+through the intersection?
+c. Briefly describe the trend in numbers of cars over the
+course of the day.
+d. Provide a hypothesis explaining the trend in numbers of
+cars over the course of the day.
+e. Provide a possible experiment that could test your
+hypothesis.
+123. Sterling silver is a solid solution of silver and copper. If a
+piece of a sterling silver necklace has a mass of 105.0 g and a
+volume of 10.12 mL, calculate the mass percent of copper in
+the piece of necklace. Assume that the volume of silver present plus the volume of copper present equals the total volume.
+Refer to Table 1.5.
+
+a. Based on these observations, construct a model for the
+interior mechanism of the box.
+b. What further experiments could you do to refine your
+model?
+126. An experiment was performed in which an empty 100-mL
+graduated cylinder was weighed. It was weighed once again
+after it had been filled to the 10.0-mL mark with dry sand. A
+10-mL pipet was used to transfer 10.00 mL of methanol to the
+cylinder. The sand–methanol mixture was stirred until bubbles
+no longer emerged from the mixture and the sand looked uniformly wet. The cylinder was then weighed again. Use the
+data obtained from this experiment (and displayed at the end
+of this problem) to find the density of the dry sand, the density
+of methanol, and the density of sand particles. Does the bubbling that occurs when the methanol is added to the dry sand
+indicate that the sand and methanol are reacting?
+Mass of cylinder plus wet sand
+
+45.2613 g
+
+Mass of cylinder plus dry sand
+
+37.3488 g
+
+Mass of empty cylinder
+
+22.8317 g
+
+Volume of dry sand
+
+10.0 mL
+
+Volume of sand plus methanol
+
+17.6 mL
+
+Volume of methanol
+
+10.00 mL
+
+mass of copper
+3 100
+total mass
+124. Make molecular-level (microscopic) drawings for each of the
+following.
+a. Show the differences between a gaseous mixture that is a
+homogeneous mixture of two different compounds, and a
+gaseous mixture that is a homogeneous mixture of a
+compound and an element.
+b. Show the differences among a gaseous element, a liquid
+element, and a solid element.
+Mass percent of copper 5
+
+*From Yoder, Suydam, and Snavely, Chemistry (New York: Harcourt
+Brace Jovanovich, 1975), pp. 9–11.
+
+34h
+
+Integrative Problems
+These problems require the integration of multiple concepts to find
+the solutions.
+127. The U.S. trade deficit at the beginning of 2005 was
+$475,000,000. If the wealthiest 1.00% of the U.S. population
+(297,000,000) contributed an equal amount of money to bring
+the trade deficit to $0, how many dollars would each person
+contribute? If one of these people were to pay his or her share
+in nickels only, how many nickels are needed? Another person
+living abroad at the time decides to pay in pounds sterling (£).
+How many pounds sterling does this person contribute
+(assume a conversion rate of 1 £ 5 $1.869)?
+
+128. The density of osmium is reported by one source to be
+22,610 kg/m3. What is this density in g/cm3? What is the mass
+of a block of osmium measuring 10.0 cm 3 8.0 cm 3 9.0 cm?
+129. At the Amundsen-Scott South Pole base station in Antarctica,
+when the temperature is 2100.08F, researchers who live there
+can join the “300 Club” by stepping into a sauna heated to
+200.08F then quickly running outside and around the pole that
+marks the South Pole. What are these temperatures in 8C?
+What are these temperatures in K? If you measured the temperatures only in 8C and K, can you become a member of the
+“300 Club” (that is, is there a 300.-degree difference between
+the temperature extremes when measured in 8C and K)?
+
+CHAPTER
+
+Polarized light micrograph of crystals of vitamin C. (Marek Mis/Science Source)
+
+Atoms, Molecules, and Ions
+2.1
+2.2
+2.3
+2.4
+
+The Early History of Chemistry
+
+2.5
+
+Fundamental Chemical Laws
+Dalton’s Atomic Theory
+Early Experiments to Characterize
+the Atom
+The Electron
+Radioactivity
+The Nuclear Atom
+
+2.6
+2.7
+
+The Modern View of Atomic
+Structure: An Introduction
+
+2.8
+
+Naming Simple Compounds
+Binary Ionic Compounds (Type I)
+
+Molecules and Ions
+
+Formulas from Names
+
+An Introduction to the Periodic
+Table
+
+Binary Ionic Compounds (Type II)
+Ionic Compounds with Polyatomic
+Ions
+Binary Covalent Compounds
+(Type III)
+Acids
+
+W
+
+here does one start in learning chemistry? Clearly we must consider
+some essential vocabulary and something about the origins of the science before we can proceed very far. Thus, while Chapter 1 provided background on
+the fundamental ideas and procedures of science in general, Chapter 2 covers the
+specific chemical background necessary for understanding the material in the next
+few chapters. The coverage of these topics is necessarily brief at this point. We will
+develop these ideas more fully as it becomes appropriate to do so. A major goal of
+this chapter is to present the systems for naming chemical compounds to provide
+you with the vocabulary necessary to understand this book and to pursue your laboratory studies.
+Because chemistry is concerned first and foremost with chemical changes, we will
+proceed as quickly as possible to a study of chemical reactions (Chapters 3 and 4).
+However, before we can discuss reactions, we must consider some fundamental ideas
+about atoms and how they combine.
+
+2.1 The Early History of Chemistry
+Chemistry has been important since ancient times. The processing of natural ores to
+produce metals for ornaments and weapons and the use of embalming fluids are just
+two applications of chemical phenomena that were utilized prior to 1000 b.c.
+The Greeks were the first to try to explain why chemical changes occur. By about
+400 b.c. they had proposed that all matter was composed of four fundamental substances: fire, earth, water, and air. The Greeks also considered the question of whether
+matter is continuous, and thus infinitely divisible into smaller pieces, or composed of
+small, indivisible particles. Supporters of the latter position were Demokritos* of
+Abdera (c. 460–c. 370 b.c.) and Leucippos, who used the term atomos (which later
+became atoms) to describe these ultimate particles. However, because the Greeks had
+no experiments to test their ideas, no definitive conclusion could be reached about the
+divisibility of matter.
+The next 2000 years of chemical history were dominated by a pseudoscience called
+alchemy. Some alchemists were mystics and fakes who were obsessed with the idea of
+turning cheap metals into gold. However, many alchemists were serious scientists, and
+this period saw important advances: The alchemists discovered several elements and
+learned to prepare the mineral acids.
+The foundations of modern chemistry were laid in the sixteenth century with
+the development of systematic metallurgy (extraction of metals from ores) by a
+German, Georg Bauer (1494–1555), and the medicinal application of minerals by a
+Swiss alchemist/physician known as Paracelsus (full name: Philippus Theophrastus
+Bombastus von Hohenheim [1493–1541]).
+The first “chemist” to perform truly quantitative experiments was Robert Boyle
+(1627–1691), who carefully measured the relationship between the pressure and volume
+of air. When Boyle published his book The Skeptical Chymist in 1661, the quantitative
+sciences of physics and chemistry were born. In addition to his results on the quantitative behavior of gases, Boyle’s other major contribution to chemistry consisted of his
+ideas about the chemical elements. Boyle held no preconceived notion about the number of elements. In his view, a substance was an element unless it could be broken
+down into two or more simpler substances. As Boyle’s experimental definition of an
+element became generally accepted, the list of known elements began to grow, and the
+Greek system of four elements finally died. Although Boyle was an excellent scientist,
+he was not always right. For example, he clung to the alchemists’ views that metals
+were not true elements and that a way would eventually be found to change one metal
+into another.
+
+*Democritus is an alternate spelling.
+
+2.2 Fundamental Chemical Laws
+
+Roald Hoffmann
+
+FIGURE 2.1 The Priestley Medal is the highest honor given by the American Chemical Society.
+It is named for Joseph Priestley, who was born in England on March 13, 1733. He performed many
+important scientific experiments, among them the discovery that a gas later identified as carbon
+dioxide could be dissolved in water to produce seltzer. Also, as a result of meeting Benjamin Franklin
+in London in 1766, Priestley became interested in electricity and was the first to observe that graphite
+was an electrical conductor. However, his greatest discovery occurred in 1774 when he isolated
+oxygen by heating mercuric oxide.
+Because of his nonconformist political views, Priestley was forced to leave England. He died in
+the United States in 1804.
+
+The phenomenon of combustion evoked intense interest in the seventeenth and
+eighteenth centuries. The German chemist Georg Stahl (1660–1734) suggested that a
+substance he called “phlogiston” flowed out of the burning material. Stahl postulated
+that a substance burning in a closed container eventually stopped burning because the
+air in the container became saturated with phlogiston. Oxygen gas, discovered by
+Joseph Priestley (1733–1804),* an English clergyman and scientist (Fig. 2.1), was
+found to support vigorous combustion and was thus supposed to be low in phlogiston.
+In fact, oxygen was originally called “dephlogisticated air.”
+
+2.2 Fundamental Chemical Laws
+By the late eighteenth century, combustion had been studied extensively; the gases
+carbon dioxide, nitrogen, hydrogen, and oxygen had been discovered; and the list of
+elements continued to grow. However, it was Antoine Lavoisier (1743–1794), a French
+chemist (Fig. 2.2), who finally explained the true nature of combustion, thus clearing
+the way for the tremendous progress that was made near the end of the eighteenth
+century. Lavoisier, like Boyle, regarded measurement as the essential operation of
+chemistry. His experiments, in which he carefully weighed the reactants and products
+of various reactions, suggested that mass is neither created nor destroyed. Lavoisier’s
+
+FIGURE 2.2 Antoine Lavoisier was
+born in Paris on August 26, 1743. Although
+Lavoisier’s father wanted his son to follow
+him into the legal profession, young
+Lavoisier was fascinated by science. From
+the beginning of his scientific career,
+Lavoisier recognized the importance of
+accurate measurements. His careful
+weighings showed that mass is conserved
+in chemical reactions and that combustion involves reaction with oxygen. Also,
+he wrote the first modern chemistry textbook. It is not surprising that Lavoisier is
+often called the father of modern
+chemistry.
+To help support his scientific work,
+Lavoisier invested in a private taxcollecting firm and married the daughter
+of one of the company executives. His
+connection to the tax collectors proved
+fatal, for radical French revolutionaries
+demanded his execution, which occurred
+on the guillotine on May 8, 1794.
+
+The Metropolitan Museum of Art, New York. Image copyright © The Metropolitan Museum of Art/
+Art Resource, NY
+
+*Oxygen gas was actually first observed by the Swedish chemist Karl W. Scheele (1742–1786),
+but because his results were published after Priestley’s, the latter is commonly credited with the
+discovery of oxygen.
+
+verification of this law of conservation of mass was the basis for the developments in
+chemistry in the nineteenth century. Mass is neither created nor destroyed in a
+chemical reaction.
+Lavoisier’s quantitative experiments showed that combustion involved oxygen
+(which Lavoisier named), not phlogiston. He also discovered that life was supported
+by a process that also involved oxygen and was similar in many ways to combustion.
+In 1789 Lavoisier published the first modern chemistry textbook, Elementary Treatise
+on Chemistry, in which he presented a unified picture of the chemical knowledge
+assembled up to that time. Unfortunately, in the same year the text was published, the
+French Revolution broke out. Lavoisier, who had been associated with collecting taxes
+for the government, was executed on the guillotine as an enemy of the people in 1794.
+After 1800, chemistry was dominated by scientists who, following Lavoisier’s lead,
+performed careful weighing experiments to study the course of chemical reactions and
+to determine the composition of various chemical compounds. One of these chemists,
+a Frenchman, Joseph Proust (1754–1826), showed that a given compound always contains exactly the same proportion of elements by mass. For example, Proust found that
+the substance copper carbonate is always 5.3 parts copper to 4 parts oxygen to 1 part
+carbon (by mass). The principle of the constant composition of compounds, originally
+called “Proust’s law,” is now known as the law of definite proportion. A given compound always contains exactly the same proportion of elements by mass.
+Proust’s discovery stimulated John Dalton (1766–1844), an English schoolteacher
+(Fig. 2.3), to think about atoms as the particles that might compose elements. Dalton
+reasoned that if elements were composed of tiny individual particles, a given compound
+should always contain the same combination of these atoms. This concept explained
+why the same relative masses of elements were always found in a given compound.
+But Dalton discovered another principle that convinced him even more of the existence of atoms. He noted, for example, that carbon and oxygen form two different
+compounds that contain different relative amounts of carbon and oxygen, as shown by
+the following data:
+
+Oxygen is from the French oxygène,
+meaning “generator of acid,” because it was
+initially considered to be an integral part
+of all acids.
+
+Mass of Oxygen That
+Combines with 1 g of Carbon
+Compound I
+
+1.33 g
+
+Compound II
+
+2.66 g
+
+Dalton noted that compound II contains twice as much oxygen per gram of carbon as
+compound I, a fact that could easily be explained in terms of atoms. Compound I might
+be CO, and compound II might be CO2.* This principle, which was found to apply to
+compounds of other elements as well, became known as the law of multiple proportions: When two elements form a series of compounds, the ratios of the masses of
+the second element that combine with 1 g of the first element can always be
+reduced to small whole numbers.
+
+Manchester Literary and Philosophical Society
+
+*Subscripts are used to show the numbers of atoms present. The number 1 is understood (not written). The symbols for the elements and the writing of chemical formulas will be illustrated further
+in Sections 2.6 and 2.7.
+
+FIGURE 2.3 John Dalton (1766–1844), an Englishman, began teaching at a Quaker school
+when he was 12. His fascination with science included an intense interest in meteorology, which led
+to an interest in the gases of the air and their ultimate components, atoms. Dalton is best known for
+his atomic theory, in which he postulated that the fundamental differences among atoms are their
+masses. He was the first to prepare a table of relative atomic weights.
+Dalton was a humble man with several apparent handicaps: He was not articulate and he was
+color-blind, a terrible problem for a chemist. Despite these disadvantages, he helped to revolutionize the science of chemistry.
+
+2.2 Fundamental Chemical Laws
+
+To make sure the significance of this observation is clear, in Example 2.1 we will
+consider data for a series of compounds consisting of nitrogen and oxygen.
+EXAMPLE 2.1
+
+Illustrating the Law of Multiple Proportions
+The following data were collected for several compounds of nitrogen and oxygen:
+Mass of Nitrogen That
+Combines with 1 g of Oxygen
+Compound A
+
+1.750 g
+
+Compound B
+
+0.8750 g
+
+Compound C
+
+0.4375 g
+
+Show how these data illustrate the law of multiple proportions.
+SOLUTION
+
+For the law of multiple proportions to hold, the ratios of the masses of nitrogen combining with 1 g of oxygen in each pair of compounds should be small whole numbers.
+We therefore compute the ratios as follows:
+A
+1.750
+B
+0.8750
+B
+0.8750
+C
+0.4375
+A
+1.750
+C
+0.4375
+These results support the law of multiple proportions.
+See Exercises 2.41 and 2.42
+
+The significance of the data in Example 2.1 is that compound A contains twice as
+much nitrogen (N) per gram of oxygen (O) as does compound B and that compound B
+contains twice as much nitrogen per gram of oxygen as does compound C.
+These data can be explained readily if the substances are composed of molecules
+made up of nitrogen atoms and oxygen atoms. For example, one set of possibilities for
+compounds A, B, and C is
+B:
+
+A:
+N
+O
+
+=
+
+C:
+N
+O
+
+=
+
+N
+O
+
+=
+
+Now we can see that compound A contains two atoms of N for every atom of O, whereas
+compound B contains one atom of N per atom of O. That is, compound A contains twice
+as much nitrogen per given amount of oxygen as does compound B. Similarly, since compound B contains one N per O and compound C contains one N per two Os, the nitrogen
+content of compound C per given amount of oxygen is half that of compound B.
+Another set of compounds that fits the data in Example 2.1 is
+B:
+
+A:
+
+N
+O
+
+=
+
+C:
+N
+O
+
+=
+
+N
+O
+
+=
+
+Verify for yourself that these compounds satisfy the requirements.
+
+Still another set that works is
+B:
+
+A:
+
+N
+O
+
+=
+
+C:
+
+N
+O
+
+=
+
+N
+O
+
+=
+
+See if you can come up with still another set of compounds that satisfies the data in
+Example 2.1. How many more possibilities are there?
+In fact, an infinite number of other possibilities exists. Dalton could not deduce
+absolute formulas from the available data on relative masses. However, the data on the
+composition of compounds in terms of the relative masses of the elements supported
+his hypothesis that each element consisted of a certain type of atom and that compounds were formed from specific combinations of atoms.
+
+2.3 Dalton’s Atomic Theory
+In 1808 Dalton published A New System of Chemical Philosophy, in which he presented his theory of atoms:
+
+Dalton’s Atomic Theory
+1. Each element is made up of tiny particles called atoms.
+These statements are a modern paraphrase
+of Dalton’s ideas.
+
+2. The atoms of a given element are identical; the atoms of different elements are different
+in some fundamental way or ways.
+3. Chemical compounds are formed when atoms of different elements combine with
+each other. A given compound always has the same relative numbers and types of
+atoms.
+4. Chemical reactions involve reorganization of the atoms—changes in the way they are
+bound together. The atoms themselves are not changed in a chemical reaction.
+
+It is instructive to consider Dalton’s reasoning on the relative masses of the
+atoms of the various elements. In Dalton’s time water was known to be composed
+of the elements hydrogen and oxygen, with 8 g of oxygen present for every 1 g of
+hydrogen. If the formula for water were OH, an oxygen atom would have to have 8
+times the mass of a hydrogen atom. However, if the formula for water were H2O
+(two atoms of hydrogen for every oxygen atom), this would mean that each atom of
+oxygen is 16 times as massive as each atom of hydrogen (since the ratio of the mass
+of one oxygen to that of two hydrogens is 8 to 1). Because the formula for water
+was not then known, Dalton could not specify the relative masses of oxygen and
+hydrogen unambiguously. To solve the problem, Dalton made a fundamental
+assumption: He decided that nature would be as simple as possible. This assumption led him to conclude that the formula for water should be OH. He thus assigned
+hydrogen a mass of 1 and oxygen a mass of 8.
+Using similar reasoning for other compounds, Dalton prepared the first table of
+atomic masses (sometimes called atomic weights by chemists, since mass is often
+determined by comparison to a standard mass—a process called weighing). Many of
+the masses were later proved to be wrong because of Dalton’s incorrect assumptions
+about the formulas of certain compounds, but the construction of a table of masses was
+an important step forward.
+Although not recognized as such for many years, the keys to determining absolute
+formulas for compounds were provided in the experimental work of the French chemist Joseph Gay-Lussac (1778–1850) and by the hypothesis of an Italian chemist named
+
+2.3 Dalton’s Atomic Theory
+
+◀
+
+Leemage/Getty Images
+
+Joseph Louis Gay-Lussac, a French physicist and chemist, was remarkably versatile. Although he
+is now known primarily for his studies on the combining of volumes of gases, Gay-Lussac was
+instrumental in the studies of many of the other properties of gases. Some of Gay-Lussac’s motivation to learn about gases arose from his passion for ballooning. In fact, he made ascents to
+heights of over 4 miles to collect air samples, setting altitude records that stood for about 50
+years. Gay-Lussac also was the codiscoverer of boron and the developer of a process for manufacturing sulfuric acid. As chief assayer of the French mint, Gay-Lussac developed many techniques for chemical analysis and invented many types of glassware now used routinely in labs.
+Gay-Lussac spent his last 20 years as a lawmaker in the French government.
+
+Amadeo Avogadro (1776–1856). In 1809 Gay-Lussac performed experiments in
+which he measured (under the same conditions of temperature and pressure) the volume of gases that reacted with each other. For example, Gay-Lussac found that 2 volumes of hydrogen react with 1 volume of oxygen to form 2 volumes of gaseous water
+and that 1 volume of hydrogen reacts with 1 volume of chlorine to form 2 volumes of
+hydrogen chloride. These results are represented schematically in Fig. 2.4.
+In 1811 Avogadro interpreted these results by proposing that at the same temperature and pressure, equal volumes of different gases contain the same number of particles. This assumption (called Avogadro’s hypothesis) makes sense if the distances
+between the particles in a gas are very great compared with the sizes of the particles.
+Under these conditions, the volume of a gas is determined by the number of molecules
+present, not by the size of the individual particles.
+If Avogadro’s hypothesis is correct, Gay-Lussac’s result,
+2 volumes of hydrogen react with 1 volume of oxygen 8n 2 volumes of water vapor
+can be expressed as follows:
+
+There are seven elements that occur as
+diatomic molecules:
+H2, N2, O2, F2, Cl2, Br2, I2
+
+2 molecules* of hydrogen react with 1 molecule of oxygen 8n 2 molecules of water
+These observations can best be explained by assuming that gaseous hydrogen, oxygen,
+and chlorine are all composed of diatomic (two-atom) molecules: H2, O2, and Cl2,
+respectively. Gay-Lussac’s results can then be represented as shown in Fig. 2.5. (Note
+that this reasoning suggests that the formula for water is H2O, not OH as Dalton believed.)
+Unfortunately, Avogadro’s interpretations were not accepted by most chemists, and
+a half-century of confusion followed, in which many different assumptions were made
+about formulas and atomic masses.
+During the nineteenth century, painstaking measurements were made of the masses
+of various elements that combined to form compounds. From these experiments a list
+of relative atomic masses could be determined. One of the chemists involved in contributing to this list was a Swede named Jöns Jakob Berzelius (1779–1848), who
+*A molecule is a collection of atoms (see Section 2.6).
+
++
+2 volumes hydrogen
+
+FIGURE 2.4 A representation of
+some of Gay-Lussac’s experimental
+results on combining gas volumes.
+
+combines with 1 volume oxygen
+
+to form 2 volumes gaseous water
+
++
+1 volume hydrogen
+
+combines with 1 volume chlorine to form 2 volumes hydrogen chloride
+
+CHEMICAL CONNECTIONS
+Berzelius, Selenium, and Silicon
+
+J
+
+öns Jakob Berzelius was probably
+the best experimental chemist of
+his generation and, given the crudeness of his laboratory equipment,
+maybe the best of all time. Unlike
+Lavoisier, who could afford to buy the
+best laboratory equipment available,
+Berzelius worked with minimal equipment in very plain surroundings. One
+of Berzelius’s students described the
+Swedish chemist’s workplace: “The
+laboratory consisted of two ordinary
+rooms with the very simplest arrangements; there were neither furnaces nor
+hoods, neither water system nor gas.
+Against the walls stood some closets
+with the chemicals, in the middle the
+mercury trough and the blast lamp
+table. Beside this was the sink consisting of a stone water holder with a
+stopcock and a pot standing under it.
+[Next door in the kitchen] stood a
+small heating furnace.”
+
+FIGURE 2.5 A representation of
+combining gases at the molecular level.
+The spheres represent atoms in the
+molecules.
+
+In addition to these accomplishments, Berzelius discovered the elements cerium, thorium, selenium, and
+silicon. Of these elements, selenium
+
+In these simple facilities, Berzelius
+performed more than 2000 experiments over a 10-year period to determine accurate atomic masses for the
+50 elements then known. His success
+can be seen from the data in the table
+at right. These remarkably accurate
+values attest to his experimental skills
+and patience.
+Besides his table of atomic
+masses, Berzelius made many other
+major contributions to chemistry.
+The most important of these was the
+invention of a simple set of symbols
+for the elements along with a system for writing the formulas of
+compounds to replace the awkward
+symbolic representations of the
+alchemists. Although some chemists, including Dalton, objected to
+the new system, it was gradually
+adopted and forms the basis of the
+system we use today.
+
+H H
+
+H H
+
+H H
+
++
+
++
+
+Comparison of Several of Berzelius’s
+Atomic Masses with the Modern Values
+Atomic Mass
+Berzelius’s
+Value
+
+Current
+Value
+
+Chlorine
+
+35.41
+
+35.45
+
+Copper
+
+63.00
+
+63.55
+
+Hydrogen
+
+O
+
+Cl
+
+Element
+
+1.00
+
+1.01
+
+Lead
+
+207.12
+
+207.2
+
+Nitrogen
+
+14.05
+
+14.01
+
+Oxygen
+
+16.00
+
+16.00
+
+Potassium
+
+39.19
+
+39.10
+
+Silver
+
+108.12
+
+107.87
+
+Sulfur
+
+32.18
+
+32.07
+
+O
+
+Cl
+
+H
+
+H
+
+O
+
+Cl
+
+H
+
+H
+
+H
+
+O
+
+H
+
+Cl
+
+discovered the elements cerium, selenium, silicon, and thorium and developed the
+modern symbols for the elements used in writing the formulas of compounds.
+
+2.4 Early Experiments to
+Characterize the Atom
+On the basis of the work of Dalton, Gay-Lussac, Avogadro, and others, chemistry was
+beginning to make sense. The concept of atoms was clearly a good idea. Inevitably,
+scientists began to wonder about the nature of the atom. What is an atom made of, and
+how do the atoms of the various elements differ?
+
+2.4 Early Experiments to Characterize the Atom
+
+Substance
+
+Alchemists’
+Symbol
+
+Silver
+Lead
+Tin
+Platinum
+Sulfuric acid
+Alcohol
+Sea salt
+
+and silicon are particularly important
+in today’s world. Berzelius discovered
+selenium in 1817 in connection with his
+studies of sulfuric acid. For years selenium’s toxicity has been known, but
+only recently have we become aware
+that it may have a positive effect on
+human health. Studies have shown
+that trace amounts of selenium in the
+diet may protect people from heart
+disease and cancer. One study based
+
+on data from 27 countries showed an
+inverse relationship between the
+cancer death rate and the selenium
+content of soil in a particular region
+(low cancer death rate in areas with
+high selenium content). Another
+research paper reported an inverse
+relationship between the selenium
+content of the blood and the incidence of breast cancer in women. A
+study reported in 1998 used the toenail clippings of 33,737 men to show
+that selenium seems to protect
+against prostate cancer. Selenium is
+also found in the heart muscle and
+may play an important role in proper
+heart function. Because of these and
+other studies, selenium’s reputation
+has improved, and many scientists are
+now studying its function in the
+human body.
+Silicon is the second most abundant element in the earth’s crust,
+exceeded only by oxygen. As we will
+see in Chapter 10, compounds involving silicon bonded to oxygen make
+up most of the earth’s sand, rock, and
+soil. Berzelius prepared silicon in its
+
+pure form in 1824 by heating silicon
+tetrafluoride (SiF4) with potassium
+metal. Today, silicon forms the basis
+for the modern microelectronics
+industry centered near San Francisco
+in a place that has come to be known
+as “Silicon Valley.” The technology of
+the silicon chip (see figure) with its
+printed circuits has transformed computers from room-sized monsters with
+thousands of unreliable vacuum tubes
+to desktop and notebook-sized units
+with trouble-free “solid-state”
+circuitry.
+
+Courtesy IBM
+
+The Alchemists’ Symbols for
+Some Common Elements and
+Compounds
+
+A chip capable of transmitting 4,000,000
+simultaneous phone conversations.
+
+The Electron
+The first important experiments that led to an understanding of the composition of the
+atom were done by the English physicist J. J. Thomson (Fig. 2.6), who studied electrical
+discharges in partially evacuated tubes called cathode-ray tubes (Fig. 2.7) during the
+period from 1898 to 1903. Thomson found that when high voltage was applied to the
+tube, a “ray” he called a cathode ray (because it emanated from the negative electrode,
+or cathode) was produced. Because this ray was produced at the negative electrode and
+was repelled by the negative pole of an applied electric field (Fig. 2.8), Thomson postulated that the ray was a stream of negatively charged particles, now called electrons.
+From experiments in which he measured the deflection of the beam of electrons in a
+magnetic field, Thomson determined the charge-to-mass ratio of an electron:
+
+Science & Society Picture Library /Getty Images
+
+e
+5 21.76 3 108 C/g
+m
+where e represents the charge on the electron in coulombs (C) and m represents the electron mass in grams.
+
+FIGURE 2.6 J. J. Thomson (1856–1940) was an English physicist at Cambridge University. He
+received the Nobel Prize in physics in 1906.
+
+Richard Megna/Fundamental Photographs
+© Cengage Learning
+
+Source of electrical potential
+
+Stream of negative
+particles (electrons)
+(–)
+Metal
+electrode
+
+(+)
+Partially
+evacuated
+glass tube
+
+Metal
+electrode
+
+StockFood/Getty Images
+
+FIGURE 2.7 A cathode-ray tube. The fast-moving electrons excite the gas in the tube, causing a glow
+between the electrodes. The green color in the photo is due to the response of the screen (coated with zinc
+sulfide) to the electron beam.
+
+▲
+A classic English plum pudding in which
+the raisins represent the distribution of
+electrons in the atom.
+
+One of Thomson’s primary goals in his cathode-ray tube experiments was to gain
+an understanding of the structure of the atom. He reasoned that since electrons could
+be produced from electrodes made of various types of metals, all atoms must contain
+electrons. Since atoms were known to be electrically neutral, Thomson further assumed
+that atoms also must contain some positive charge. Thomson postulated that an atom
+consisted of a diffuse cloud of positive charge with the negative electrons embedded
+randomly in it. This model, shown in Fig. 2.9, is often called the plum pudding model
+because the electrons are like raisins dispersed in a pudding (the positive charge cloud),
+as in plum pudding, a favorite English dessert.
+In 1909 Robert Millikan (1868–1953), working at the University of Chicago, performed very clever experiments involving charged oil drops. These experiments
+allowed him to determine the magnitude of the electron charge (Fig. 2.10). With this
+value and the charge-to-mass ratio determined by Thomson, Millikan was able to calculate the mass of the electron as 9.11 3 10231 kg.
+
+Radioactivity
+In the late nineteenth century, scientists discovered that certain elements produce highenergy radiation. For example, in 1896 the French scientist Henri Becquerel found
+accidentally that a piece of a mineral containing uranium could produce its image on
+a photographic plate in the absence of light. He attributed this phenomenon to a spontaneous emission of radiation by the uranium, which he called radioactivity. Studies
+in the early twentieth century demonstrated three types of radioactive emission:
+gamma (g) rays, beta (b) particles, and alpha (a) particles. A g ray is high-energy
+“light”; a b particle is a high-speed electron; and an a particle has a 21 charge, that is,
+a charge twice that of the electron and with the opposite sign. The mass of an a particle
+Spherical cloud of
+positive charge
+Applied
+electric field
+
+(+)
+
+Electrons
+
+(–)
+Metal
+electrode
+
+(+)
+(–)
+
+Metal
+electrode
+
+FIGURE 2.8 Deflection of cathode rays by an applied electric field.
+
+FIGURE 2.9 The plum pudding model of the atom.
+
+2.4 Early Experiments to Characterize the Atom
+Atomizer to
+produce oil
+droplets
+
+Oil spray
+
+(+)
+Microscope
+
+(–)
+
+a
+
+CalTech Archives
+
+Electrically
+charged plates
+
+X-rays produce
+charges on the
+oil drops
+
+b
+
+FIGURE 2.10 (a) A schematic representation of the apparatus Millikan used to determine the charge on the electron.
+The fall of charged oil droplets due to gravity can be halted by adjusting the voltage across the two plates. This voltage and
+the mass of the oil drop can then be used to calculate the charge on the oil drop. Millikan’s experiments showed that the
+charge on an oil drop is always a whole-number multiple of the electron charge. (b) A photograph of Millikan’s apparatus.
+
+is 7300 times that of the electron. More modes of radioactivity are now known, and we
+will discuss them in Chapter 19. Here we will consider only a particles because they
+were used in some crucial early experiments.
+
+The Nuclear Atom
+
+Topham Picture Library/The Image Works
+
+In 1911 Ernest Rutherford (Fig. 2.11), who performed many of the pioneering experiments to explore radioactivity, carried out an experiment to test Thomson’s plum pudding model. The experiment involved directing a particles at a thin sheet of metal foil,
+as illustrated in Fig. 2.12. Rutherford reasoned that if Thomson’s model were accurate,
+the massive a particles should crash through the thin foil like cannonballs through
+gauze, as shown in Fig. 2.13(a). He expected the a particles to travel through the foil
+with, at the most, very minor deflections in their paths. The results of the experiment
+
+FIGURE 2.11 Ernest Rutherford (1871–1937) was born on a farm in New Zealand. In 1895 he
+placed second in a scholarship competition to attend Cambridge University but was awarded the
+scholarship when the winner decided to stay home and get married. As a scientist in England,
+Rutherford did much of the early work on characterizing radioactivity. He named the a and b particles and the g ray and coined the term half-life to describe an important attribute of radioactive
+elements. His experiments on the behavior of a particles striking thin metal foils led him to postulate the nuclear atom. He also invented the name proton for the nucleus of the hydrogen atom. He
+received the Nobel Prize in chemistry in 1908.
+
+Some α particles
+are scattered.
+Source of
+α particles
+
+FIGURE 2.12 Rutherford’s experiment on a-particle bombardment of
+metal foil.
+
+Most particles
+pass straight
+through foil.
+
+Beam of
+α particles
+
+Screen to detect
+scattered α particles
+
+Thin
+metal foil
+
+FIGURE 2.13 Rutherford’s
+experiment.
+
+Electrons scattered
+throughout
+–
+–
+
+Diffuse
+positive
+charge
+
+–
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+n+
+
+–
+
+–
+
+–
+
+–
+
+–
+
+–
+–
+
+–
+
+–
+
+a
+The expected results of the metal foil
+experiment if Thomson’s model were correct.
+
+–
+
+b
+Actual results.
+
+were very different from those Rutherford anticipated. Although most of the a particles passed straight through, many of the particles were deflected at large angles, as
+shown in Fig. 2.13(b), and some were reflected, never hitting the detector. This outcome was a great surprise to Rutherford. (He wrote that this result was comparable
+with shooting a howitzer at a piece of paper and having the shell reflected back.)
+Rutherford knew from these results that the plum pudding model for the atom could
+not be correct. The large deflections of the a particles could be caused only by a center
+of concentrated positive charge that contains most of the atom’s mass, as illustrated in
+Fig. 2.13(b). Most of the a particles pass directly through the foil because the atom is
+mostly open space. The deflected a particles are those that had a “close encounter”
+with the massive positive center of the atom, and the few reflected a particles are those
+that made a “direct hit” on the much more massive positive center.
+In Rutherford’s mind these results could be explained only in terms of a nuclear
+atom—an atom with a dense center of positive charge (the nucleus) with electrons moving around the nucleus at a distance that is large relative to the nuclear radius.
+CRITICAL THINKING You have learned about three different
+models of the atom: Dalton’s model, Thomson’s model, and Rutherford’s
+model. What if Dalton was correct? What would Rutherford have expected
+from his experiments with gold foil? What if Thomson was correct? What would
+Rutherford have expected from his experiments with gold foil?
+
+2.5 The Modern View of Atomic
+Structure: An Introduction
+Nucleus
+
+~10−13 cm
+
+~2 × 10−8 cm
+
+In the years since Thomson and Rutherford, a great deal has been learned about atomic
+structure. Because much of this material will be covered in detail in later chapters,
+only an introduction will be given here. The simplest view of the atom is that it consists of a tiny nucleus (with a diameter of about 10213 cm) and electrons that move
+about the nucleus at an average distance of about 1028 cm from it (Fig. 2.14).
+As we will see later, the chemistry of an atom mainly results from its electrons. For
+this reason, chemists can be satisfied with a relatively crude nuclear model. The nucleus
+is assumed to contain protons, which have a positive charge equal in magnitude to the
+electron’s negative charge, and neutrons, which have virtually the same mass as a proton
+FIGURE 2.14 A nuclear atom viewed in cross section. Note that this drawing is not to scale.
+
+2.5 The Modern View of Atomic Structure: An Introduction
+
+TABLE 2.1 | The Mass and Charge of the Electron, Proton,
+Photo © Cengage Learning. All rights reserved.
+
+and Neutron
+
+▲
+If the atomic nucleus were the size of
+this ball bearing, a typical atom would
+be the size of this stadium.
+
+The chemistry of an atom arises from its
+electrons.
+
+Particle
+
+Mass
+
+Charge*
+
+Electron
+
+9.109 3 10
+
+kg
+
+Proton
+
+1.673 3 10227 kg
+
+Neutron
+
+1.675 3 10
+
+kg
+
+None
+
+*The magnitude of the charge of the electron and the proton is 1.60 3 10219 C.
+
+but no charge. The masses and charges of the electron, proton, and neutron are shown in
+Table 2.1.
+Two striking things about the nucleus are its small size compared with the overall
+size of the atom and its extremely high density. The tiny nucleus accounts for almost all
+the atom’s mass. Its great density is dramatically demonstrated by the fact that a piece
+of nuclear material about the size of a pea would have a mass of 250 million tons!
+An important question to consider at this point is, “If all atoms are composed of these
+same components, why do different atoms have different chemical properties?” The
+answer to this question lies in the number and the arrangement of the electrons. The
+electrons constitute most of the atomic volume and thus are the parts that “intermingle”
+when atoms combine to form molecules. Therefore, the number of electrons possessed
+by a given atom greatly affects its ability to interact with other atoms. As a result, the
+atoms of different elements, which have different numbers of protons and electrons,
+show different chemical behavior.
+A sodium atom has 11 protons in its nucleus. Since atoms have no net charge, the
+number of electrons must equal the number of protons. Therefore, a sodium atom has
+11 electrons moving around its nucleus. It is always true that a sodium atom has
+11 protons and 11 electrons. However, each sodium atom also has neutrons in its
+nucleus, and different types of sodium atoms exist that have different numbers of neutrons. For example, consider the sodium atoms represented in Fig. 2.15. These two
+atoms are isotopes, or atoms with the same number of protons but different numbers of
+neutrons. Note that the symbol for one particular type of sodium atom is written
+Mass number
+
+88n
+
+n
+Atomic number 88
+
+11Na m Element symbol
+
+where the atomic number Z (number of protons) is written as a subscript, and the mass
+number A (the total number of protons and neutrons) is written as a superscript. (The
+particular atom represented here is called “sodium twenty-three.” It has 11 electrons,
+11 protons, and 12 neutrons.) Because the chemistry of an atom is due to its electrons,
+
+Nucleus
+
+Nucleus
+11 protons
+12 neutrons
+
+FIGURE 2.15 Two isotopes of
+sodium. Both have 11 protons and
+11 electrons, but they differ in the
+number of neutrons in their nuclei.
+
+11 protons
+13 neutrons
+
+11 electrons
+
+Na
+
+11 electrons
+
+Na
+
+isotopes show almost identical chemical properties. In nature most elements contain mixtures of isotopes.
+CRITICAL THINKING The average diameter of an atom is
+2 3 10210 m. What if the average diameter of an atom were 1 cm? How tall
+would you be?
+
+INTERACTIVE EXAMPLE 2.2
+
+Writing the Symbols for Atoms
+Write the symbol for the atom that has an atomic number of 9 and a mass number of 19.
+How many electrons and how many neutrons does this atom have?
+
+SOLUTION
+
+The atomic number 9 means the atom has 9 protons. This element is called fluorine,
+symbolized by F. The atom is represented as
+9F
+
+and is called fluorine nineteen. Since the atom has 9 protons, it also must have 9 electrons to achieve electrical neutrality. The mass number gives the total number of protons and neutrons, which means that this atom has 10 neutrons.
+See Exercises 2.61 through 2.66
+
+2.6 Molecules and Ions
+From a chemist’s viewpoint, the most interesting characteristic of an atom is its ability to
+combine with other atoms to form compounds. It was John Dalton who first recognized
+that chemical compounds are collections of atoms, but he could not determine the structure of atoms or their means for binding to each other. During the twentieth century, we
+learned that atoms have electrons and that these electrons participate in bonding one
+atom to another. We will discuss bonding thoroughly in Chapters 8 and 9; here, we will
+introduce some simple bonding ideas that will be useful in the next few chapters.
+The forces that hold atoms together in compounds are called chemical bonds.
+One way that atoms can form bonds is by sharing electrons. These bonds are called
+covalent bonds, and the resulting collection of atoms is called a molecule. Molecules can be represented in several different ways. The simplest method is the
+chemical formula, in which the symbols for the elements are used to indicate the
+types of atoms present and subscripts are used to indicate the relative numbers of
+atoms. For example, the formula for carbon dioxide is CO2, meaning that each molecule contains 1 atom of carbon and 2 atoms of oxygen.
+Examples of molecules that contain covalent bonds are hydrogen (H2), water (H2O),
+oxygen (O2), ammonia (NH3), and methane (CH4). More information about a molecule
+is given by its structural formula, in which the individual bonds are shown (indicated
+by lines). Structural formulas may or may not indicate the actual shape of the molecule. For example, water might be represented as
+H O H
+
+O
+
+or
+
+H
+
+H
+
+The structure on the right shows the actual shape of the water molecule. Scientists
+know from experimental evidence that the molecule looks like this. (We will study the
+shapes of molecules further in Chapter 8.)
+
+2.6 Molecules and Ions
+
+Photos Ken O’Donoghue © Cengage Learning
+
+H
+
+C
+
+H
+
+H
+H
+Methane
+
+a
+
+b
+
+c
+
+FIGURE 2.16 (a) The structural formula for methane. (b) Space-filling model of methane.
+This type of model shows both the relative sizes of the atoms in the molecule and their spatial
+relationships. (c) Ball-and-stick model of methane.
+
+N
+H H H
+Ammonia
+
+The structural formula for ammonia is shown in the margin at left. Note that
+atoms connected to the central atom by dashed lines are behind the plane of the
+paper, and atoms connected to the central atom by wedges are in front of the plane
+of the paper.
+In a compound composed of molecules, the individual molecules move around as
+independent units. For example, a molecule of methane gas can be represented in
+several ways. The structural formula for methane (CH4) is shown in Fig. 2.16(a). The
+space-filling model of methane, which shows the relative sizes of the atoms as well
+as their relative orientation in the molecule, is given in Fig. 2.16(b). Ball-and-stick
+models are also used to represent molecules. The ball-and-stick structure of methane
+is shown in Fig. 2.16(c).
+A second type of chemical bond results from attractions among ions. An ion is an
+atom or group of atoms that has a net positive or negative charge. The best-known
+ionic compound is common table salt, or sodium chloride, which forms when neutral
+chlorine and sodium react.
+To see how the ions are formed, consider what happens when an electron is transferred
+from a sodium atom to a chlorine atom (the neutrons in the nuclei will be ignored):
+Neutral sodium
+atom (Na)
+Sodium ion
+(Na+)
+
+11+
+
+Minus 1 electron
+
+11+
+
+10 electrons
+11 electrons
+
+Na1 is usually called the sodium ion rather
+than the sodium cation. Also Cl2 is called
+the chloride ion rather than the chloride
+anion. In general, when a specific ion is
+referred to, the word ion rather than cation
+or anion is used.
+
+With one electron stripped off, the sodium, with its 11 protons and only 10 electrons,
+now has a net 11 charge—it has become a positive ion. A positive ion is called a
+cation. The sodium ion is written as Na1, and the process can be represented in shorthand form as
+Na h Na 1 1 e 2
+
+If an electron is added to chlorine,
+
+Chloride ion
+(Cl−)
+Neutral chlorine
+atom (Cl)
+
+17+
+
+17+
+
+Plus 1 electron
+
+17 electrons
+18 electrons
+
+the 18 electrons produce a net 12 charge; the chlorine has become an ion with a negative charge—an anion. The chloride ion is written as Cl2, and the process is represented as
+Cl 1 e 2 h Cl 2
+
+Photo © Cengage Learning. All rights reserved.
+
+Photo © Cengage Learning. All rights reserved.
+
+Photo © Cengage Learning. All rights reserved.
+
+Because anions and cations have opposite charges, they attract each other. This
+force of attraction between oppositely charged ions is called ionic bonding. As
+illustrated in Fig. 2.17, sodium metal and chlorine gas (a green gas composed of
+
+Photo © Cengage Learning. All rights reserved.
+
+Cl− Cl− Na+
+Na+
+Na
+
+Na
+Cl Cl
+
+FIGURE 2.17 Sodium metal (which is so soft it can be cut with a knife and which consists of individual
+sodium atoms) reacts with chlorine gas (which contains Cl2 molecules) to form solid sodium chloride (which
+contains Na1 and Cl2 ions packed together).
+
+2.7 An Introduction to the Periodic Table
+
+FIGURE 2.18 Ball-and-stick models
+of the ammonium ion (NH41) and the
+nitrate ion (NO32). These ions are each
+held together by covalent bonds.
+
+Cl2 molecules) react to form solid sodium chloride, which contains many Na1 and
+Cl2 ions packed together and forms the beautiful colorless cubic crystals.
+A solid consisting of oppositely charged ions is called an ionic solid. Ionic solids can consist of simple ions, as in sodium chloride, or of polyatomic (many atom)
+ions, as in ammonium nitrate (NH4NO3), which contains ammonium ions (NH41)
+and nitrate ions (NO32). The ball-and-stick models of these ions are shown in
+Fig. 2.18.
+
+2.7 An Introduction to the Periodic
+Table
+In a room where chemistry is taught or practiced, a chart called the periodic table is
+almost certain to be found hanging on the wall. This chart shows all the known elements and gives a good deal of information about each. As our study of chemistry
+progresses, the usefulness of the periodic table will become more obvious. This section will simply introduce it to you.
+A simplified version of the periodic table is shown in Fig. 2.19. The letters in the
+boxes are the symbols for the elements; these abbreviations are based on the current
+Noble
+gases
+
+Alkaline
+1 earth metals
+
+Halogens 18
+
+1A
+
+Alkali metals
+
+H
+
+8A
+
+2A
+
+3A
+
+4A
+
+5A
+
+6A
+
+7A
+
+He
+
+Li
+
+Be
+
+B
+
+C
+
+N
+
+O
+
+F
+
+Ne
+
+Na
+
+Mg
+
+Al
+
+Si
+
+P
+
+S
+
+Cl
+
+Ar
+
+Transition metals
+
+K
+
+Ca
+
+Sc
+
+Ti
+
+V
+
+Cr
+
+Mn
+
+Fe
+
+Co
+
+Ni
+
+Cu
+
+Zn
+
+Ga
+
+Ge
+
+As
+
+Se
+
+Br
+
+Kr
+
+Rb
+
+Sr
+
+Y
+
+Zr
+
+Nb
+
+Mo
+
+Tc
+
+Ru
+
+Rh
+
+Pd
+
+Ag
+
+Cd
+
+In
+
+Sn
+
+Sb
+
+Te
+
+I
+
+Xe
+
+Cs
+
+Ba
+
+La*
+
+Hf
+
+Ta
+
+W
+
+Re
+
+Os
+
+Ir
+
+Pt
+
+Au
+
+Hg
+
+Tl
+
+Pb
+
+Bi
+
+Po
+
+At
+
+Rn
+
+Fr
+
+Ra
+
+Ac†
+
+Rf
+
+Db
+
+Sg
+
+Bh
+
+Hs
+
+Mt
+
+Ds
+
+Rg
+
+Cn
+
+Nh
+
+Fl
+
+Mc
+
+Lv
+
+Ts
+
+Og
+
+*Lanthanides
+
+Ce
+
+Pr
+
+Nd
+
+Pm
+
+Sm
+
+Eu
+
+Gd
+
+Tb
+
+Dy
+
+Ho
+
+Er
+
+Tm
+
+Yb
+
+Lu
+
+Th
+
+Pa
+
+U
+
+Np
+
+Pu
+
+Am
+
+Cm
+
+Bk
+
+Cf
+
+Es
+
+Fm
+
+Md
+
+No
+
+Lr
+
+†
+
+Actinides
+
+FIGURE 2.19 The periodic table.
+
+TABLE 2.2 | The Symbols for the Elements That
+Are Based on the Original Names
+Current Name
+
+Photo © Cengage Learning. All rights reserved.
+
+Metals tend to form positive ions;
+nonmetals tend to form negative ions.
+
+▲
+Samples of chlorine gas, liquid bromine,
+and solid iodine.
+
+Original Name
+
+Symbol
+
+Antimony
+
+Stibium
+
+Sb
+
+Copper
+
+Cuprum
+
+Cu
+
+Iron
+
+Ferrum
+
+Fe
+
+Lead
+
+Plumbum
+
+Pb
+
+Mercury
+
+Hydrargyrum
+
+Hg
+
+Potassium
+
+Kalium
+
+K
+
+Silver
+
+Argentum
+
+Ag
+
+Sodium
+
+Natrium
+
+Na
+
+Tin
+
+Stannum
+
+Sn
+
+Tungsten
+
+Wolfram
+
+W
+
+element names or the original names (Table 2.2). The number shown above each
+symbol is the atomic number (number of protons) for that element. For example,
+carbon (C) has atomic number 6, and lead (Pb) has atomic number 82. Most of the
+elements are metals. Metals have characteristic physical properties such as efficient
+conduction of heat and electricity, malleability (they can be hammered into thin
+sheets), ductility (they can be pulled into wires), and (often) a lustrous appearance.
+Chemically, metals tend to lose electrons to form positive ions. For example, copper
+is a typical metal. It is lustrous (although it tarnishes readily); it is an excellent conductor of electricity (it is widely used in electrical wires); and it is readily formed into
+various shapes, such as pipes for water systems. Copper is also found in many salts,
+such as the beautiful blue copper sulfate, in which copper is present as Cu21 ions.
+Copper is a member of the transition metals—the metals shown in the center of the
+periodic table.
+The relatively few nonmetals appear in the upper-right corner of the table (to the
+right of the heavy line in Fig. 2.19), except hydrogen, a nonmetal that resides in the
+upper-left corner. The nonmetals lack the physical properties that characterize
+the metals. Chemically, they tend to gain electrons in reactions with metals to form
+negative ions. Nonmetals often bond to each other by forming covalent bonds. For
+example, chlorine is a typical nonmetal. Under normal conditions it exists as
+Cl2 molecules; it reacts with metals to form salts containing Cl2 ions (NaCl, for
+example); and it forms covalent bonds with nonmetals (for example, hydrogen
+chloride gas, HCl).
+The periodic table is arranged so that elements in the same vertical columns (called
+groups or families) have similar chemical properties. For example, all of the alkali
+metals, members of Group 1A—lithium (Li), sodium (Na), potassium (K), rubidium
+(Rb), cesium (Cs), and francium (Fr)—are very active elements that readily form ions
+with a 11 charge when they react with nonmetals. The members of Group 2A—
+beryllium (Be), magnesium (Mg), calcium (Ca), strontium (Sr), barium (Ba), and
+radium (Ra)—are called the alkaline earth metals. They all form ions with a
+21 charge when they react with nonmetals. The halogens, the members of Group 7A—
+fluorine (F), chlorine (Cl), bromine (Br), iodine (I), and astatine (At)—all form
+diatomic molecules. Fluorine, chlorine, bromine, and iodine all react with metals to
+form salts containing ions with a 12 charge (F2, Cl2, Br2, and I2). The members of
+Group 8A—helium (He), neon (Ne), argon (Ar), krypton (Kr), xenon (Xe), and
+radon (Rn)—are known as the noble gases. They all exist under normal conditions as
+monatomic (single-atom) gases and have little chemical reactivity.
+
+2.8 Naming Simple Compounds
+
+CHEMICAL CONNECTIONS
+Hassium Fits Right In
+
+H
+
+For example, they have observed that
+hassium atoms react with oxygen to
+form a hassium oxide compound of
+the type expected from its position on
+the periodic table. The team has also
+measured other properties of hassium, including the energy released as
+it undergoes nuclear decay to another
+atom.
+This work would have surely pleased
+Dmitri Mendeleev (see Fig. 7.24), who
+originally developed the periodic table
+and showed its power to predict chemical properties.
+
+assium, element 108, does not exist
+in nature but must be made in a
+particle accelerator. It was first created
+in 1984 and can be made by shooting
+magnesium-26 ( 26
+12 Mg) atoms at
+curium-248 ( 248
+96 Cm) atoms. The collisions between these atoms produce
+some hassium-265 ( 265
+108 Hs) atoms. The
+position of hassium in the periodic
+table (see Fig. 2.19) in the vertical column containing iron, ruthenium, and
+osmium suggests that hassium should
+have chemical properties similar to
+these metals. However, it is not easy to
+
+test this prediction—only a few atoms
+of hassium can be made at a given
+time and they last for only about
+9 seconds. Imagine having to get
+your next lab experiment done in
+9 seconds!
+Amazingly, a team of chemists
+from the Lawrence Berkeley National
+Laboratory in California, the Paul
+Scherrer Institute and the University
+of Bern in Switzerland, and the Institute of Nuclear Chemistry in Germany
+have done experiments to characterize the chemical behavior of hassium.
+
+Another format of the periodic table will be
+discussed in Section 7.11.
+
+Note from Fig. 2.19 that alternate sets of symbols are used to denote the groups.
+The symbols 1A through 8A are the traditional designations, whereas the numbers
+1 to 18 have been suggested recently. In this text the 1A to 8A designations will
+be used.
+The horizontal rows of elements in the periodic table are called periods. Horizontal
+row 1 is called the first period (it contains H and He); row 2 is called the second period
+(elements Li through Ne); and so on.
+We will learn much more about the periodic table as we continue with our study of
+chemistry. Meanwhile, when an element is introduced in this text, you should always
+note its position on the periodic table.
+
+2.8 Naming Simple Compounds
+When chemistry was an infant science, there was no system for naming compounds.
+Names such as sugar of lead, blue vitrol, quicklime, Epsom salts, milk of magnesia,
+gypsum, and laughing gas were coined by early chemists. Such names are called common names. As chemistry grew, it became clear that using common names for compounds would lead to unacceptable chaos. Nearly 5 million chemical compounds are
+currently known. Memorizing common names for these compounds would be an
+impossible task.
+The solution, of course, is to adopt a system for naming compounds in which the
+name tells something about the composition of the compound. After learning the system, a chemist given a formula should be able to name the compound or, given a name,
+should be able to construct the compound’s formula. In this section we will specify the
+most important rules for naming compounds other than organic compounds (those
+based on chains of carbon atoms).
+We will begin with the systems for naming inorganic binary compounds—
+compounds composed of two elements—which we classify into various types for easier recognition. We will consider both ionic and covalent compounds.
+
+Binary Ionic Compounds (Type I)
+Binary ionic compounds contain a positive ion (cation) always written first in the formula and a negative ion (anion). In naming these compounds, the following rules apply:
+
+Naming Type I Binary Compounds
+A monatomic cation has the same name as
+its parent element.
+
+1. The cation is always named first and the anion second.
+2. A monatomic (meaning “one-atom”) cation takes its name from the name of the element.
+For example, Na1 is called sodium in the names of compounds containing this ion.
+3. A monatomic anion is named by taking the root of the element name and adding -ide.
+Thus the Cl2 ion is called chloride.
+
+Some common monatomic cations and anions and their names are given in Table 2.3.
+The rules for naming binary ionic compounds are illustrated by the following
+examples:
+In formulas of ionic compounds, simple
+ions are represented by the element
+symbol: Cl means Cl2, Na means Na1, and
+so on.
+
+INTERACTIVE EXAMPLE 2.3
+
+Compound
+
+Ions Present
+
+Name
+
+NaCl
+KI
+CaS
+Li3N
+CsBr
+MgO
+
+Na1, Cl2
+K1, I2
+Ca21, S22
+Li1, N32
+Cs1, Br2
+Mg21, O22
+
+Sodium chloride
+Potassium iodide
+Calcium sulfide
+Lithium nitride
+Cesium bromide
+Magnesium oxide
+
+Naming Type I Binary Compounds
+Name each binary compound.
+a. CsF
+b. AlCl3
+c. LiH
+
+SOLUTION
+
+a. CsF is cesium fluoride.
+b. AlCl3 is aluminum chloride.
+c. LiH is lithium hydride.
+Notice that, in each case, the cation is named first and then the anion is named.
+See Exercise 2.75
+
+TABLE 2.3 | Common Monatomic Cations and Anions
+Cation
+
+Anion
+
+Name
+
+Hydrogen
+
+H
+
+Hydride
+
+Lithium
+
+F2
+
+Fluoride
+
+Sodium
+
+Cl
+
+Chloride
+
+Potassium
+
+Br2
+
+Bromide
+
+Cesium
+
+I
+
+Iodide
+
+Be21
+
+Beryllium
+
+O22
+
+Oxide
+
+Magnesium
+
+S
+
+Sulfide
+
+Calcium
+
+N32
+
+Nitride
+
+Barium
+
+H
+
+Li1
+Na
+
+K1
+Cs
+
+Mg
+
+Ca21
+Ba
+
+Al31
+
+Name
+
+P
+
+Phosphide
+
+Aluminum
+
+2.8 Naming Simple Compounds
+
+TABLE 2.4 | Common Type II
+Cations
+Ion
+
+Systematic Name
+
+Fe31
+
+Iron(III)
+
+Iron(II)
+
+Fe
+
+Cu21
+
+Copper(II)
+
+Copper(I)
+
+Co31
+
+Cobalt(III)
+
+Co21
+
+Cobalt(II)
+
+Sn41
+
+Tin(IV)
+
+Sn21
+
+Tin(II)
+
+Pb41
+
+Lead(IV)
+
+Lead(II)
+
+Cu
+
+Pb
+
+Hg21
+Hg2
+
+21*
+
+Ag1
+Zn
+
+Cd21
+
+Mercury(II)
+Mercury(I)
+Silver†
+Zinc†
+Cadmium†
+
+*Note that mercury(I) ions always occur
+bound together to form Hg221 ions.
+†
+Although these are transition metals, they
+form only one type of ion, and a Roman
+numeral is not used.
+
+INTERACTIVE EXAMPLE 2.4
+
+Formulas from Names
+So far we have started with the chemical formula of a compound and decided on its
+systematic name. The reverse process is also important. For example, given the name
+calcium chloride, we can write the formula as CaCl2 because we know that calcium
+forms only Ca21 ions and that, since chloride is Cl2, two of these anions will be
+required to give a neutral compound.
+
+Binary Ionic Compounds (Type II)
+In the binary ionic compounds considered earlier (Type I), the metal present forms
+only a single type of cation. That is, sodium forms only Na1, calcium forms only Ca21,
+and so on. However, as we will see in more detail later in the text, there are many metals that form more than one type of positive ion and thus form more than one type of
+ionic compound with a given anion. For example, the compound FeCl2 contains Fe21
+ions, and the compound FeCl3 contains Fe31 ions. In a case such as this, the charge on
+the metal ion must be specified. The systematic names for these two iron compounds
+are iron(II) chloride and iron(III) chloride, respectively, where the Roman numeral
+indicates the charge of the cation.
+Another system for naming these ionic compounds that is seen in the older literature was used for metals that form only two ions. The ion with the higher charge has a
+name ending in -ic, and the one with the lower charge has a name ending in -ous.
+In this system, for example, Fe31 is called the ferric ion, and Fe21 is called the
+ferrous ion. The names for FeCl3 and FeCl2 are then ferric chloride and ferrous
+chloride, respectively. In this text we will use the system that employs Roman
+numerals. Table 2.4 lists the systematic names for many common type II cations.
+
+Formulas from Names for Type I Binary Compounds
+Given the following systematic names, write the formula for each compound:
+a. potassium iodide
+b. calcium oxide
+c. gallium bromide
+
+SOLUTION
+
+Name
+
+Formula
+
+Comments
+
+a. potassium iodide
+b. calcium oxide
+c. gallium bromide
+
+KI
+CaO
+GaBr3
+
+Contains K1 and I2
+Contains Ca21 and O22
+Contains Ga31 and Br2
+Must have 3Br2 to balance charge of Ga31
+
+See Exercise 2.75
+
+INTERACTIVE EXAMPLE 2.5
+
+Naming Type II Binary Compounds
+1. Give the systematic name for each of the following compounds:
+a. CuCl
+b. HgO
+c. Fe2O3
+2. Given the following systematic names, write the formula for each compound:
+a. Manganese(IV) oxide
+b. Lead(II) chloride
+
+SOLUTION
+Type II binary ionic compounds contain a
+metal that can form more than one type
+of cation.
+A compound must be electrically neutral.
+
+All of these compounds include a metal that can form more than one type of cation. Thus
+we must first determine the charge on each cation. This can be done by recognizing
+that a compound must be electrically neutral; that is, the positive and negative charges
+must exactly balance.
+1. Formula
+
+Name
+
+Comments
+
+a. CuCl
+
+Copper(I)
+chloride
+
+b. HgO
+
+Mercury(II)
+oxide
+Iron(III)
+oxide
+
+Because the anion is Cl2, the cation must
+be Cu1 (for charge balance), which
+requires a Roman numeral I.
+Because the anion is O22, the cation must
+be Hg21 [mercury(II)].
+The three O22 ions carry a total charge
+of 62, so two Fe31 ions [iron(III)] are
+needed to give a 61 charge.
+
+Photo © Cengage Learning.
+All rights reserved.
+
+c. Fe2O3
+
+▲
+Mercury(II) oxide.
+
+2. Name
+
+Formula
+
+Comments
+
+a. Manganese(IV)
+oxide
+
+MnO2
+
+b. Lead(II)
+chloride
+
+PbCl2
+
+Two O22 ions (total charge 42)
+are required by the Mn41 ion
+[manganese(IV)].
+Two Cl2 ions are required by the Pb21
+ion [lead(II)] for charge balance.
+
+See Exercise 2.76
+
+A compound containing a transition metal
+usually requires a Roman numeral in its
+name.
+
+Note that the use of a Roman numeral in a systematic name is required only in cases
+where more than one ionic compound forms between a given pair of elements. This
+case most commonly occurs for compounds containing transition metals, which often
+form more than one cation. Elements that form only one cation do not need to be
+identified by a Roman numeral. Common metals that do not require Roman numerals are the Group 1A elements, which form only 11 ions; the Group 2A elements,
+which form only 21 ions; and aluminum, which forms only Al31. The element silver
+deserves special mention at this point. In virtually all its compounds, silver is found as
+the Ag1 ion. Therefore, although silver is a transition metal (and can potentially form
+ions other than Ag1), silver compounds are usually named without a Roman numeral.
+Thus AgCl is typically called silver chloride rather than silver(I) chloride, although the
+latter name is technically correct. Also, a Roman numeral is not used for zinc compounds, since zinc forms only the Zn21 ion.
+As shown in Example 2.5, when a metal ion is present that forms more than one
+type of cation, the charge on the metal ion must be determined by balancing the positive and negative charges of the compound. To do this you must be able to recognize
+the common cations and anions and know their charges (see Tables 2.3 and 2.5). The
+procedure for naming binary ionic compounds is summarized in Fig. 2.20.
+
+CRITICAL THINKING We can use the periodic table to tell us
+something about the stable ions formed by many atoms. For example, the
+atoms in column 1 always form 11 ions. The transition metals, however, can
+form more than one type of stable ion. What if each transition metal ion
+had only one possible charge? How would the naming of compounds be
+different?
+
+2.8 Naming Simple Compounds
+FIGURE 2.20 Flowchart for naming
+binary ionic compounds.
+
+Does the compound contain
+Type I or Type II cations?
+Type I
+
+Type II
+
+Using the principle of charge
+balance, determine the cation charge.
+
+Name the cation using
+the element name.
+
+Include in the cation name a Roman
+numeral indicating the charge.
+
+Naming Binary Compounds
+
+INTERACTIVE EXAMPLE 2.6
+
+1. Give the systematic name for each of the following compounds:
+a. CoBr2
+b. CaCl2
+c. Al2O3
+2. Given the following systematic names, write the formula for each compound:
+a. Chromium(III) chloride
+b. Gallium iodide
+SOLUTION
+
+Richard Megna/Fundamental Photographs
+© Cengage Learning
+
+1. Formula
+
+▲
+Various chromium compounds dissolved in water. From left to right: CrCl2,
+K2Cr2O7, Cr(NO3)3, CrCl3, K2CrO4.
+
+Name
+
+Comments
+
+a. CoBr2
+
+Cobalt(II)
+bromide
+
+b. CaCl2
+
+Calcium
+chloride
+
+c. Al2O3
+
+Aluminum
+oxide
+
+Cobalt is a transition metal; the compound
+name must have a Roman numeral. The
+two Br2 ions must be balanced by a
+Co21 ion.
+Calcium, an alkaline earth metal, forms
+only the Ca21 ion. A Roman numeral is
+not necessary.
+Aluminum forms only the Al31 ion. A
+Roman numeral is not necessary.
+
+2. Name
+
+Formula
+
+Comments
+
+a. Chromium(III)
+chloride
+
+CrCl3
+
+b. Gallium iodide
+
+GaI3
+
+Chromium(III) indicates that Cr31 is
+present, so 3 Cl2 ions are needed for
+charge balance.
+Gallium always forms 31 ions, so 3 I2
+ions are required for charge balance.
+See Exercises 2.77 and 2.78
+
+The common Type I and Type II ions are summarized in Fig. 2.21. Also shown in
+Fig. 2.21 are the common monatomic ions.
+
+Ionic Compounds with Polyatomic Ions
+Polyatomic ion formulas must be
+memorized.
+
+We have not yet considered ionic compounds that contain polyatomic ions. For example, the compound ammonium nitrate, NH4NO3, contains the polyatomic ions NH41
+and NO32. Polyatomic ions are assigned special names that must be memorized to
+name the compounds containing them. The most important polyatomic ions and their
+names are listed in Table 2.5.
+
+FIGURE 2.21 The common cations
+and anions.
+
+8A
+
+1A
+2A
+
+3A
+
+4A
+
++
+
+Li
+
+5A
+
+6A
+
+7A
+
+3−
+
+2−
+
+O
+
+F−
+
+S2−
+
+Cl−
+
+N
+
+Na+ Mg2+
+
+Al3+
+Cu+ Zn2+ Ga3+
+Cu2+
+
+Cr2+ Mn2+ Fe2+ Co2+
+Cr3+ Mn3+ Fe3+ Co3+
+
+K+ Ca2+
+Rb+ Sr2+
+
+Ag+ Cd2+
+
+Cs+ Ba2+
+
+Hg22+
+2+
+Hg
+
+Common Type I cations
+
+Common Type II cations
+
+Br−
+Sn2+
+Sn4+
+Pb2+
+Pb4+
+
+I−
+
+Common monatomic anions
+
+Note in Table 2.5 that several series of anions contain an atom of a given element
+and different numbers of oxygen atoms. These anions are called oxyanions. When
+there are two members in such a series, the name of the one with the smaller number
+of oxygen atoms ends in -ite and the name of the one with the larger number ends in
+-ate—for example, sulfite (SO322) and sulfate (SO422). When more than two oxyanions make up a series, hypo- (less than) and per- (more than) are used as prefixes to
+name the members of the series with the fewest and the most oxygen atoms, respectively. The best example involves the oxyanions containing chlorine, as shown in
+Table 2.5.
+
+TABLE 2.5 | Common Polyatomic Ions
+Ion
+
+Name
+
+Name
+
+Mercury(I)
+
+CO322
+
+Carbonate
+
+NH41
+
+Ammonium
+
+HCO32
+
+Hydrogen carbonate
+(bicarbonate is a widely
+used common name)
+
+ClO2 or OCl2
+
+Hypochlorite
+
+ClO22
+
+Chlorite
+
+Chlorate
+
+Nitrite
+
+NO32
+
+Nitrate
+
+SO322
+
+Sulfite
+
+SO422
+
+Sulfate
+
+HSO42
+
+Hydrogen sulfate (bisulfate
+is a widely used common
+name)
+
+NO2
+
+OH2
+CN
+
+Hydroxide
+
+PO432
+HPO4
+
+H2PO42
+
+NCS or SCN
+
+INTERACTIVE EXAMPLE 2.7
+
+Ion
+
+Hg221
+
+ClO3
+
+ClO42
+C 2H 3O 2
+
+Perchlorate
+
+MnO42
+
+Acetate
+Permanganate
+
+Cyanide
+
+Cr2O7
+
+Phosphate
+
+CrO422
+
+Chromate
+
+Hydrogen phosphate
+
+O2
+
+Peroxide
+
+Dihydrogen phosphate
+
+C2O422
+
+Oxalate
+
+Thiocyanate
+
+S 2O 3
+
+Thiosulfate
+
+Dichromate
+
+Naming Compounds Containing Polyatomic Ions
+1. Give the systematic name for each of the following compounds:
+a. Na2SO4
+d. Mn(OH)2
+b. KH2PO4
+e. Na2SO3
+c. Fe(NO3)3
+f. Na2CO3
+
+2.8 Naming Simple Compounds
+
+2. Given the following systematic names, write the formula for each compound:
+a. Sodium hydrogen carbonate
+d. Sodium selenate
+b. Cesium perchlorate
+e. Potassium bromate
+c. Sodium hypochlorite
+SOLUTION
+
+1. Formula
+a. Na2SO4
+b. KH2PO4
+
+c. Fe(NO3)3
+
+Name
+
+Comments
+
+Sodium sulfate
+Potassium
+dihydrogen
+phosphate
+Iron(III) nitrate
+
+d. Mn(OH)2
+
+Manganese(II)
+hydroxide
+
+e. Na2SO3
+f. Na2CO3
+
+Sodium sulfite
+Sodium carbonate
+
+2. Name
+a. Sodium hydrogen
+carbonate
+b. Cesium
+perchlorate
+c. Sodium
+hypochlorite
+d. Sodium selenate
+e. Potassium
+bromate
+
+Transition metal—name must contain
+a Roman numeral. The Fe31 ion
+balances three NO32 ions.
+Transition metal—name must contain
+a Roman numeral. The Mn21 ion
+balances three OH2 ions.
+
+Formula
+
+Comments
+
+NaHCO3
+
+Often called sodium bicarbonate.
+
+CsClO4
+NaOCl
+Na2SeO4
+KBrO3
+
+Atoms in the same group, like sulfur and
+selenium, often form similar ions that
+are named similarly. Thus SeO422 is
+selenate, like SO42– (sulfate).
+As above, BrO32 is bromate, like
+ClO32 (chlorate).
+See Exercises 2.79 and 2.80
+
+Binary Covalent Compounds (Type III)
+In binary covalent compounds, the element
+names follow the same rules as for binary
+ionic compounds.
+
+Binary covalent compounds are formed between two nonmetals. Although these compounds do not contain ions, they are named very similarly to binary ionic compounds.
+
+Naming Binary Covalent Compounds
+1. The first element in the formula is named first, using the full element name.
+2. The second element is named as if it were an anion.
+3. Prefixes are used to denote the numbers of atoms present. These prefixes are given in
+Table 2.6.
+4. The prefix mono- is never used for naming the first element. For example, CO is called
+carbon monoxide, not monocarbon monoxide.
+
+TABLE 2.6 | Prefixes Used to
+Indicate Number
+in Chemical Names
+Prefix
+
+Number Indicated
+
+mono-
+
+di-
+
+tri-
+
+tetra-
+
+penta-
+
+hexa-
+
+hepta-
+
+octa-
+
+nona-
+
+deca-
+
+INTERACTIVE EXAMPLE 2.8
+
+To see how these rules apply, we will now consider the names of the several covalent compounds formed by nitrogen and oxygen:
+Compound
+
+Systematic Name
+
+Common Name
+
+N2O
+NO
+NO2
+N2O3
+N2O4
+N2O5
+
+Dinitrogen monoxide
+Nitrogen monoxide
+Nitrogen dioxide
+Dinitrogen trioxide
+Dinitrogen tetroxide
+Dinitrogen pentoxide
+
+Nitrous oxide
+Nitric oxide
+
+Notice from the preceding examples that to avoid awkward pronunciations, we
+often drop the final o or a of the prefix when the element begins with a vowel. For
+example, N2O4 is called dinitrogen tetroxide, not dinitrogen tetraoxide, and CO is
+called carbon monoxide, not carbon monooxide.
+Some compounds are always referred to by their common names. Three examples
+are water, ammonia, and hydrogen peroxide. The systematic names for H2O, NH3, and
+H2O2 are never used.
+
+Naming Type III Binary Compounds
+1. Name each of the following compounds:
+a. PCl5
+b. PCl3
+c. SO2
+2. From the following systematic names, write the formula for each compound:
+a. Sulfur hexafluoride
+b. Sulfur trioxide
+c. Carbon dioxide
+
+SOLUTION
+
+1. Formula
+a. PCl5
+b. PCl3
+c. SO2
+2. Name
+a. Sulfur hexafluoride
+b. Sulfur trioxide
+c. Carbon dioxide
+
+Name
+Phosphorus pentachloride
+Phosphorus trichloride
+Sulfur dioxide
+Formula
+SF6
+SO3
+CO2
+
+See Exercises 2.81 and 2.82
+
+The rules for naming binary compounds are summarized in Fig. 2.22. Prefixes
+to indicate the number of atoms are used only in Type III binary compounds (those
+containing two nonmetals). An overall strategy for naming compounds is given in
+Fig. 2.23.
+
+2.8 Naming Simple Compounds
+Binary compound?
+
+Yes
+
+Metal present?
+
+No
+
+Yes
+
+Type III:
+Use prefixes.
+
+Does the metal form
+more than one cation?
+
+No
+
+Yes
+
+Type II:
+Determine the charge
+of the cation; use a Roman
+numeral after the element
+name for the cation.
+
+Type I:
+Use the element
+name for the cation.
+
+FIGURE 2.22 A flowchart for naming binary compounds.
+
+Binary compound?
+
+No
+
+Yes
+Use the strategy
+summarized
+in Figure 2.22.
+
+Polyatomic ion
+or ions present?
+
+No
+
+This is a compound
+for which naming
+procedures have not
+yet been considered.
+
+Yes
+
+Name the compound
+using procedures similar
+to those for naming
+binary ionic compounds.
+
+FIGURE 2.23 Overall strategy for naming chemical compounds.
+INTERACTIVE EXAMPLE 2.9
+
+Naming Various Types of Compounds
+1. Give the systematic name for each of the following compounds:
+a. P4O10
+b. Nb2O5
+c. Li2O2
+d. Ti(NO3)4
+2. Given the following systematic names, write the formula for each compound:
+a. Vanadium(V) fluoride
+b. Dioxygen difluoride
+c. Rubidium peroxide
+d. Gallium oxide
+
+SOLUTION
+
+1. Compound
+
+Name
+
+Comments
+
+a. P4O10
+
+Tetraphosphorus
+decaoxide
+
+b. Nb2O5
+
+Niobium(V)
+oxide
+
+c. Li2O2
+
+Lithium
+peroxide
+Titanium(IV)
+nitrate
+
+Binary covalent compound (Type III),
+so prefixes are used. The a in decais sometimes dropped.
+Type II binary compound containing
+Nb51 and O22 ions. Niobium is
+a transition metal and requires a
+Roman numeral.
+Type I binary compound containing the
+Li1 and O222 (peroxide) ions.
+Not a binary compound. Contains
+the Ti41 and NO32 ions. Titanium
+is a transition metal and requires a
+Roman numeral.
+
+d. Ti(NO3)4
+
+2. Name
+
+Chemical
+Formula
+
+a. Vanadium(V)
+fluoride
+
+VF5
+
+b. Dioxygen
+difluoride
+c. Rubidium
+peroxide
+
+O2F2
+
+d. Gallium oxide
+
+Ga2O3
+
+Rb2O2
+
+Comments
+The compound contains V51 ions and
+requires five F2 ions for charge
+balance.
+The prefix di- indicates two of each
+atom.
+Because rubidium is in Group 1A,
+it forms only 11 ions. Thus two
+Rb1 ions are needed to balance the
+22 charge on the peroxide ion (O222).
+Because gallium is in Group 3A,
+like aluminum, it forms only 31
+ions. Two Ga31 ions are required
+to balance the charge on three
+O22 ions.
+See Exercises 2.83, 2.87, and 2.88
+
+Acids
+Acids can be recognized by the hydrogen
+that appears first in the formula.
+
+When dissolved in water, certain molecules produce a solution containing free H1 ions
+(protons). These substances, acids, will be discussed in detail in Chapters 4, 14,
+and 15. Here we will simply present the rules for naming acids.
+An acid is a molecule in which one or more H1 ions are attached to an anion. The
+rules for naming acids depend on whether the anion contains oxygen. If the name
+of the anion ends in -ide, the acid is named with the prefix hydro- and the suffix -ic.
+For example, when gaseous HCl is dissolved in water, it forms hydrochloric acid.
+Similarly, HCN and H2S dissolved in water are called hydrocyanic and hydrosulfuric acids, respectively.
+When the anion contains oxygen, the acidic name is formed from the root name of
+the anion with a suffix of -ic or -ous, depending on the name of the anion.
+1. If the anion name ends in -ate, the suffix -ic is added to the root name. For
+example, H2SO4 contains the sulfate anion (SO422) and is called sulfuric acid;
+H3PO4 contains the phosphate anion (PO432) and is called phosphoric acid; and
+HC2H3O2 contains the acetate ion (C2H3O22) and is called acetic acid.
+
+2.8 Naming Simple Compounds
+
+TABLE 2.7 | Names of Acids*
+
+TABLE 2.8 | Names of Some
+
+That Do Not
+Contain Oxygen
+
+Oxygen-Containing
+Acids
+
+Acid
+
+Name
+
+Acid
+
+Name
+
+HF
+
+Hydrofluoric acid
+
+HNO3
+
+Nitric acid
+
+HCl
+
+Hydrochloric acid
+
+HNO2
+
+Nitrous acid
+
+HBr
+
+Hydrobromic acid
+
+H2SO4
+
+Sulfuric acid
+
+HI
+
+Hydroiodic acid
+
+H2SO3
+
+Sulfurous acid
+
+HCN
+
+Hydrocyanic acid
+
+H3PO4
+
+Phosphoric acid
+
+H 2S
+
+Hydrosulfuric acid
+
+HC2H3O2
+
+Acetic acid
+
+*Note that these acids are aqueous
+solutions containing these substances.
+
+2. If the anion has an -ite ending, the -ite is replaced by -ous. For example, H2SO3,
+which contains sulfite (SO322), is named sulfurous acid; and HNO2, which contains nitrite (NO22), is named nitrous acid.
+The application of these rules can be seen in the names of the acids of the oxyanions
+of chlorine:
+Acid
+
+Anion
+
+Name
+
+HClO4
+HClO3
+HClO2
+HClO
+
+Perchlorate
+Chlorate
+Chlorite
+Hypochlorite
+
+Perchloric acid
+Chloric acid
+Chlorous acid
+Hypochlorous acid
+
+The names of the most important acids are given in Tables 2.7 and 2.8. An overall
+strategy for naming acids is shown in Fig. 2.24.
+CRITICAL THINKING In this chapter, you have learned a
+systematic way to name chemical compounds. What if all compounds had only
+common names? What problems would this cause?
+
+Does the anion contain oxygen?
+
+No
+
+hydro+ anion root
++ -ic
+hydro(anion root)ic acid
+
+Yes
+
+Check the ending
+of the anion.
+
+-ite
+
+FIGURE 2.24 A flowchart for
+naming acids. An acid is best considered
+as one or more H1 ions attached to an
+anion.
+
+anion or element root
++ -ous
+(root)ous acid
+
+-ate
+
+anion or element root
++ -ic
+(root)ic acid
+
+For Review
+Key terms
+
+Fundamental laws
+
+Section 2.2
+
+❯
+
+law of conservation of mass
+law of definite proportion
+law of multiple proportions
+
+❯
+
+Section 2.3
+
+Dalton’s atomic theory
+
+atomic masses
+atomic weights
+Avogadro’s hypothesis
+
+❯
+
+Section 2.4
+
+cathode-ray tubes
+electrons
+radioactivity
+nuclear atom
+nucleus
+
+❯
+
+❯
+❯
+❯
+
+All elements are composed of atoms.
+All atoms of a given element are identical.
+Chemical compounds are formed when atoms combine.
+Atoms are not changed in chemical reactions, but the way they are bound together changes.
+
+Early atomic experiments and models
+❯
+❯
+
+Section 2.5
+
+❯
+
+proton
+neutron
+isotopes
+atomic number
+mass number
+
+❯
+
+Thomson model
+Millikan experiment
+Rutherford experiment
+Nuclear model
+
+Atomic structure
+❯
+
+Small, dense nucleus contains protons and neutrons.
+Protons—positive charge
+❯ Neutrons—no charge
+Electrons reside outside the nucleus in the relatively large remaining atomic volume.
+❯ Electrons—negative charge, small mass (1y1840 of proton)
+Isotopes have the same atomic number but different mass numbers.
+❯
+
+Section 2.6
+
+chemical bond
+covalent bond
+molecule
+chemical formula
+structural formula
+space-filling model
+ball-and-stick model
+ion
+cation
+anion
+ionic bond
+ionic solid
+polyatomic ion
+
+Conservation of mass
+Definite proportion
+Multiple proportions
+
+❯
+❯
+
+Atoms combine to form molecules by sharing electrons to form
+covalent bonds.
+❯
+❯
+
+Molecules are described by chemical formulas.
+Chemical formulas show number and type of atoms.
+❯ Structural formula
+❯ Ball-and-stick model
+❯ Space-filling model
+
+Formation of ions
+❯
+❯
+❯
+
+Cation—formed by loss of an electron, positive charge
+Anion—formed by gain of an electron, negative charge
+Ionic bonds—formed by interaction of cations and anions
+
+For Review
+
+Key terms
+Section 2.7
+
+periodic table
+metal
+nonmetal
+group (family)
+alkali metals
+alkaline earth metals
+halogens
+noble gases
+period
+
+The periodic table organizes elements in order of increasing
+atomic number.
+❯
+❯
+❯
+
+Elements with similar properties are in columns, or groups.
+Metals are in the majority and tend to form cations.
+Nonmetals tend to form anions.
+
+Compounds are named using a system of rules depending on the
+type of compound.
+❯
+
+Binary compounds
+Type I—contain a metal that always forms the same cation
+❯ Type II—contain a metal that can form more than one cation
+❯ Type III—contain two nonmetals
+Compounds containing a polyatomic ion
+❯
+
+Section 2.8
+
+binary compounds
+binary ionic compounds
+oxyanions
+binary covalent compounds
+acid
+
+❯
+
+Review Questions Answers to the Review Questions can be found on the Student website (accessible from www.cengagebrain.com).
+1. Use Dalton’s atomic theory to account for each of the
+following.
+a. the law of conservation of mass
+b. the law of definite proportion
+c. the law of multiple proportions
+2. What evidence led to the conclusion that cathode rays
+had a negative charge?
+3. What discoveries were made by J. J. Thomson, Henri
+Becquerel, and Lord Rutherford? How did Dalton’s
+model of the atom have to be modified to account for
+these discoveries?
+4. Consider Ernest Rutherford’s a-particle bombardment
+experiment illustrated in Fig. 2.12. How did the
+results of this experiment lead Rutherford away from
+the plum pudding model of the atom to propose the
+nuclear model of the atom?
+5. Do the proton and the neutron have exactly the same
+mass? How do the masses of the proton and neutron
+compare to the mass of the electron? Which particles
+make the greatest contribution to the mass of an atom?
+
+Active Learning Questions
+These questions are designed to be used by groups of students in
+class.
+1. Which of the following is true about an individual atom?
+Explain.
+a. An individual atom should be considered to be a solid.
+b. An individual atom should be considered to be a liquid.
+c. An individual atom should be considered to be a gas.
+
+Which particles make the greatest contribution to the
+chemical properties of an atom?
+6. What is the distinction between atomic number and
+mass number? Between mass number and atomic mass?
+7. Distinguish between the terms family and period in
+connection with the periodic table. For which of these
+terms is the term group also used?
+8. The compounds AlCl3, CrCl3, and ICl3 have similar
+formulas, yet each follows a different set of rules to
+name it. Name these compounds, and then compare and
+contrast the nomenclature rules used in each case.
+9. When metals react with nonmetals, an ionic compound
+generally results. What is the predicted general formula
+for the compound formed between an alkali metal and
+sulfur? Between an alkaline earth metal and nitrogen?
+Between aluminum and a halogen?
+10. How would you name HBrO4, KIO3, NaBrO2, and
+HIO? Refer to Table 2.5 and the acid nomenclature
+discussion in the text.
+
+d. The state of the atom depends on which element it is.
+e. An individual atom cannot be considered to be a solid,
+liquid, or gas.
+Justify your choice, and for choices you did not pick, explain
+what is wrong with them.
+2. How would you go about finding the number of “chalk molecules” it takes to write your name on the board? Provide
+an explanation of all you would need to do and a sample
+calculation.
+
+3. These questions concern the work of J. J. Thomson.
+a. From Thomson’s work, which particles do you think he
+would feel are most important for the formation of compounds (chemical changes) and why?
+b. Of the remaining two subatomic particles, which do
+you place second in importance for forming compounds
+and why?
+c. Propose three models that explain Thomson’s findings
+and evaluate them. To be complete you should include
+Thomson’s findings.
+4. Heat is applied to an ice cube in a closed container until only
+steam is present. Draw a representation of this process, assuming you can see it at an extremely high level of magnification.
+What happens to the size of the molecules? What happens to
+the total mass of the sample?
+5. You have a chemical in a sealed glass container filled with air.
+The setup is sitting on a balance as shown below. The chemical is ignited by means of a magnifying glass focusing sunlight on the reactant. After the chemical has completely
+burned, which of the following is true? Explain your answer.
+
+250.0 g
+
+a. The balance will read less than 250.0 g.
+b. The balance will read 250.0 g.
+c. The balance will read greater than 250.0 g.
+d. Cannot be determined without knowing the identity of the
+chemical.
+6. The formula of water is H2O. Which of the following is indicated by this formula? Explain your answer.
+a. The mass of hydrogen is twice that of oxygen in each
+molecule.
+b. There are two hydrogen atoms and one oxygen atom per
+water molecule.
+c. The mass of oxygen is twice that of hydrogen in each
+molecule.
+d. There are two oxygen atoms and one hydrogen atom per
+water molecule.
+7. You may have noticed that when water boils, you can see bubbles that rise to the surface of the water. Which of the following is inside these bubbles? Explain.
+a. air
+b. hydrogen and oxygen gas
+c. oxygen gas
+d. water vapor
+e. carbon dioxide gas
+8. One of the best indications of a useful theory is that it raises
+more questions for further experimentation than it originally
+answered. Does this apply to Dalton’s atomic theory? Give
+examples.
+
+9. Dalton assumed that all atoms of the same element were identical in all their properties. Explain why this assumption is not
+valid.
+10. Label each of the following as an atomic element, a molecular
+element, or a compound.
+a
+
+e
+
+b
+
+f
+
+c
+
+g
+
+d
+
+11. Why is the term “sodium chloride molecule” incorrect
+whereas the term “carbon dioxide molecule” is correct?
+12. Evaluate each of the following as an acceptable name for
+water:
+a. dihydrogen oxide
+b. hydroxide hydride
+c. hydrogen hydroxide
+d. oxygen dihydride
+13. Why do we call Ba(NO3)2 barium nitrate, but we call Fe(NO3)2
+iron(II) nitrate?
+14. Why is calcium dichloride not the correct systematic name for
+CaCl2?
+15. The common name for NH3 is ammonia. What would be the
+systematic name for NH3? Support your answer.
+16. Which (if any) of the following can be determined by knowing
+the number of protons in a neutral element? Explain your
+answer.
+a. the number of neutrons in the neutral element
+b. the number of electrons in the neutral element
+c. the name of the element
+17. Which of the following explain how an ion is formed? Explain
+your answer.
+a. adding or subtracting protons to/from an atom
+b. adding or subtracting neutrons to/from an atom
+c. adding or subtracting electrons to/from an atom
+A blue question or exercise number indicates that the answer to
+that question or exercise appears at the back of this book and a
+solution appears in the Solutions Guide, as found on the Instructor
+Companion Site.
+
+Questions
+18. What refinements had to be made in Dalton’s atomic theory to
+account for Gay-Lussac’s results on the combining volumes of
+gases?
+19. When hydrogen is burned in oxygen to form water, the composition of water formed does not depend on the amount of oxygen
+reacted. Interpret this in terms of the law of definite proportion.
+20. The two most reactive families of elements are the halogens
+and the alkali metals. How do they differ in their reactivities?
+21. Explain the law of conservation of mass, the law of definite
+proportion, and the law of multiple proportions.
+
+For Review
+
+22. Section 2.3 describes the postulates of Dalton’s atomic theory.
+With some modifications, these postulates hold up very well
+regarding how we view elements, compounds, and chemical
+reactions today. Answer the following questions concerning
+Dalton’s atomic theory and the modifications made today.
+a. The atom can be broken down into smaller parts. What
+are the smaller parts?
+b. How are atoms of hydrogen identical to each other, and
+how can they be different from each other?
+c. How are atoms of hydrogen different from atoms of
+helium? How can H atoms be similar to He atoms?
+d. How is water different from hydrogen peroxide (H2O2)
+even though both compounds are composed of only
+hydrogen and oxygen?
+e. What happens in a chemical reaction, and why is mass
+conserved in a chemical reaction?
+23. The contributions of J. J. Thomson and Ernest Rutherford led
+the way to today’s understanding of the structure of the atom.
+What were their contributions?
+24. What is the modern view of the structure of the atom?
+25. The number of protons in an atom determines the identity of
+the atom. What does the number and arrangement of the electrons in an atom determine? What does the number of neutrons in an atom determine?
+26. If the volume of a proton were similar to the volume of an
+electron, how will the densities of these two particles compare
+to each other?
+27. For lighter, stable isotopes, the ratio of the mass number to the
+atomic number is close to a certain value. What is the value?
+What happens to the value of the mass number to atomic number ratio as stable isotopes become heavier?
+28. List some characteristic properties that distinguish the metallic elements from the nonmetallic elements.
+29. Consider the elements of Group 4A (the “carbon family”):
+C, Si, Ge, Sn, and Pb. What is the trend in metallic character as
+one goes down this group? What is the trend in metallic character going from left to right across a period in the periodic table?
+30. Chlorine has two natural isotopes: 37
+17 Cl and 17 Cl. Hydrogen
+reacts with chlorine to form the compound HCl. Would a
+given amount of hydrogen react with different masses of the
+two chlorine isotopes? Does this conflict with the law of definite proportion? Why or why not?
+31. Before an electrocardiogram (ECG) is recorded for a cardiac
+patient, the ECG leads are usually coated with a moist paste
+containing sodium chloride. Why is sodium chloride applied
+to the leads?
+32. Distinguish between the following terms.
+a. molecule versus ion
+b. covalent bonding versus ionic bonding
+c. molecule versus compound
+d. anion versus cation
+33. Label the type of bonding for each of the following.
+a.
+b.
+
+34. The vitamin niacin (nicotinic acid, C6H5NO2) can be isolated
+from a variety of natural sources such as liver, yeast, milk, and
+whole grain. It also can be synthesized from commercially
+available materials. From a nutritional point of view, which
+source of nicotinic acid is best for use in a multivitamin tablet? Why?
+35. Which of the following statements is(are) true? For the false
+statements, correct them.
+a. Most of the known elements are metals.
+b. Element 118 should be a nonmetal.
+c. Hydrogen has mostly metallic properties.
+d. A family of elements is also known as a period of
+elements.
+e. When an alkaline earth metal, A, reacts with a halogen, X,
+the formula of the covalent compound formed should
+be A2X.
+36. Each of the following compounds has three possible names
+listed for it. For each compound, what is the correct name and
+why aren’t the other names used?
+a. N2O: nitrogen oxide, nitrogen(I) oxide, dinitrogen
+monoxide
+b. Cu2O: copper oxide, copper(I) oxide, dicopper monoxide
+c. Li2O: lithium oxide, lithium(I) oxide, dilithium monoxide
+
+Exercises
+In this section similar exercises are paired.
+
+Development of the Atomic Theory
+37. When mixtures of gaseous H2 and gaseous Cl2 react, a product
+forms that has the same properties regardless of the relative
+amounts of H2 and Cl2 used.
+a. How is this result interpreted in terms of the law of definite proportion?
+b. When a volume of H2 reacts with an equal volume of Cl2
+at the same temperature and pressure, what volume of
+product having the formula HCl is formed?
+38. Observations of the reaction between nitrogen gas and hydrogen gas show us that 1 volume of nitrogen reacts with 3 volumes of hydrogen to make 2 volumes of gaseous product, as
+shown below:
+
+N N
+
++
+
+HH HH HH
+
+Determine the formula of the product and justify your answer.
+39. A sample of chloroform is found to contain 12.0 g of carbon,
+106.4 g of chlorine, and 1.01 g of hydrogen. If a second sample of chloroform is found to contain 30.0 g of carbon, what is
+the total mass of chloroform in the second sample?
+40. A sample of H2SO4 contains 2.02 g of hydrogen, 32.07 g of
+sulfur, and 64.00 g of oxygen. How many grams of sulfur and
+grams of oxygen are present in a second sample of H2SO4 containing 7.27 g of hydrogen?
+
+67a
+
+41. Consider 80.0-g samples of two different compounds consisting of only carbon and oxygen. One of the compounds
+consists of 21.8 g of carbon, and the other has 34.3 g of carbon. Determine the ratio in whole numbers of the masses of
+carbon that combine with 1.00 g of oxygen between the two
+compounds.
+42. Several compounds containing sulfur and fluorine are known.
+Three of them have the following compositions:
+i. 1.188 g of F for every 1.000 g of S
+ii. 2.375 g of F for every 1.000 g of S
+iii. 3.563 g of F for every 1.000 g of S
+How do these data illustrate the law of multiple proportions?
+43. The three most stable oxides of carbon are carbon monoxide
+(CO), carbon dioxide (CO2), and carbon suboxide (C3O2). The
+molecules can be represented as
+
+Explain how these molecules illustrate the law of multiple
+proportions.
+44. Two elements, R and Q, combine to form two binary compounds. In the first compound, 14.0 g of R combines with
+3.00 g of Q. In the second compound, 7.00 g of R combines
+with 4.50 g of Q. Show that these data are in accord with the
+law of multiple proportions. If the formula of the second compound is RQ, what is the formula of the first compound?
+45. In Section 1.1 of the text, the concept of a chemical reaction
+was introduced with the example of the decomposition of
+water, represented as follows:
+
+two water
+molecules
+written 2H2O
+
+one oxygen molecule
+written O2
+electric
+current
+
+two hydrogen molecules
+written 2H2
+
+Use ideas from Dalton’s atomic theory to explain how the above
+representation illustrates the law of conservation of mass.
+46. In a combustion reaction, 46.0 g of ethanol reacts with 96.0 g
+of oxygen to produce water and carbon dioxide. If 54.0 g of
+water is produced, what mass of carbon dioxide is produced?
+47. Early tables of atomic weights (masses) were generated by
+measuring the mass of a substance that reacts with 1.00 g of
+oxygen. Given the following data and taking the atomic mass
+of hydrogen as 1.00, generate a table of relative atomic masses
+for oxygen, sodium, and magnesium.
+
+Element
+
+Mass That Combines
+with 1.00 g Oxygen
+
+Assumed
+Formula
+
+Hydrogen
+
+0.126 g
+
+HO
+
+Sodium
+
+2.875 g
+
+NaO
+
+Magnesium
+
+1.500 g
+
+MgO
+
+How do your values compare with those in the periodic table?
+How do you account for any differences?
+
+48. Indium oxide contains 4.784 g of indium for every 1.000 g of
+oxygen. In 1869, when Mendeleev first presented his version
+of the periodic table, he proposed the formula In2O3 for indium
+oxide. Before that time it was thought that the formula was
+InO. What values for the atomic mass of indium are obtained
+using these two formulas? Assume that oxygen has an atomic
+mass of 16.00.
+
+The Nature of the Atom
+49. From the information in this chapter on the mass of the proton,
+the mass of the electron, and the sizes of the nucleus and the
+atom, calculate the densities of a hydrogen nucleus and a
+hydrogen atom.
+50. If you wanted to make an accurate scale model of the hydrogen atom and decided that the nucleus would have a diameter
+of 1 mm, what would be the diameter of the entire model?
+51. In an experiment it was found that the total charge on an oil
+drop was 5.93 3 10218 C. How many negative charges does
+the drop contain?
+52. A chemist in a galaxy far, far away performed the Millikan oil
+drop experiment and got the following results for the charges
+on various drops. Use these data to calculate the charge of the
+electron in zirkombs.
+2.56 3 10212 zirkombs
+3.84 3 10212 zirkombs
+
+7.68 3 10212 zirkombs
+6.40 3 10213 zirkombs
+
+53. Give the names of the metals that correspond to the following
+symbols: Sn, Pt, Hg, Mg, K, Ag.
+54. What are the symbols of the following nonmetals: fluorine,
+chlorine, bromine, sulfur, oxygen, phosphorus?
+55. In the periodic table, how many elements are found in each of
+the following?
+a. Group 2A
+b. the oxygen family
+c. the nickel group
+d. Group 8A
+56. In the periodic table, how many elements are found in each of
+the following?
+a. the halogen family
+b. the alkali family
+c. the lanthanide series
+d. transition metals
+57. a. Classify the following elements as metals or nonmetals:
+Rn
+Si
+Mg
+Eu
+Ge
+Ti
+Am
+B
+Au
+Br
+At
+Bi
+b. The distinction between metals and nonmetals is really
+not a clear one. Some elements, called metalloids, are
+intermediate in their properties. Which of these elements
+would you reclassify as metalloids? What other elements
+in the periodic table would you expect to be metalloids?
+58. a. List the noble gas elements. Which of the noble gases has
+only radioactive isotopes? (This situation is indicated on
+most periodic tables by parentheses around the mass of the
+element. See inside front cover.)
+b. Which lanthanide element has only radioactive isotopes?
+
+For Review
+
+59. For each of the following sets of elements, label each as either
+noble gases, halogens, alkali metals, alkaline earth metals, or
+transition metals.
+d. Ne, Kr, Xe
+a. Ti, Fe, Ag
+e. F, Br, I
+b. Mg, Sr, Ba
+c. Li, K, Rb
+60. Identify the elements that correspond to the following atomic
+numbers. Label each as either a noble gas, a halogen, an alkali
+metal, an alkaline earth metal, a transition metal, a lanthanide
+metal, or an actinide metal.
+e. 2
+a. 17
+f. 92
+b. 4
+g. 55
+c. 63
+d. 72
+61. Write the atomic symbol ( AZX) for each of the following
+isotopes.
+a. Z 5 8, number of neutrons 5 9
+b. the isotope of chlorine in which A 5 37
+c. Z 5 27, A 5 60
+d. number of protons 5 26, number of neutrons 5 31
+e. the isotope of I with a mass number of 131
+f. Z 5 3, number of neutrons 5 4
+62. Write the atomic symbol ( AZX) for each of the isotopes
+described below.
+a. number of protons 5 27, number of neutrons 5 31
+b. the isotope of boron with mass number 10
+c. Z 5 12, A 5 23
+d. atomic number 53, number of neutrons 5 79
+e. Z 5 20, number of neutrons 5 27
+f. number of protons 5 29, mass number 65
+63. Write the symbol of each atom using the ZAX format.
+Nucleus
+11 protons
+12 neutrons
+
+67b
+
+Nucleus
+8 protons
+8 neutrons
+
+8 electrons
+
+c.
+
+64. For carbon-14 and carbon-12, how many protons and neutrons
+are in each nucleus? Assuming neutral atoms, how many electrons are present in an atom of carbon-14 and in an atom of
+carbon-12?
+65. How many protons and neutrons are in the nucleus of each of
+the following atoms? In a neutral atom of each element, how
+many electrons are present?
+a. 79Br
+c. 239Pu
+e. 3H
+b. Br
+d.
+f. 56Fe
+Cs
+66. What number of protons and neutrons are contained in the
+nucleus of each of the following atoms? Assuming each atom
+is uncharged, what number of electrons are present?
+a. 235
+c. 57
+e. 86
+92U
+26Fe
+37Rb
+b. 27
+d.
+f.
+13Al
+82Pb
+20Ca
+67. For each of the following ions, indicate the number of protons
+and electrons the ion contains.
+a. Ba21
+d. Rb1
+f. Te22
+b. Zn
+e. Co
+g. Br2
+c. N
+68. How many protons, neutrons, and electrons are in each of the
+following atoms or ions?
+a. 24
+g. 79
+d. 59
+12Mg
+27Co
+34Se
+b. 12Mg
+e. 27Co
+h. 28Ni
+f. 79
+i. 59
+c. 59
+27Co
+34Se
+28Ni
+69. What is the symbol for an ion with 63 protons, 60 electrons,
+and 88 neutrons? If an ion contains 50 protons, 68 neutrons,
+and 48 electrons, what is its symbol?
+70. What is the symbol of an ion with 16 protons, 18 neutrons, and
+18 electrons? What is the symbol for an ion that has 16 protons, 16 neutrons, and 18 electrons?
+
+a.
+
+10 electrons
+
+71. Complete the following table:
+
+Nucleus
+9 protons
+10 neutrons
+
+Symbol
+
+Number
+of Protons
+in Nucleus
+
+Number of
+Neutrons
+in Nucleus
+
+Number of
+Electrons
+
+Net
+Charge
+
+92 U
+
+39 Y
+
+b.
+
+11 electrons
+
+67c
+
+72. Complete the following table:
+
+Symbol
+
+81. Name each of the following compounds:
+a.
+O
+
+Number
+of Protons
+in Nucleus
+
+Number of
+Neutrons
+in Nucleus
+
+Number of
+Electrons
+
+Net
+Charge
+
+26 Fe
+
+N
+
+b.
+
+73. Would you expect each of the following atoms to gain or lose
+electrons when forming ions? What ion is the most likely in
+each case?
+a. Ra
+c. P
+e. Br
+b. In
+d. Te
+f. Rb
+74. For each of the following atomic numbers, use the periodic
+table to write the formula (including the charge) for the simple
+ion that the element is most likely to form in ionic
+compounds.
+a. 13
+c. 56
+e. 87
+b. 34
+d. 7
+f. 35
+
+Nomenclature
+75. Name the compounds in parts a–d and write the formulas for
+the compounds in parts e–h.
+a. NaBr
+e. strontium fluoride
+b. Rb2O
+f. aluminum selenide
+g. potassium nitride
+c. CaS
+h. magnesium phosphide
+d. AlI3
+76. Name the compounds in parts a–d and write the formulas for
+the compounds in parts e–h.
+a. Hg2O
+e. tin(II) nitride
+b. FeBr3
+f. cobalt(III) iodide
+g. mercury(II) oxide
+c. CoS
+h. chromium(VI) sulfide
+d. TiCl4
+77. Name each of the following compounds:
+a. CsF
+d. MnO2
+b. Li3N
+e. TiO2
+c. Ag2S
+f. Sr3P2
+78. Write the formula for each of the following compounds:
+d. aluminum sulfide
+a. zinc chloride
+e. mercury(I) selenide
+b. tin(IV) fluoride
+f. silver iodide
+c. calcium nitride
+79. Name each of the following compounds:
+a. BaSO3
+c. KMnO4
+b. NaNO2
+d. K2Cr2O7
+80. Write the formula for each of the following compounds:
+a. chromium(III) hydroxide
+c. lead(IV) carbonate
+b. magnesium cyanide
+d. ammonium acetate
+
+I
+Cl
+
+c. SO2
+d. P2S5
+82. Write the formula for each of the following compounds:
+a. diboron trioxide
+b. arsenic pentafluoride
+c. dinitrogen monoxide
+d. sulfur hexachloride
+83. Name each of the following compounds:
+a. CuI
+f. S4N4
+b. CuI2
+g. SeCl4
+c. CoI2
+h. NaOCl
+i. BaCrO4
+d. Na2CO3
+e. NaHCO3
+j. NH4NO3
+84. Name each of the following compounds. Assume the acids are
+dissolved in water.
+a. HC2H3O2
+g. H2SO4
+b. NH4NO2
+h. Sr3N2
+c. Co2S3
+i. Al2(SO3)3
+d. ICl
+j. SnO2
+e. Pb3(PO4)2
+k. Na2CrO4
+f. KClO3
+l. HClO
+85. Elements in the same family often form oxyanions of the same
+general formula. The anions are named in a similar fashion.
+What are the names of the oxyanions of selenium and tellurium: SeO422, SeO322, TeO422, TeO322?
+86. Knowing the names of similar chlorine oxyanions and acids,
+deduce the names of the following: IO2, IO22, IO32, IO42,
+HIO, HIO2, HIO3, HIO4.
+87. Write the formula for each of the following compounds:
+a. sulfur difluoride
+b. sulfur hexafluoride
+c. sodium dihydrogen phosphate
+d. lithium nitride
+e. chromium(III) carbonate
+f. tin(II) fluoride
+g. ammonium acetate
+h. ammonium hydrogen sulfate
+i. cobalt(III) nitrate
+j. mercury(I) chloride
+k. potassium chlorate
+l. sodium hydride
+

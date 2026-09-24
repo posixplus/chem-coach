@@ -1,0 +1,3329 @@
+CHAPTER
+
+A high-performance race car uses chemistry for its structure, tires, and fuel.
+(© Maria Green/Alamy)
+
+Chemical Foundations
+1.1
+
+Chemistry: An Overview
+Science: A Process for
+Understanding Nature and Its
+Changes
+
+1.2
+
+The Scientific Method
+Scientific Models
+
+1.3
+1.4
+
+Units of Measurement
+Uncertainty in Measurement
+Precision and Accuracy
+
+1.5
+1.6
+
+Significant Figures and Calculations
+
+1.7
+1.8
+1.9
+1.10
+
+Dimensional Analysis
+Temperature
+Density
+Classification of Matter
+
+Learning to Solve Problems
+Systematically
+
+W
+
+hen you start your car, do you think about chemistry? Probably not, but
+you should. The power to start your car is furnished by a lead storage battery. How does this battery work, and what does it contain? When a battery goes dead,
+what does that mean? If you use a friend’s car to “jump-start” your car, did you know
+that your battery could explode? How can you avoid such an unpleasant possibility?
+What is in the gasoline that you put in your tank, and how does it furnish energy to
+your car so that you can drive it to school? What is the vapor that comes out of the
+exhaust pipe, and why does it cause air pollution? Your car’s air conditioner might
+have a substance in it that is leading to the destruction of the ozone layer in the upper
+atmosphere. What are we doing about that? And why is the ozone layer important
+anyway?
+All of these questions can be answered by understanding some chemistry. In fact,
+we’ll consider the answers to all of these questions in this text.
+Chemistry is around you all the time. You are able to read and understand this sentence because chemical reactions are occurring in your brain. The food you ate for
+breakfast or lunch is now furnishing energy through chemical reactions. Trees and
+grass grow because of chemical changes.
+Chemistry also crops up in some unexpected places. When archaeologist Luis
+Alvarez was studying in college, he probably didn’t realize that the chemical elements
+iridium and niobium would make him very famous when they helped him solve the
+problem of the disappearing dinosaurs. For decades scientists had wrestled with the
+mystery of why the dinosaurs, after ruling the earth for millions of years, suddenly
+became extinct 65 million years ago. In studying core samples of rocks dating back to
+that period, Alvarez and his coworkers recognized unusual levels of iridium and niobium in these samples—levels much more characteristic of extraterrestrial bodies than
+of the earth. Based on these observations, Alvarez hypothesized that a large meteor hit
+the earth 65 million years ago, changing atmospheric conditions so much that the
+dinosaurs’ food couldn’t grow, and they died—almost instantly in the geologic time
+frame.
+Chemistry is also important to historians. Did you realize that lead poisoning probably was a significant contributing factor to the decline of the Roman Empire? The
+Romans had high exposure to lead from lead-glazed pottery, lead water pipes, and a
+sweetening syrup called sapa that was prepared by boiling down grape juice in leadlined vessels. It turns out that one reason for sapa’s sweetness was lead acetate (“sugar
+of lead”), which formed as the juice was cooked down. Lead poisoning, with its symptoms of lethargy and mental malfunctions, certainly could have contributed to the
+demise of the Roman society.
+Chemistry is also apparently very important in determining a person’s behavior.
+Various studies have shown that many personality disorders can be linked directly to
+imbalances of trace elements in the body. For example, studies on the inmates at Stateville Prison in Illinois have linked low cobalt levels with violent behavior. Lithium
+salts have been shown to be very effective in controlling the effects of manic-depressive
+disease, and you’ve probably at some time in your life felt a special “chemistry” for
+another person. Studies suggest there is literally chemistry going on between two people who are attracted to each other. “Falling in love” apparently causes changes in the
+chemistry of the brain; chemicals are produced that give that “high” associated with a
+new relationship. Unfortunately, these chemical effects seem to wear off over time,
+even if the relationship persists and grows.
+The importance of chemistry in the interactions of people should not really surprise
+us. We know that insects communicate by emitting and receiving chemical signals via
+molecules called pheromones. For example, ants have a very complicated set of chemical signals to signify food sources, danger, and so forth. Also, various female sex
+
+1.1 Chemistry: An Overview
+
+attractants have been isolated and used to lure males into traps to control insect populations. It would not be surprising if humans also emitted chemical signals that we
+were not aware of on a conscious level. Thus chemistry is pretty interesting and pretty
+important. The main goal of this text is to help you understand the concepts of chemistry so that you can better appreciate the world around you and can be more effective
+in whatever career you choose.
+
+1.1 Chemistry: An Overview
+
+Lawrence Livermore Laboratory/Science Source
+
+Geometric and Electronic Properties of Cs Structures on III-V (110)
+Surfaces: From 1-D and 2-D Insulators to 3-D Metals by L.J.
+Whitman et al. Physical Review Letters 66(10), 1338-1341 (1991).
+
+Since the time of the ancient Greeks, people have wondered about the answer to the
+question: What is matter made of? For a long time, humans have believed that matter
+is composed of atoms, and in the previous three centuries, we have collected much
+indirect evidence to support this belief. Very recently, something exciting has
+happened—for the first time we can “see” individual atoms. Of course, we cannot see
+atoms with the naked eye; we must use a special microscope called a scanning tunneling microscope (STM). Although we will not consider the details of its operation here,
+the STM uses an electron current from a tiny needle to probe the surface of a substance. The STM pictures of several substances are shown in Fig. 1.1. Notice how the
+atoms are connected to one another by “bridges,” which, as we will see, represent the
+electrons that interconnect atoms.
+So, at this point, we are fairly sure that matter consists of individual atoms. The
+nature of these atoms is quite complex, and the components of atoms don’t behave
+much like the objects we see in the world of our experience. We call this world the
+macroscopic world—the world of cars, tables, baseballs, rocks, oceans, and so forth.
+One of the main jobs of a scientist is to delve into the macroscopic world and discover its “parts.” For example, when you view a beach from a distance, it looks like
+a continuous solid substance. As you get closer, you see that the beach is really made
+up of individual grains of sand. As we examine these grains of sand, we find that they
+are composed of silicon and oxygen atoms connected to each other to form intricate
+shapes (Fig. 1.2). One of the main challenges of chemistry is to understand the connection between the macroscopic world that we experience and the microscopic
+world of atoms and molecules. To truly understand chemistry, you must learn to
+think on the atomic level. We will spend much time in this text helping you learn to
+do that.
+
+FIGURE 1.1 Scanning tunneling
+microscope images.
+
+Scanning tunneling microscope image
+of DNA.
+
+An image of a chain of cesium atoms on
+a gallium arsenide substrate.
+
+Elena Elenathewise/Masterfile. Inset: Jeremy Burgess/Science Source
+
+FIGURE 1.2 Sand on a beach looks
+uniform from a distance, but up close
+the irregular sand grains are visible, and
+each grain is composed of tiny atoms.
+
+O
+Si
+
+CRITICAL THINKING The scanning tunneling microscope allows
+us to “see” atoms. What if you were sent back in time before the invention of the
+scanning tunneling microscope? What evidence could you give to support the
+theory that all matter is made of atoms and molecules?
+
+One of the amazing things about our universe is that the tremendous variety of
+substances we find there results from only about 100 different kinds of atoms. You can
+think of these approximately 100 atoms as the letters in an alphabet from which all the
+“words” in the universe are made. It is the way the atoms are organized in a given
+substance that determines the properties of that substance. For example, water, one of
+the most common and important substances on the earth, is composed of two types of
+atoms: hydrogen and oxygen. Two hydrogen atoms and one oxygen atom are bound
+together to form the water molecule:
+oxygen atom
+
+water molecule
+
+hydrogen atom
+
+When an electric current passes through it, water is decomposed to hydrogen and oxygen. These chemical elements themselves exist naturally as diatomic (two-atom)
+molecules:
+oxygen molecule
+
+written O2
+
+hydrogen molecule
+
+written H2
+
+We can represent the decomposition of water to its component elements, hydrogen and
+oxygen, as follows:
+
+two water
+molecules
+written 2H2O
+
+one oxygen molecule
+written O2
+electric
+current
+
+two hydrogen molecules
+written 2H2
+
+1.2 The Scientific Method
+
+Notice that it takes two molecules of water to furnish the right number of oxygen and
+hydrogen atoms to allow for the formation of the two-atom molecules. This reaction
+explains why the battery in your car can explode if you jump-start it improperly. When
+you hook up the jumper cables, current flows through the dead battery, which contains
+water (and other things), and causes hydrogen and oxygen to form by decomposition
+of some of the water. A spark can cause this accumulated hydrogen and oxygen to
+explode, forming water again.
+O2
+spark
+
+2H2O
+
+2H2
+
+This example illustrates two of the fundamental concepts of chemistry: (1) Matter is
+composed of various types of atoms, and (2) one substance changes to another by
+reorganizing the way the atoms are attached to each other.
+These are core ideas of chemistry, and we will have much more to say about them.
+
+Science: A Process for Understanding
+Nature and Its Changes
+How do you tackle the problems that confront you in real life? Think about your trip
+to school. If you live in a city, traffic is undoubtedly a problem you confront daily. How
+do you decide the best way to drive to school? If you are new in town, you first get a
+map and look at the possible ways to make the trip. Then you might collect information about the advantages and disadvantages of various routes from people who know
+the area. Based on this information, you probably try to predict the best route. However, you can find the best route only by trying several of them and comparing the
+results. After a few experiments with the various possibilities, you probably will be
+able to select the best way. What you are doing in solving this everyday problem is
+applying the same process that scientists use to study nature. The first thing you did
+was collect relevant data. Then you made a prediction, and then you tested it by trying
+it out. This process contains the fundamental elements of science:
+1. Making observations (collecting data)
+2. Suggesting a possible explanation (formulating a hypothesis)
+3. Doing experiments to test the possible explanation (testing the hypothesis)
+Scientists call this process the scientific method. We will discuss it in more detail in the
+next section. One of life’s most important activities is solving problems—not “plug and
+chug” exercises, but real problems—problems that have new facets to them, that involve
+things you may have never confronted before. The more creative you are at solving these
+problems, the more effective you will be in your career and your personal life. Part of the
+reason for learning chemistry, therefore, is to become a better problem solver. Chemists
+are usually excellent problem solvers because to master chemistry, you have to master
+the scientific approach. Chemical problems are frequently very complicated—there is
+usually no neat and tidy solution. Often it is difficult to know where to begin.
+
+1.2 The Scientific Method
+Science is a framework for gaining and organizing knowledge. Science is not simply a
+set of facts but also a plan of action—a procedure for processing and understanding
+certain types of information. Scientific thinking is useful in all aspects of life, but in
+this text we will use it to understand how the chemical world operates. As we said in
+
+our previous discussion, the process that lies at the center of scientific inquiry is called
+the scientific method. There are actually many scientific methods, depending on the
+nature of the specific problem under study and the particular investigator involved.
+However, it is useful to consider the following general framework for a generic scientific method (Fig. 1.3):
+
+Observation
+Hypothesis
+Experiment
+
+Steps in the Scientific Method
+Theory (model)
+
+Theory
+modified
+as needed
+
+1. Making observations. Observations may be qualitative (the sky is blue; water is a
+liquid) or quantitative (water boils at 1008C; a certain chemistry book weighs 2 kg).
+A qualitative observation does not involve a number. A quantitative observation
+(called a measurement) involves both a number and a unit.
+
+Prediction
+
+2. Formulating hypotheses. A hypothesis is a possible explanation for an observation.
+
+Experiment
+
+3. Performing experiments. An experiment is carried out to test a hypothesis. This involves
+gathering new information that enables a scientist to decide whether the hypothesis is
+valid—that is, whether it is supported by the new information learned from the experiment. Experiments always produce new observations, and this brings the process back
+to the beginning again.
+
+FIGURE 1.3 The fundamental steps
+of the scientific method.
+
+To understand a given phenomenon, these steps are repeated many times, gradually
+accumulating the knowledge necessary to provide a possible explanation of the
+phenomenon.
+
+Scientific Models
+
+Observation
+Hypothesis
+Experiment
+
+Theory
+(model)
+Theory
+modified
+as needed
+
+Law
+
+Prediction
+
+Experiment
+
+FIGURE 1.4 The various parts of
+the scientific method.
+
+Once a set of hypotheses that agrees with the various observations is obtained, the
+hypotheses are assembled into a theory. A theory, which is often called a model, is a set
+of tested hypotheses that gives an overall explanation of some natural phenomenon.
+It is very important to distinguish between observations and theories. An observation is something that is witnessed and can be recorded. A theory is an interpretation—
+a possible explanation of why nature behaves in a particular way. Theories inevitably
+change as more information becomes available. For example, the motions of the sun
+and stars have remained virtually the same over the thousands of years during which
+humans have been observing them, but our explanations—our theories—for these
+motions have changed greatly since ancient times.
+The point is that scientists do not stop asking questions just because a given theory
+seems to account satisfactorily for some aspect of natural behavior. They continue
+doing experiments to refine or replace the existing theories. This is generally done by
+using the currently accepted theory to make a prediction and then performing an experiment (making a new observation) to see whether the results bear out this prediction.
+Always remember that theories (models) are human inventions. They represent
+attempts to explain observed natural behavior in terms of human experiences. A theory
+is actually an educated guess. We must continue to do experiments and to refine our
+theories (making them consistent with new knowledge) if we hope to approach a more
+complete understanding of nature.
+As scientists observe nature, they often see that the same observation applies to
+many different systems. For example, studies of innumerable chemical changes have
+shown that the total observed mass of the materials involved is the same before and after
+the change. Such generally observed behavior is formulated into a statement called a
+natural law. For example, the observation that the total mass of materials is not affected
+by a chemical change in those materials is called the law of conservation of mass.
+Note the difference between a natural law and a theory. A natural law is a summary of observed (measurable) behavior, whereas a theory is an explanation of
+behavior. A law summarizes what happens; a theory (model) is an attempt to
+explain why it happens.
+
+1.2 The Scientific Method
+
+CHEMICAL CONNECTIONS
+
+P
+
+ost-it Notes, a product of the 3M
+Corporation, revolutionized casual
+written communications and personal
+reminders. Introduced in the United
+States in 1980, these sticky-but-not-toosticky notes have now found countless
+uses in offices, cars, and homes
+throughout the world.
+The invention of sticky notes
+occurred over a period of about 10 years
+and involved a great deal of serendipity.
+The adhesive for Post-it Notes was discovered by Dr. Spencer F. Silver of 3M in
+1968. Silver found that when an acrylate
+polymer material was made in a particular way, it formed cross-linked microspheres. When suspended in a solvent
+and sprayed on a sheet of paper, this
+substance formed a “sparse monolayer”
+of adhesive after the solvent evaporated.
+Scanning electron microscope images of
+the adhesive show that it has an irregular
+surface, a little like the surface of a gravel
+road. In contrast, the adhesive on cellophane tape looks smooth and uniform,
+like a superhighway. The bumpy surface
+of Silver’s adhesive caused it to be sticky
+but not so sticky to produce permanent
+adhesion, because the number of contact points between the binding surfaces was limited.
+When he invented this adhesive,
+Silver had no specific ideas for its use, so
+
+he spread the word of his discovery
+to his fellow employees at 3M to
+see if anyone had an application for
+it. In addition, over the next several
+years development was carried out
+to improve the adhesive’s properties. It was not until 1974 that the
+idea for Post-it Notes popped up.
+One Sunday, Art Fry, a chemical
+engineer for 3M, was singing in his
+church choir when he became
+annoyed that the bookmark in his
+hymnal kept falling out. He
+thought to himself that it would be
+nice if the bookmark were sticky
+enough to stay in place but not so
+sticky that it couldn’t be moved. Luckily,
+he remembered Silver’s glue—and the
+Post-it Note was born.
+For the next three years, Fry worked
+to overcome the manufacturing obstacles associated with the product. By
+1977 enough Post-it Notes were being
+produced to supply 3M’s corporate
+headquarters, where the employees
+quickly became addicted to their many
+uses. Post-it Notes are now available in
+62 colors and 25 shapes.
+In the years since the introduction of
+Post-it Notes, 3M has heard some
+remarkable stories connected to the use
+of these notes. For example, a Post-it
+Note was applied to the nose of a
+
+Photo © Cengage Learning. All rights reserved.
+
+A Note-able Achievement
+
+corporate jet, where it was intended to
+be read by the plane’s Las Vegas ground
+crew. Someone forgot to remove it,
+however. The note was still on the nose
+of the plane when it landed in Minneapolis, having survived a takeoff, a landing, and speeds of 500 miles per hour at
+temperatures as low as 2568F. Stories on
+the 3M website describe how a Post-it
+Note on the front door of a home survived the 140-mile-per-hour winds of
+Hurricane Hugo and how a foreign
+official accepted Post-it Notes in lieu of
+cash when a small bribe was needed to
+cut through bureaucratic hassles.
+Post-it Notes have definitely
+changed the way we communicate and
+remember things.
+
+In this section we have described the scientific method as it might ideally be applied
+(Fig. 1.4). However, it is important to remember that science does not always progress
+smoothly and efficiently. For one thing, hypotheses and observations are not totally
+independent of each other, as we have assumed in the description of the idealized scientific method. The coupling of observations and hypotheses occurs because once we
+begin to proceed down a given theoretical path, our hypotheses are unavoidably
+couched in the language of that theory. In other words, we tend to see what we expect
+to see and often fail to notice things that we do not expect. Thus the theory we are testing helps us because it focuses our questions. However, at the same time, this focusing
+process may limit our ability to see other possible explanations.
+It is also important to keep in mind that scientists are human. They have prejudices;
+they misinterpret data; they become emotionally attached to their theories and thus lose
+objectivity; and they play politics. Science is affected by profit motives, budgets, fads,
+wars, and religious beliefs. Galileo, for example, was forced to recant his astronomical
+
+© Devonshire Collection/Reproduced by permission of Chatsworth Settlement Trustees/
+The Bridgeman Art Library
+
+◀
+Robert Boyle (1627–1691) was born in Ireland. He became especially interested in experiments
+involving air and developed an air pump with which he produced evacuated cylinders. He used
+these cylinders to show that a feather and a lump of lead fall at the same rate in the absence of
+air resistance and that sound cannot be produced in a vacuum. His most famous experiments
+involved careful measurements of the volume of a gas as a function of pressure. In his book
+Boyle urged that the ancient view of elements as mystical substances should be abandoned and
+that an element should instead be defined as anything that cannot be broken down into simpler
+substances. This concept was an important step in the development of modern chemistry.
+
+observations in the face of strong religious resistance. Lavoisier, the father of modern
+chemistry, was beheaded because of his political affiliations. Great progress in the chemistry of nitrogen fertilizers resulted from the desire to produce explosives to fight wars. The
+progress of science is often affected more by the frailties of humans and their institutions
+than by the limitations of scientific measuring devices. The scientific methods are only as
+effective as the humans using them. They do not automatically lead to progress.
+CRITICAL THINKING What if everyone in the government used
+the scientific method to analyze and solve society’s problems, and politics were
+never involved in the solutions? How would this be different from the present
+situation, and would it be better or worse?
+
+1.3 Units of Measurement
+
+Photo © Cengage Learning. All rights reserved.
+
+Making observations is fundamental to all science. A quantitative observation, or measurement, always consists of two parts: a number and a scale (called a unit). Both parts
+must be present for the measurement to be meaningful.
+In this textbook we will use measurements of mass, length, time, temperature, electric
+current, and the amount of a substance, among others. Scientists recognized long ago
+that standard systems of units had to be adopted if measurements were to be useful. If
+every scientist had a different set of units, complete chaos would result. Unfortunately,
+different standards were adopted in different parts of the world. The two major systems
+are the English system used in the United States and the metric system used by most of
+the rest of the industrialized world. This duality causes a good deal of trouble; for example, parts as simple as bolts are not interchangeable between machines built using the
+two systems. As a result, the United States has begun to adopt the metric system.
+Most scientists in all countries have used the metric system for many years. In 1960,
+an international agreement set up a system of units called the International System (le
+Système International in French), or the SI system. This system is based on the metric
+system and units derived from the metric system. The fundamental SI units are listed in
+Table 1.1. We will discuss how to manipulate these units later in this chapter.
+
+▲
+Soda is commonly sold in 2-L bottles—
+an example of the use of SI units in
+everyday life.
+
+TABLE 1.1 | Fundamental SI Units
+Physical Quantity
+
+Name of Unit
+
+Abbreviation
+
+Mass
+
+kilogram
+
+kg
+
+Length
+
+meter
+
+m
+
+Time
+
+second
+
+s
+
+Temperature
+
+kelvin
+
+K
+
+Electric current
+
+ampere
+
+A
+
+Amount of substance
+
+mole
+
+mol
+
+Luminous intensity
+
+candela
+
+cd
+
+1.3 Units of Measurement
+
+TABLE 1.2 | Prefixes Used in the SI System (The most commonly
+
+TABLE 1.3 | Some Examples of
+
+encountered are shown in blue.)
+
+Commonly Used Units
+Exponential
+Notation*
+
+Prefix
+
+Symbol
+
+Meaning
+
+exa
+
+E
+
+1,000,000,000,000,000,000
+
+peta
+
+P
+
+1,000,000,000,000,000
+
+tera
+
+T
+
+1,000,000,000,000
+
+giga
+
+G
+
+1,000,000,000
+
+mega
+
+M
+
+1,000,000
+
+kilo
+
+k
+
+1,000
+
+hecto
+
+h
+
+deka
+
+da
+
+—
+
+—
+
+deci
+
+d
+
+0.1
+
+centi
+
+c
+
+0.01
+
+milli
+
+m
+
+0.001
+
+micro
+
+m
+
+0.000001
+
+nano
+
+n
+
+0.000000001
+
+pico
+
+p
+
+0.000000000001
+
+10212
+
+femto
+
+f
+
+0.000000000000001
+
+10215
+
+atto
+
+a
+
+0.000000000000000001
+
+10218
+
+Length
+
+A dime is 1 mm thick.
+A quarter is 2.5 cm in
+diameter.
+The average height of an
+adult man is 1.8 m.
+
+Mass
+
+A nickel has a mass of
+about 5 g.
+A 120-lb person has a
+mass of about 55 kg.
+
+Volume
+
+A 12-oz can of soda has a
+volume of about 360 mL.
+
+*See Appendix 1.1 if you need a review of exponential notation.
+
+Because the fundamental units are not always convenient (expressing the mass of a
+pin in kilograms is awkward), prefixes are used to change the size of the unit. These
+are listed in Table 1.2. Some common objects and their measurements in SI units are
+listed in Table 1.3.
+One physical quantity that is very important in chemistry is volume, which is not
+a fundamental SI unit but is derived from length. A cube that measures 1 meter (m)
+on each edge is represented in Fig. 1.5. This cube has a volume of (1 m)3 5 1 m3.
+
+1 m3
+
+1 dm3 = 1 L
+
+FIGURE 1.5 The largest cube has
+sides 1 m in length and a volume of 1 m3.
+The middle-sized cube has sides 1 dm in
+length and a volume of 1 dm3, or 1 L. The
+smallest cube has sides 1 cm in length
+and a volume of 1 cm3, or 1 mL.
+
+1 cm
+
+1 cm
+
+1 cm3 = 1 mL
+
+Recognizing that there are 10 decimeters (dm) in a meter, the volume of this cube is
+(1 m)3 5 (10 dm)3 5 1000 dm3. A cubic decimeter, that is, (1 dm)3, is commonly
+called a liter (L), which is a unit of volume slightly larger than a quart. As shown in
+Fig. 1.5, 1000 L is contained in a cube with a volume of 1 cubic meter. Similarly,
+since 1 decimeter equals 10 centimeters (cm), the liter can be divided into 1000 cubes,
+each with a volume of 1 cubic centimeter:
+1 L 5 11 dm2 3 5 110 cm2 3 5 1000 cm3
+
+Also, since 1 cm3 5 1 milliliter (mL),
+1 L 5 1000 cm3 5 1000 mL
+Thus 1 liter contains 1000 cubic centimeters, or 1000 milliliters.
+Chemical laboratory work frequently requires measurement of the volumes of liquids.
+Several devices for the accurate determination of liquid volume are shown in Fig. 1.6.
+An important point concerning measurements is the relationship between mass and
+weight. Although these terms are sometimes used interchangeably, they are not the
+same. Mass is a measure of the resistance of an object to a change in its state of motion.
+Mass is measured by the force necessary to give an object a certain acceleration. On the
+
+CHEMICAL CONNECTIONS
+Critical Units!
+ow important are conversions from
+one unit to another? If you ask the
+National Aeronautics and Space
+Administration (NASA), very important!
+In 1999, NASA lost a $125 million Mars
+Climate Orbiter because of a failure to
+convert from English to metric units.
+The problem arose because two
+teams working on the Mars mission
+were using different sets of units.
+NASA’s scientists at the Jet Propulsion
+Laboratory in Pasadena, California,
+assumed that the thrust data for the
+rockets on the Orbiter they received
+from Lockheed Martin Astronautics in
+Denver, which built the spacecraft,
+were in metric units. In reality, the units
+were English. As a result, the Orbiter
+dipped 100 km lower into the Mars
+atmosphere than planned, and the
+friction from the atmosphere caused
+the craft to burn up.
+NASA’s mistake refueled the controversy over whether Congress should
+require the United States to switch to
+the metric system. About 95% of the
+world now uses the metric system, and
+the United States is slowly switching
+
+NASA
+
+H
+
+Artist’s conception of the lost Mars Climate Orbiter.
+from English to metric. For example,
+the automobile industry has adopted
+metric fasteners, and we buy our soda
+in 2-L bottles.
+Units can be very important. In fact,
+they can mean the difference between
+life and death on some occasions. In
+
+1983, for example, a Canadian jetliner
+almost ran out of fuel when someone
+pumped 22,300 lb of fuel into the
+aircraft instead of 22,300 kg. Remember
+to watch your units!
+
+1.4 Uncertainty in Measurement
+FIGURE 1.6 Common types of
+laboratory equipment used to measure
+liquid volume.
+
+Calibration
+mark indicates
+25-mL volume
+
+mL
+
+mL
+
+Valve
+(stopcock)
+controls the
+liquid flow
+
+100-mL
+graduated cylinder
+
+mL
+
+25-mL pipet
+
+Calibration
+mark indicates
+250-mL volume
+
+50-mL buret
+
+250-mL
+volumetric flask
+
+earth we use the force that gravity exerts on an object to measure its mass. We call this
+force the object’s weight. Since weight is the response of mass to gravity, it varies with
+the strength of the gravitational field. Therefore, your body mass is the same on the
+earth and on the moon, but your weight would be much less on the moon than on the
+earth because of the moon’s smaller gravitational field.
+Because weighing something on a chemical balance involves comparing the mass
+of that object to a standard mass, the terms weight and mass are sometimes used interchangeably, although this is incorrect.
+
+CRITICAL THINKING What if you were not allowed to use units
+for one day? How would this affect your life for that day?
+
+1.4 Uncertainty in Measurement
+
+The number associated with a measurement is obtained using some measuring device.
+For example, consider the measurement of the volume of a liquid using a buret (shown
+in Fig. 1.7 with the scale greatly magnified). Notice that the meniscus of the liquid
+occurs at about 20.15 mL. This means that about 20.15 mL of liquid has been delivered
+from the buret (if the initial position of the liquid meniscus was 0.00 mL). Note that
+we must estimate the last number of the volume reading by interpolating between the
+0.1-mL marks. Since the last number is estimated, its value may be different if another
+person makes the same measurement. If five different people read the same volume,
+the results might be as follows:
+
+FIGURE 1.7 Measurement of
+volume using a buret. The volume is
+read at the bottom of the liquid curve
+(called the meniscus).
+
+Person
+
+Results of Measurement
+
+20.15 mL
+
+20.14 mL
+
+20.16 mL
+
+20.17 mL
+
+20.16 mL
+
+A measurement always has some degree of
+uncertainty.
+
+Uncertainty in measurement is discussed
+in more detail in Appendix 1.5.
+
+EXAMPLE 1.1
+
+These results show that the first three numbers (20.1) remain the same regardless of
+who makes the measurement; these are called certain digits. However, the digit to the
+right of the 1 must be estimated and therefore varies; it is called an uncertain digit. We
+customarily report a measurement by recording all the certain digits plus the first
+uncertain digit. In our example it would not make any sense to try to record the volume
+to thousandths of a milliliter because the value for hundredths of a milliliter must be
+estimated when using the buret.
+It is very important to realize that a measurement always has some degree of uncertainty. The uncertainty of a measurement depends on the precision of the measuring
+device. For example, using a bathroom scale, you might estimate the mass of a grapefruit to be approximately 1.5 lb. Weighing the same grapefruit on a highly precise
+balance might produce a result of 1.476 lb. In the first case, the uncertainty occurs in
+the tenths of a pound place; in the second case, the uncertainty occurs in the thousandths of a pound place. Suppose we weigh two similar grapefruits on the two devices
+and obtain the following results:
+Bathroom Scale
+
+Balance
+
+Grapefruit 1
+
+1.5 lb
+
+1.476 lb
+
+Grapefruit 2
+
+1.5 lb
+
+1.518 lb
+
+Do the two grapefruits have the same mass? The answer depends on which set of results
+you consider. Thus a conclusion based on a series of measurements depends on the
+certainty of those measurements. For this reason, it is important to indicate the uncertainty in any measurement. This is done by always recording the certain digits and the
+first uncertain digit (the estimated number). These numbers are called the significant
+figures of a measurement.
+The convention of significant figures automatically indicates something about the
+uncertainty in a measurement. The uncertainty in the last number (the estimated number) is usually assumed to be 61 unless otherwise indicated. For example, the measurement 1.86 kg can be taken to mean 1.86 6 0.01 kg.
+
+Uncertainty in Measurement
+In analyzing a sample of polluted water, a chemist measured out a 25.00-mL water
+sample with a pipet (see Fig. 1.6). At another point in the analysis, the chemist used a
+graduated cylinder (see Fig. 1.6) to measure 25 mL of a solution. What is the difference between the measurements 25.00 mL and 25 mL?
+
+SOLUTION
+
+Even though the two volume measurements appear to be equal, they really convey
+different information. The quantity 25 mL means that the volume is between 24 mL
+and 26 mL, whereas the quantity 25.00 mL means that the volume is between
+24.99 mL and 25.01 mL. The pipet measures volume with much greater precision than
+does the graduated cylinder.
+See Exercise 1.37
+
+When making a measurement, it is important to record the results to the appropriate
+number of significant figures. For example, if a certain buret can be read to 60.01 mL,
+you should record a reading of twenty-five milliliters as 25.00 mL, not 25 mL. This
+way at some later time when you are using your results to do calculations, the uncertainty in the measurement will be known to you.
+
+1.4 Uncertainty in Measurement
+
+Precision and Accuracy
+Two terms often used to describe the reliability of measurements are precision and
+accuracy. Although these words are frequently used interchangeably in everyday life,
+they have different meanings in the scientific context. Accuracy refers to the agreement of a particular value with the true value. Precision refers to the degree of agreement among several measurements of the same quantity. Precision reflects the
+reproducibility of a given type of measurement. The difference between these terms is
+illustrated by the results of three different dart throws shown in Fig. 1.8.
+Two different types of errors are illustrated in Fig. 1.8. A random error (also called
+an indeterminate error) means that a measurement has an equal probability of being
+high or low. This type of error occurs in estimating the value of the last digit of a measurement. The second type of error is called systematic error (or determinate error).
+This type of error occurs in the same direction each time; it is either always high or
+always low. Fig. 1.8(a) indicates large random errors (poor technique). Fig. 1.8(b)
+indicates small random errors but a large systematic error, and Fig. 1.8(c) indicates
+small random errors and no systematic error.
+In quantitative work, precision is often used as an indication of accuracy; we assume
+that the average of a series of precise measurements (which should “average out” the
+random errors because of their equal probability of being high or low) is accurate, or
+close to the “true” value. However, this assumption is valid only if systematic errors
+are absent. Suppose we weigh a piece of brass five times on a very precise balance and
+obtain the following results:
+Weighing
+
+Result
+
+2.486 g
+
+2.487 g
+
+2.485 g
+
+2.484 g
+
+2.488 g
+
+Normally, we would assume that the true mass of the piece of brass is very close to
+2.486 g, which is the average of the five results:
+2.486 g 1 2.487 g 1 2.485 g 1 2.484 g 1 2.488 g
+5 2.486 g
+However, if the balance has a defect causing it to give a result that is consistently
+1.000 g too high (a systematic error of 11.000 g), then the measured value of 2.486 g
+would be seriously in error. The point here is that high precision among several measurements is an indication of accuracy only if systematic errors are absent.
+
+FIGURE 1.8 The
+results of several dart
+throws show the
+difference between
+precise and accurate.
+
+a
+Neither accurate nor precise.
+
+b
+Precise but not accurate.
+
+c
+Accurate and precise.
+
+EXAMPLE 1.2
+
+Precision and Accuracy
+To check the accuracy of a graduated cylinder, a student filled the cylinder to the
+25-mL mark using water delivered from a buret (see Fig. 1.6) and then read the volume
+delivered. Following are the results of five trials:
+
+Trial
+
+Volume Shown by
+Graduated Cylinder
+
+Volume Shown
+by the Buret
+
+25 mL
+
+26.54 mL
+
+25 mL
+
+26.51 mL
+
+25 mL
+
+26.60 mL
+
+25 mL
+
+26.49 mL
+
+25 mL
+
+26.57 mL
+
+Average
+
+25 mL
+
+26.54 mL
+
+Is the graduated cylinder accurate?
+SOLUTION
+Precision is an indication of accuracy only if
+there are no systematic errors.
+
+The results of the trials show very good precision (for a graduated cylinder). The student
+has good technique. However, note that the average value measured using the buret is significantly different from 25 mL. Thus this graduated cylinder is not very accurate. It produces a systematic error (in this case, the indicated result is low for each measurement).
+See Question 1.11
+
+1.5 Significant Figures
+and Calculations
+Calculating the final result for an experiment usually involves adding, subtracting,
+multiplying, or dividing the results of various types of measurements. Since it is very
+important that the uncertainty in the final result is known correctly, we have developed
+rules for counting the significant figures in each number and for determining the correct number of significant figures in the final result.
+
+Rules for Counting Significant Figures
+1. Nonzero integers. Nonzero integers always count as significant figures.
+2. Zeros. There are three classes of zeros:
+Leading zeros are never significant figures.
+
+a. Leading zeros are zeros that precede all the nonzero digits. These do not count as
+significant figures. In the number 0.0025, the three zeros simply indicate the position
+of the decimal point. This number has only two significant figures.
+
+Captive zeros are always significant figures.
+
+b. Captive zeros are zeros between nonzero digits. These always count as significant
+figures. The number 1.008 has four significant figures.
+
+Trailing zeros are sometimes significant
+figures.
+
+c. Trailing zeros are zeros at the right end of the number. They are significant only if the
+number contains a decimal point. The number 100 has only one significant figure,
+whereas the number 1.00 3 102 has three significant figures. The number one
+hundred written as 100. also has three significant figures.
+
+(Box continues on following page)
+
+1.5 Significant Figures and Calculations
+
+Exact numbers never limit the number of
+significant figures in a calculation.
+
+Exponential notation is reviewed in
+Appendix 1.1.
+
+INTERACTIVE EXAMPLE 1.3
+
+3. Exact numbers. Many times calculations involve numbers that were not obtained
+using measuring devices but were determined by counting: 10 experiments, 3 apples,
+8 molecules. Such numbers are called exact numbers. They can be assumed to have an
+infinite number of significant figures. Other examples of exact numbers are the 2 in 2pr
+(the circumference of a circle) and the 4 and the 3 in 43 pr3 (the volume of a sphere).
+Exact numbers also can arise from definitions. For example, 1 inch is defined as exactly
+2.54 centimeters. Thus, in the statement 1 in 5 2.54 cm, neither the 2.54 nor the 1 limits
+the number of significant figures when used in a calculation.
+
+Note that the number 1.00 3 102 on the previous page is written in exponential
+notation. This type of notation has at least two advantages: The number of significant
+figures can be easily indicated, and fewer zeros are needed to write a very large or
+very small number. For example, the number 0.000060 is much more conveniently
+represented as 6.0 3 1025 (the number has two significant figures).
+
+Significant Figures
+Give the number of significant figures for each of the following results.
+a. A student’s extraction procedure on tea yields 0.0105 g of caffeine.
+b. A chemist records a mass of 0.050080 g in an analysis.
+c. In an experiment a span of time is determined to be 8.050 3 1023 s.
+
+SOLUTION
+
+a. The number contains three significant figures. The zeros to the left of the 1 are leading
+zeros and are not significant, but the remaining zero (a captive zero) is significant.
+b. The number contains five significant figures. The leading zeros (to the left of the
+5) are not significant. The captive zeros between the 5 and the 8 are significant,
+and the trailing zero to the right of the 8 is significant because the number contains a decimal point.
+c. This number has four significant figures. Both zeros are significant.
+See Exercises 1.32 through 1.34
+
+To this point we have learned to count the significant figures in a given number.
+Next, we must consider how uncertainty accumulates as calculations are carried out.
+The detailed analysis of the accumulation of uncertainties depends on the type of calculation involved and can be complex. However, in this textbook we will use the following simple rules that have been developed for determining the appropriate number
+of significant figures in the result of a calculation.
+
+Rules for Significant Figures in Mathematical Operations
+1. For multiplication or division, the number of significant figures in the result is the same as
+the number in the least precise measurement used in the calculation. For example,
+consider the calculation
+Corrected
+4.56 3 1.4 5 6.38 8888888n
+↑
+Limiting term has
+two significant
+figures
+
+6.4
+
+↑
+Two significant
+figures
+
+The product should have only two significant figures, since 1.4 has two significant figures.
+
+(Box continues on following page)
+
+2. For addition or subtraction, the result has the same number of decimal places as the least
+precise measurement used in the calculation. For example, consider the sum
+
+12.11
+18.0
+← Limiting term has one decimal place
+1.013
+Corrected
+31.123 8888888n
+31.1
+↑
+One decimal place
+
+The correct result is 31.1, since 18.0 has only one decimal place.
+
+Note that for multiplication and division, significant figures are counted. For addition and subtraction, the decimal places are counted.
+In most calculations you will need to round numbers to obtain the correct number
+of significant figures. The following rules should be applied when rounding.
+
+Rules for Rounding
+1. In a series of calculations, carry the extra digits through to the final result, then round.
+2. If the digit to be removed
+a. is less than 5, the preceding digit stays the same. For example, 1.33 rounds to 1.3.
+Rule 2 is consistent with the operation of
+electronic calculators.
+
+b. is equal to or greater than 5, the preceding digit is increased by 1. For example, 1.36
+rounds to 1.4.
+
+Although rounding is generally straightforward, one point requires special emphasis. As an illustration, suppose that the number 4.348 needs to be rounded to two significant figures. In doing this, we look only at the first number to the right of the 3:
+4.348
+
+↑
+Look at this number to
+round to two significant figures.
+Do not round sequentially. The number
+6.8347 rounded to three significant figures
+is 6.83, not 6.84.
+
+INTERACTIVE EXAMPLE 1.4
+
+The number is rounded to 4.3 because 4 is less than 5. It is incorrect to round sequentially.
+For example, do not round the 4 to 5 to give 4.35 and then round the 3 to 4 to give 4.4.
+When rounding, use only the first number to the right of the last significant figure.
+It is important to note that Rule 1 above usually will not be followed in the examples in this text because we want to show the correct number of significant figures in
+each step of a problem. This same practice is followed for the detailed solutions given
+in the Solutions Guide. However, when you are doing problems, you should carry extra
+digits throughout a series of calculations and round to the correct number of significant
+figures only at the end. This is the practice you should follow. The fact that your rounding procedures are different from those used in this text must be taken into account
+when you check your answer with the one given at the end of the book or in the Solutions Guide. Your answer (based on rounding only at the end of a calculation) may
+differ in the last place from that given here as the “correct” answer because we have
+rounded after each step. To help you understand the difference between these rounding
+procedures, we will consider them further in Example 1.4.
+
+Significant Figures in Mathematical Operations
+Carry out the following mathematical operations, and give each result with the correct
+number of significant figures.
+a. 1.05 3 1023 4 6.135
+b. 21 2 13.8
+
+1.5 Significant Figures and Calculations
+
+c. As part of a lab assignment to determine the value of the gas constant (R), a student measured the pressure (P), volume (V ), and temperature (T) for a sample of
+gas, where
+R5
+
+PV
+T
+
+The following values were obtained: P 5 2.560, T 5 275.15, and V 5 8.8. (Gases
+will be discussed in detail in Chapter 5; we will not be concerned at this time about
+the units for these quantities.) Calculate R to the correct number of significant
+figures.
+SOLUTION
+
+a. The result is 1.71 3 1024, which has three significant figures because the term with
+the least precision (1.05 3 1023) has three significant figures.
+b. The result is 7 with no decimal point because the number with the least number
+of decimal places (21) has none.
+12.5602 18.82
+PV
+c. R 5
+T
+275.15
+The correct procedure for obtaining the final result can be represented as follows:
+12.5602 18.82
+22.528
+5 0.0818753
+275.15
+275.15
+
+5 0.082 5 8.2 3 1022 5 R
+The final result must be rounded to two significant figures because 8.8 (the least precise measurement) has two significant figures. To show the effects of rounding at intermediate steps, we will carry out the calculation as follows:
+Rounded to two
+significant figures
+↓
+
+12.5602 18.82
+22.528
+275.15
+275.15
+275.15
+Now we proceed with the next calculation:
+5 0.0835908
+275.15
+Rounded to two significant figures, this result is
+0.084 5 8.4 3 1022
+
+Photo © Cengage Learning
+
+Note that intermediate rounding gives a significantly different result than that obtained
+by rounding only at the end. Again, we must reemphasize that in your calculations you
+should round only at the end. However, because rounding is carried out at intermediate
+steps in this text (to always show the correct number of significant figures), the final
+answer given in the text may differ slightly from the one you obtain (rounding only at
+the end).
+
+▲
+This number must be rounded to two
+significant figures.
+
+See Exercises 1.39 through 1.42
+
+There is a useful lesson to be learned from Part c of Example 1.4. The student measured the pressure and temperature to greater precision than the volume. A more precise value of R (one with more significant figures) could have been obtained if a more
+precise measurement of V had been made. As it is, the efforts expended to measure
+P and T very precisely were wasted. Remember that a series of measurements to obtain
+some final result should all be done to about the same precision.
+
+1.6 Learning to Solve Problems
+Systematically
+One of the main activities in learning chemistry is solving various types of problems.
+The best way to approach a problem, whether it is a chemistry problem or one from
+your daily life, is to ask questions such as the following:
+1. What is my goal? Or you might phrase it as: Where am I going?
+2. Where am I starting? Or you might phrase it as: What do I know?
+3. How do I proceed from where I start to where I want to go? Or you might say:
+How do I get there?
+We will use these ideas as we consider unit conversions in this chapter. Then we will
+have much more to say about problem solving in Chapter 3, where we will start to
+consider more complex problems.
+
+1.7 Dimensional Analysis
+
+TABLE 1.4 | English–Metric
+Equivalents
+Length
+
+1 m 5 1.094 yd
+2.54 cm 5 1 in
+
+Mass
+
+1 kg 5 2.205 lb
+453.6 g 5 1 lb
+
+Volume
+
+1 L 5 1.06 qt
+1 ft3 5 28.32 L
+
+It is often necessary to convert a given result from one system of units to another. The
+best way to do this is by a method called the unit factor method or, more commonly,
+dimensional analysis. To illustrate the use of this method, we will consider several
+unit conversions. Some equivalents in the English and metric systems are listed in
+Table 1.4. A more complete list of conversion factors given to more significant figures
+appears in Appendix 6.
+Consider a pin measuring 2.85 cm in length. What is its length in inches? To accomplish this conversion, we must use the equivalence statement
+2.54 cm 5 1 in
+If we divide both sides of this equation by 2.54 cm, we get
+
+1 in
+2.54 cm
+
+This expression is called a unit factor. Since 1 inch and 2.54 cm are exactly equivalent,
+multiplying any expression by this unit factor will not change its value.
+The pin has a length of 2.85 cm. Multiplying this length by the appropriate unit
+factor gives
+2.85 cm 3
+
+1 in
+2.85
+in 5 1.12 in
+2.54 cm
+2.54
+
+Note that the centimeter units cancel to give inches for the result. This is exactly what
+we wanted to accomplish. Note also that the result has three significant figures, as
+required by the number 2.85. Recall that the 1 and 2.54 in the conversion factor are
+exact numbers by definition.
+INTERACTIVE EXAMPLE 1.5
+
+Unit Conversions I
+A pencil is 7.00 in long. What is its length in centimeters?
+
+SOLUTION
+
+Where are we going?
+To convert the length of the pencil from inches to centimeters
+What do we know?
+❯ The pencil is 7.00 in long.
+
+1.7 Dimensional Analysis
+
+How do we get there?
+Since we want to convert from inches to centimeters, we need the equivalence state2.54 cm
+ment 2.54 cm 5 1 in. The correct unit factor in this case is
+:
+1 in
+7.00 in 3
+
+2.54 cm
+5 17.002 12.542 cm 5 17.8 cm
+1 in
+
+Here the inch units cancel, leaving centimeters, as requested.
+See Exercises 1.43 and 1.44
+
+Note that two unit factors can be derived from each equivalence statement. For
+example, from the equivalence statement 2.54 cm 5 1 in, the two unit factors are
+2.54 cm
+1 in
+Consider the direction of the required
+change to select the correct unit factor.
+
+and
+
+1 in
+2.54 cm
+
+How do you choose which one to use in a given situation? Simply look at the direction
+of the required change. To change from inches to centimeters, the inches must cancel.
+Thus the factor 2.54 cm/1 in is used. To change from centimeters to inches, centimeters must cancel, and the factor 1 in/2.54 cm is appropriate.
+
+PROBLEM-SOLVING STRATEGY
+Converting from One Unit to Another
+
+» To convert from one unit to another, use the equivalence statement that relates
+the two units.
+
+» Derive the appropriate unit factor by looking at the direction of the required
+change (to cancel the unwanted units).
+» Multiply the quantity to be converted by the unit factor to give the quantity
+with the desired units.
+
+INTERACTIVE EXAMPLE 1.6
+
+Unit Conversions II
+You want to order a bicycle with a 25.5-in frame, but the sizes in the catalog are given
+only in centimeters. What size should you order?
+
+SOLUTION
+
+Where are we going?
+To convert from inches to centimeters
+What do we know?
+❯ The size needed is 25.5 in.
+
+How do we get there?
+Since we want to convert from inches to centimeters, we need the equivalence state2.54 cm
+ment 2.54 cm 5 1 in. The correct unit factor in this case is
+:
+1 in
+25.5 in 3
+
+2.54 cm
+5 64.8 cm
+1 in
+See Exercises 1.45 through 1.47
+
+To ensure that the conversion procedure is clear, a multistep problem is considered
+in Example 1.7.
+INTERACTIVE EXAMPLE 1.7
+
+Unit Conversions III
+A student has entered a 10.0-km run. How long is the run in miles?
+
+SOLUTION
+
+Where are we going?
+To convert from kilometers to miles
+What do we know?
+❯ The run is 10.00 km long.
+
+How do we get there?
+This conversion can be accomplished in several different ways. Since we have the
+equivalence statement 1 m 5 1.094 yd, we will proceed by a path that uses this fact.
+Before we start any calculations, let us consider our strategy. We have kilometers,
+which we want to change to miles. We can do this by the following route:
+kilometers
+
+meters
+
+yards
+
+miles
+
+To proceed in this way, we need the following equivalence statements:
+1k m 5 1000 m
+1m 5 1.094 yd
+1760y d 5 1 mi
+To make sure the process is clear, we will proceed step by step:
+
+Kilometers to Meters
+10.0 km 3
+
+1000 m
+5 1.00 3 104 m
+1 km
+
+Meters to Yards
+1.00 3 104 m 3
+
+1.094 yd
+5 1.094 3 104 yd
+1m
+
+Note that we should have only three significant figures in the result. However, since
+this is an intermediate result, we will carry the extra digit. Remember, round off only
+the final result.
+In the text we round to the correct number
+of significant figures after each step to
+show the correct significant figures for
+each calculation. However, since you use
+a calculator and combine steps on it, you
+should round only at the end.
+
+Yards to Miles
+1.094 3 104 yd 3
+
+1 mi
+5 6.216 mi
+1760 yd
+
+Note in this case that 1 mi equals exactly 1760 yd by designation. Thus 1760 is an
+exact number.
+Since the distance was originally given as 10.0 km, the result can have only three
+significant figures and should be rounded to 6.22 mi. Thus
+10.0 km 5 6.22 mi
+Alternatively, we can combine the steps:
+10.0 km 3
+
+1000 m
+1.094 yd
+1 mi
+5 6.22 mi
+1 km
+1m
+1760 yd
+See Exercises 1.49 and 1.50
+
+1.7 Dimensional Analysis
+
+In using dimensional analysis, your verification that everything has been done correctly is that you end up with the correct units. In doing chemistry problems, you
+should always include the units for the quantities used. Always check to see that the
+units cancel to give the correct units for the final result. This provides a very valuable
+check, especially for complicated problems.
+Study the procedures for unit conversions in the following examples.
+INTERACTIVE EXAMPLE 1.8
+
+Unit Conversions IV
+The speed limit on many highways in the United States is 55 mi/h. What number
+would be posted in kilometers per hour?
+
+SOLUTION
+
+Where are we going?
+To convert the speed limit from 55 miles per hour to kilometers per hour
+What do we know?
+❯ The speed limit is 55 mi/h.
+
+How do we get there?
+We use the following unit factors to make the required conversion:
+
+⎧
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎩
+
+Result obtained by
+rounding only at the
+end of the calculation
+
+n
+
+55 mi
+1760 yd
+1m
+1 km
+5 88 km /h
+h
+1 mi
+1.094 yd
+1000 m
+Note that all units cancel except the desired kilometers per hour.
+See Exercises 1.53 and 1.54
+
+INTERACTIVE EXAMPLE 1.9
+
+Unit Conversions V
+A Japanese car is advertised as having a gas mileage of 15 km/L. Convert this rating to
+miles per gallon.
+
+SOLUTION
+
+Where are we going?
+To convert gas mileage from 15 kilometers per liter to miles per gallon
+What do we know?
+❯ The gas mileage is 15 km/L.
+
+How do we get there?
+We use the following unit factors to make the required conversion:
+
+⎧
+⎪
+⎪
+⎪
+⎨
+⎪
+⎪
+⎪
+⎩
+
+Result obtained by
+rounding only at the
+end of the calculation
+
+n
+
+15 km
+1000 m
+1.094 yd
+1 mi
+1L
+4 qt
+5 35 mi/gal
+L
+1 km
+1m
+1760 yd
+1.06 qt
+1 gal
+See Exercise 1.56
+
+INTERACTIVE EXAMPLE 1.10
+
+Unit Conversions VI
+The latest model Corvette has an engine with a displacement of 6.20 L. What is the
+displacement in units of cubic inches?
+
+SOLUTION
+
+Where are we going?
+To convert the engine displacement from liters to cubic inches
+What do we know?
+❯ The displacement is 6.20 L.
+
+How do we get there?
+We use the following unit factors to make the required conversion:
+6.20 L 3
+
+112 in2 3
+1 ft3
+5 378 in3
+11 ft2 3
+28.32 L
+
+Note that the unit factor for conversion of feet to inches must be cubed to accommodate the conversion of ft3 to in3.
+See Exercise 1.60
+
+1.8 Temperature
+Three systems for measuring temperature are widely used: the Celsius scale, the
+Kelvin scale, and the Fahrenheit scale. The first two temperature systems are used in
+the physical sciences, and the third is used in many of the engineering sciences. Our
+purpose here is to define the three temperature scales and show how conversions from
+one scale to another can be performed. Although these conversions can be carried out
+routinely on most calculators, we will consider the process in some detail here to illustrate methods of problem solving.
+The three temperature scales are defined and compared in Fig. 1.9. Note that the
+size of the temperature unit (the degree) is the same for the Kelvin and Celsius scales.
+The fundamental difference between these two temperature scales is their zero points.
+Conversion between these two scales simply requires an adjustment for the different
+zero points.
+Temperature 1Kelvin2 5 temperature 1Celsius2 1 273.15
+
+TK 5 TC 1 273.15
+
+or
+TC 5 TK 2 273.15
+
+Temperature 1Celsius2 5 temperature 1Kelvin2 2 273.15
+
+For example, to convert 300.00 K to the Celsius scale, we do the following
+calculation:
+300.00 2 273.15 5 26.85°C
+Note that in expressing temperature in Celsius units, the designation 8C is used. The
+degree symbol is not used when writing temperature in terms of the Kelvin scale. The
+unit of temperature on this scale is called a kelvin and is symbolized by the letter K.
+Converting between the Fahrenheit and Celsius scales is somewhat more complicated because both the degree sizes and the zero points are different. Thus we need to
+consider two adjustments: one for degree size and one for the zero point. First, we
+
+1.8 Temperature
+FIGURE 1.9 The three major
+temperature scales.
+
+Boiling
+point
+of water
+
+212°F
+
+373.15 K
+
+100°C
+Celsius
+degrees
+
+Fahrenheit
+degrees
+Freezing
+point
+of water
+
+Kelvin
+
+Celsius
+
+Fahrenheit
+
+kelvins
+
+32°F
+
+0°C
+
+273.15 K
+
+−40°F
+
+−40°C
+
+233.15 K
+
+must account for the difference in degree size. This can be done by reconsidering
+Fig. 1.9. Notice that since 2128F 5 1008C and 328F 5 08C,
+212 2 32 5 180 Fahrenheit degrees 5 100 2 0 5 100 Celsius degrees
+Thus 1808 on the Fahrenheit scale is equivalent to 1008 on the Celsius scale, and the
+unit factor is
+180°F
+100°C
+
+or
+
+9°F
+5°C
+
+or the reciprocal, depending on the direction in which we need to go.
+Next, we must consider the different zero points. Since 328F 5 08C, we obtain the
+corresponding Celsius temperature by first subtracting 32 from the Fahrenheit temperature to account for the different zero points. Then the unit factor is applied to
+adjust for the difference in the degree size. This process is summarized by the
+equation
+1TF 2 32°F2
+
+5°C
+5 TC
+9°F
+
+(1.1)
+
+where TF and TC represent a given temperature on the Fahrenheit and Celsius scales,
+respectively. In the opposite conversion, we first correct for degree size and then correct for the different zero point. This process can be summarized in the following
+general equation:
+TF 5 T C 3
+Understand the process of converting from
+one temperature scale to another; do not
+simply memorize the equations.
+
+9°F
+1 32°F
+5°C
+
+(1.2)
+
+Equations (1.1) and (1.2) are really the same equation in different forms. See if you
+can obtain Equation (1.2) by starting with Equation (1.1) and rearranging.
+At this point it is worthwhile to weigh the two alternatives for learning to do temperature conversions: You can simply memorize the equations, or you can take the
+time to learn the differences between the temperature scales and to understand the
+processes involved in converting from one scale to another. The latter approach may
+
+take a little more effort, but the understanding you gain will stick with you much longer than the memorized formulas. This choice also will apply to many of the other
+chemical concepts. Try to think things through!
+
+Temperature Conversions I
+
+INTERACTIVE EXAMPLE 1.11
+
+Normal body temperature is 98.68F. Convert this temperature to the Celsius and Kelvin
+scales.
+
+SOLUTION
+
+Where are we going?
+To convert the body temperature from degrees Fahrenheit to degrees Celsius and to
+kelvins.
+What do we know?
+❯ The body temperature is 98.6°F.
+
+Master File
+
+How do we get there?
+Rather than simply using the formulas to solve this problem, we will proceed by thinking it through. The situation is diagramed in Fig. 1.10. First, we want to convert 98.68F
+to the Celsius scale. The number of Fahrenheit degrees between 32.08F and 98.68F is
+66.68F. We must convert this difference to Celsius degrees:
+
+▲
+
+66.6°F 3
+
+A nurse taking the temperature of a
+patient.
+
+5°C
+5 37.0°C
+9°F
+
+Thus 98.68F corresponds to 37.08C.
+Now we can convert to the Kelvin scale:
+TK 5 TC 1 273.15 5 37.0 1 273.15 5 310.2 K
+Note that the final answer has only one decimal place (37.0 is limiting).
+See Exercises 1.61, 1.63, and 1.64
+
+Fahrenheit
+
+98.6°F
+
+66.6°F
+
+32°F
+
+Celsius
+
+Kelvin
+
+?°C
+
+66.6°F ×
+
+0°C
+
+?K
+
+5°C
+= 37.0°C
+9°F
+
+37.0 + 273.15 K = 310.2 K
+
+273.15 K
+
+FIGURE 1.10 Normal body
+temperature on the Fahrenheit, Celsius,
+and Kelvin scales.
+
+1.8 Temperature
+EXAMPLE 1.12
+
+Temperature Conversions II
+One interesting feature of the Celsius and Fahrenheit scales is that 2408C and 2408F
+represent the same temperature, as shown in Fig. 1.9. Verify that this is true.
+
+SOLUTION
+
+Where are we going?
+To show that 2408C 5 2408F
+What do we know?
+❯ The relationship between the Celsius and Fahrenheit scales
+
+How do we get there?
+The difference between 328F and 2408F is 728F. The difference between 08C and
+2408C is 408C. The ratio of these is
+72°F
+8 3 9°F
+9°F
+40°C
+8 3 5°C
+5°C
+as required. Thus 2408C is equivalent to 2408F.
+See Exercise 1.65
+
+Since, as shown in Example 1.12, 2408 on both the Fahrenheit and Celsius scales
+represents the same temperature, this point can be used as a reference point (like 08C
+and 328F) for a relationship between the two scales:
+Number of Fahrenheit degrees
+T 2 12402
+9°F
+5 F
+Number of Celsius degrees
+TC 2 12402
+5°C
+TF 1 40
+9°F
+TC 1 40
+5°C
+
+(1.3)
+
+INTERACTIVE EXAMPLE 1.13
+
+Richard Megna/Fundamental Photographs © Cengage Learning
+
+where TF and TC represent the same temperature (but not the same number). This equation can be used to convert Fahrenheit temperatures to Celsius, and vice versa, and
+may be easier to remember than Equations (1.1) and (1.2).
+
+Temperature Conversions III
+Liquid nitrogen, which is often used as a coolant for low-temperature experiments, has a
+boiling point of 77 K. What is this temperature
+on the Fahrenheit scale?
+
+SOLUTION
+
+Where are we going?
+To convert 77 K to the Fahrenheit scale
+What do we know?
+❯ The relationship between the Kelvin
+and Fahrenheit scales
+
+How do we get there?
+
+▲
+Liquid nitrogen is so cold that water
+condenses out of the surrounding air,
+forming a cloud as the nitrogen is poured.
+
+We will first convert 77 K to the Celsius scale:
+TC 5 TK 2 273.15 5 77 2 273.15 5 2196°C
+
+To convert to the Fahrenheit scale, we will use Equation (1.3):
+TF 1 40
+9°F
+TC 1 40
+5°C
+TF 1 40
+T 1 40
+9°F
+5 F
+2196°C 1 40
+2156°C
+5°C
+TF 1 40 5
+
+9°F
+12156°C2 5 2281°F
+5°C
+
+TF 5 2281°F 2 40 5 2321°F
+See Exercises 1.61, 1.63, and 1.64
+
+1.9 Density
+A property of matter that is often used by chemists as an “identification tag” for a
+substance is density, the mass of substance per unit volume of the substance:
+Density 5
+
+mass
+volume
+
+The density of a liquid can be determined easily by weighing an accurately known
+volume of liquid. This procedure is illustrated in Example 1.14.
+
+INTERACTIVE EXAMPLE 1.14
+
+Determining Density
+A chemist, trying to identify an unknown liquid, finds that 25.00 cm3 of the substance
+has a mass of 19.625 g at 208C. The following are the names and densities of the compounds that might be the liquid:
+Compound
+
+Density in g/cm3 at 208C
+
+Chloroform
+
+1.492
+
+Diethyl ether
+
+0.714
+
+Ethanol
+
+0.789
+
+Isopropyl alcohol
+
+0.785
+
+Toluene
+
+0.867
+
+Which of these compounds is the most likely to be the unknown liquid?
+
+SOLUTION
+
+Where are we going?
+To calculate the density of the unknown liquid
+What do we know?
+❯ The mass of a given volume of the liquid.
+
+How do we get there?
+There are two ways of indicating units that
+occur in the denominator. For example, we
+can write g/cm3 or g cm23. Although we
+will use the former system here, the other
+system is widely used.
+
+To identify the unknown substance, we must determine its density. This can be done
+by using the definition of density:
+Density 5
+
+mass
+19.625 g
+5 0.7850 g /cm3
+volume
+25.00 cm3
+
+1.10 Classification of Matter
+
+This density corresponds exactly to that of isopropyl alcohol, which therefore most
+likely is the unknown liquid. However, note that the density of ethanol is also very
+close. To be sure that the compound is isopropyl alcohol, we should run several more
+density experiments. (In the modern laboratory, many other types of tests could be
+done to distinguish between these two liquids.)
+See Exercises 1.70 through 1.72
+
+Besides being a tool for the identification of substances, density has many other
+uses. For example, the liquid in your car’s lead storage battery (a solution of sulfuric
+acid) changes density because the sulfuric acid is consumed as the battery discharges.
+In a fully charged battery, the density of the solution is about 1.30 g/cm3. If the density
+falls below 1.20 g/cm3, the battery will have to be recharged. Density measurement is
+also used to determine the amount of antifreeze, and thus the level of protection against
+freezing, in the cooling system of a car.
+The densities of various common substances are given in Table 1.5.
+
+TABLE 1.5 | Densities of Various Common Substances* at 208C
+Physical State
+
+Density (g/cm3)
+
+Oxygen
+
+Gas
+
+0.00133
+
+Hydrogen
+
+Gas
+
+0.000084
+
+Ethanol
+
+Liquid
+
+0.789
+
+Benzene
+
+Liquid
+
+0.880
+
+Water
+
+Liquid
+
+0.9982
+
+Substance
+
+Magnesium
+
+Solid
+
+1.74
+
+Salt (sodium chloride)
+
+Solid
+
+2.16
+
+Aluminum
+
+Solid
+
+2.70
+
+Iron
+
+Solid
+
+7.87
+
+Copper
+
+Solid
+
+8.96
+
+Silver
+
+Solid
+
+10.49
+
+Lead
+
+Solid
+
+11.34
+
+Mercury
+
+Liquid
+
+13.56
+
+Gold
+
+Solid
+
+19.32
+
+*At 1 atmosphere pressure.
+
+1.10 Classification of Matter
+Before we can hope to understand the changes we see going on around us—the growth
+of plants, the rusting of steel, the aging of people, the acidification of rain—we must
+find out how matter is organized. Matter, best defined as anything occupying space
+and having mass, is the material of the universe. Matter is complex and has many levels of organization. In this section we will introduce basic ideas about the structure of
+matter and its behavior.
+We will start by considering the definitions of the fundamental properties of matter.
+Matter exists in three states: solid, liquid, and gas. A solid is rigid; it has a fixed volume and shape. A liquid has a definite volume but no specific shape; it assumes the
+shape of its container. A gas has no fixed volume or shape; it takes on the shape and
+volume of its container. In contrast to liquids and solids, which are only slightly compressible, gases are highly compressible; it is relatively easy to decrease the volume of
+
+FIGURE 1.11 The three states of
+water (where red spheres represent
+oxygen atoms and blue spheres
+represent hydrogen atoms).
+
+Ice
+
+Water
+
+Steam
+
+Solid: The water molecules are
+locked into rigid positions
+and are close together.
+
+Liquid: The water molecules
+are still close together but can
+move around to some extent.
+
+Gas: The water molecules are
+far apart and move randomly.
+
+a gas. Molecular-level pictures of the three states of water are given in Fig. 1.11. The
+different properties of ice, liquid water, and steam are determined by the different
+arrangements of the molecules in these substances. Table 1.5 gives the states of some
+common substances at 208C and 1 atmosphere pressure.
+Most of the matter around us consists of mixtures of pure substances. Wood, gasoline, wine, soil, and air all are mixtures. The main characteristic of a mixture is that it
+has variable composition. For example, wood is a mixture of many substances, the
+proportions of which vary depending on the type of wood and where it grows. Mixtures can be classified as homogeneous (having visibly indistinguishable parts) or
+heterogeneous (having visibly distinguishable parts).
+A homogeneous mixture is called a solution. Air is a solution consisting of a mixture
+of gases. Wine is a complex liquid solution. Brass is a solid solution of copper and zinc.
+Sand in water and iced tea with ice cubes are examples of heterogeneous mixtures.
+Heterogeneous mixtures usually can be separated into two or more homogeneous mixtures or pure substances (for example, the ice cubes can be separated from the tea).
+Mixtures can be separated into pure substances by physical methods. A pure
+substance is one with constant composition. Water is a good illustration of these
+ideas. As we will discuss in detail later, pure water is composed solely of H2O molecules, but the water found in nature (groundwater or the water in a lake or ocean)
+is really a mixture. Seawater, for example, contains large amounts of dissolved
+minerals. Boiling seawater produces steam, which can be condensed to pure water,
+leaving the minerals behind as solids. The dissolved minerals in seawater also can
+be separated out by freezing the mixture, since pure water freezes out. The processes of boiling and freezing are physical changes. When water freezes or boils,
+it changes its state but remains water; it is still composed of H2O molecules. A
+physical change is a change in the form of a substance, not in its chemical composition. A physical change can be used to separate a mixture into pure compounds, but
+it will not break compounds into elements.
+One of the most important methods for separating the components of a mixture
+is distillation, a process that depends on differences in the volatility (how readily
+substances become gases) of the components. In simple distillation, a mixture is
+
+1.10 Classification of Matter
+FIGURE 1.12 Simple laboratory
+distillation apparatus. Cool water
+circulates through the outer portion of
+the condenser, causing vapors from the
+distilling flask to condense into a liquid.
+The nonvolatile component of the
+mixture remains in the distilling flask.
+
+Thermometer
+
+Distilling
+flask
+
+Vapors
+
+Condenser
+
+Water out
+
+Cool
+water in
+Burner
+
+The term volatile refers to the ease with
+which a substance can be changed to its
+vapor.
+
+Receiving
+flask
+
+Distillate
+
+heated in a device such as that shown in Fig. 1.12. The most volatile component
+vaporizes at the lowest temperature, and the vapor passes through a cooled tube (a
+condenser), where it condenses back into its liquid state.
+The simple, one-stage distillation apparatus shown in Fig. 1.12 works very well
+when only one component of the mixture is volatile. For example, a mixture of water
+and sand is easily separated by boiling off the water. Water containing dissolved minerals behaves in much the same way. As the water is boiled off, the minerals remain
+behind as nonvolatile solids. Simple distillation of seawater using the sun as the heat
+source is an excellent way to desalinate (remove the minerals from) seawater.
+However, when a mixture contains several volatile components, the one-step distillation does not give a pure substance in the receiving flask, and more elaborate methods are required.
+Another method of separation is simple filtration, which is used when a mixture
+consists of a solid and a liquid. The mixture is poured onto a mesh, such as filter paper,
+which passes the liquid and leaves the solid behind.
+A third method of separation is chromatography. Chromatography is the general
+name applied to a series of methods that use a system with two phases (states) of matter: a mobile phase and a stationary phase. The stationary phase is a solid, and the
+mobile phase is either a liquid or a gas. The separation process occurs because the
+components of the mixture have different affinities for the two phases and thus move
+through the system at different rates. A component with a high affinity for the mobile
+phase moves relatively quickly through the chromatographic system, whereas one
+with a high affinity for the solid phase moves more slowly.
+One simple type of chromatography, paper chromatography, uses a strip of
+porous paper, such as filter paper, for the stationary phase. A drop of the mixture to
+be separated is placed on the paper, which is then dipped into a liquid (the mobile phase)
+that travels up the paper as though it were a wick (Fig. 1.13). This method of separating
+a mixture is often used by biochemists, who study the chemistry of living systems.
+It should be noted that when a mixture is separated, the absolute purity of the separated
+components is an ideal. Because water, for example, inevitably comes into contact with
+other materials when it is synthesized or separated from a mixture, it is never absolutely
+pure. With great care, however, substances can be obtained in very nearly pure form.
+
+Photos © Charles D. Winters
+
+FIGURE 1.13 Paper chromatography of ink. (a) A dot of the mixture to be
+separated is placed at one end of a sheet
+of porous paper. (b) The paper acts as a
+wick to draw up the liquid.
+
+Kristen Brochmann/Fundamental Photographs
+
+a
+
+The element mercury (top left) combines
+with the element iodine (top right) to
+form the compound mercuric iodide
+(bottom). This is an example of a chemical change.
+
+b
+
+Pure substances are either compounds (combinations of elements) or free elements.
+A compound is a substance with constant composition that can be broken down into
+elements by chemical processes. An example of a chemical process is the electrolysis
+of water, in which an electric current is passed through water to break it down into the
+free elements hydrogen and oxygen. This process produces a chemical change because
+the water molecules have been broken down. The water is gone, and in its place we
+have the free elements hydrogen and oxygen. A chemical change is one in which a
+given substance becomes a new substance or substances with different properties and
+different composition. Elements are substances that cannot be decomposed into simpler substances by chemical or physical means.
+We have seen that the matter around us has various levels of organization. The most
+fundamental substances we have discussed so far are elements. As we will see in later
+chapters, elements also have structure: They are composed of atoms, which in turn are
+composed of nuclei and electrons. Even the nucleus has structure: It is composed of
+protons and neutrons. And even these can be broken down further, into elementary
+particles called quarks. However, we need not concern ourselves with such details at
+this point. Fig. 1.14 summarizes our discussion of the organization of matter.
+
+Matter
+Variable composition?
+Yes
+
+No
+
+Mixtures
+
+Pure substances
+
+Visibly
+distinguishable parts?
+Yes
+Heterogeneous
+
+FIGURE 1.14 The organization of
+matter.
+
+Contains various
+types of atoms?
+No
+Homogeneous
+
+No
+Elements
+
+Yes
+Chemical
+methods
+
+Compounds
+
+Atoms
+
+For Review
+
+For Review
+Key terms
+
+Scientific method
+
+Section 1.2
+
+❯
+
+scientific method
+measurement
+hypothesis
+theory
+model
+natural law
+law of conservation of mass
+
+❯
+
+Section 1.3
+
+Quantitative observations are called measurements.
+
+SI system
+mass
+weight
+
+❯
+
+Models (theories) are explanations of why nature behaves in a
+particular way.
+❯
+
+Measurements consist of a number and a unit.
+
+❯
+
+Measurements involve some uncertainty.
+Uncertainty is indicated by the use of significant figures.
+❯ Rules to determine significant figures
+❯ Calculations using significant figures
+Preferred system is the SI system.
+
+❯
+
+uncertainty
+significant figures
+accuracy
+precision
+random error
+systematic error
+
+❯
+
+exponential notation
+
+Temperature conversions
+❯
+
+TK 5 TC 1 273.15
+
+❯
+
+TC 5 1TF 2 32°F2 a
+
+❯
+
+TF 5 T C a
+
+Section 1.7
+
+unit factor method
+dimensional analysis
+Section 1.9
+
+They are subject to modification over time and sometimes fail.
+
+❯
+
+Section 1.4
+
+Section 1.5
+
+Make observations
+Formulate hypotheses
+Perform experiments
+
+5°C
+b
+9°F
+
+9°F
+b 1 32°F
+5°C
+
+Density
+
+density
+Section 1.10
+
+matter
+states (of matter)
+homogeneous mixture
+heterogeneous mixture
+solution
+pure substance
+physical change
+distillation
+filtration
+chromatography
+paper chromatography
+compound
+chemical change
+element
+
+❯
+
+Density 5
+
+mass
+volume
+
+Matter can exist in three states:
+❯
+❯
+❯
+
+Solid
+Liquid
+Gas
+
+Mixtures can be separated by methods involving only physical
+changes:
+❯
+❯
+❯
+
+Distillation
+Filtration
+Chromatography
+
+Compounds can be decomposed to elements only through
+chemical changes.
+
+Review Questions Answers to the Review Questions can be found on the Student website (accessible from www.cengagebrain.com).
+1. Define and explain the differences between the following terms.
+a. law and theory
+b. theory and experiment
+c. qualitative and quantitative
+d. hypothesis and theory
+2. Is the scientific method suitable for solving problems
+only in the sciences? Explain.
+3. Which of the following statements could be tested by
+quantitative measurement?
+a. Ty Cobb was a better hitter than Pete Rose.
+b. Ivory soap is 99.44% pure.
+c. Rolaids consumes 47 times its weight in excess
+stomach acid.
+4. For each of the following pieces of glassware, provide a
+sample measurement and discuss the number of significant figures and uncertainty.
+
+5. A student performed an analysis of a sample for its
+calcium content and got the following results:
+14.92%
+
+14.91%
+
+14.88%
+
+14.91%
+
+The actual amount of calcium in the sample is 15.70%.
+What conclusions can you draw about the accuracy and
+precision of these results?
+6. Compare and contrast the multiplication/division significant figure rule to the significant figure rule applied
+for addition/subtraction in mathematical operations.
+7. Explain how density can be used as a conversion factor
+to convert the volume of an object to the mass of the
+object, and vice versa.
+8. On which temperature scale (8F, 8C, or K) does 1 degree
+represent the smallest change in temperature?
+9. Distinguish between physical changes and chemical
+changes.
+10. Why is the separation of mixtures into pure or relatively
+pure substances so important when performing a chemical analysis?
+
+a
+
+b
+
+c
+
+Active Learning Questions
+These questions are designed to be used by groups of students in
+class.
+1. a. There are 365 days per year, 24 hours per day, 12 months
+per year, and 60 minutes per hour. Use these data to determine how many minutes are in a month.
+b. Now use the following data to calculate the number of
+minutes in a month: 24 hours per day, 60 minutes per
+hour, 7 days per week, and 4 weeks per month.
+c. Why are these answers different? Which (if any) is more
+correct? Why?
+2. You go to a convenience store to buy candy and find the owner
+to be rather odd. He allows you to buy pieces in multiples of
+four, and to buy four, you need $0.23. He only allows you to
+do this by using 3 pennies and 2 dimes. You have a bunch of
+pennies and dimes, and instead of counting them, you decide
+to weigh them. You have 636.3 g of pennies, and each penny
+
+weighs 3.03 g. Each dime weighs 2.29 g. Each piece of candy
+weighs 10.23 g.
+a. How many pennies do you have?
+b. How many dimes do you need to buy as much candy as
+possible?
+c. How much should all these dimes weigh?
+d. How many pieces of candy could you buy? (number of
+dimes from part b)
+e. How much would this candy weigh?
+f. How many pieces of candy could you buy with twice as
+many dimes?
+3. When a marble is dropped into a beaker of water, it sinks to
+the bottom. Which of the following is the best explanation?
+a. The surface area of the marble is not large enough to be
+held up by the surface tension of the water.
+b. The mass of the marble is greater than that of the water.
+
+For Review
+
+c. The marble weighs more than an equivalent volume of the
+water.
+d. The force from dropping the marble breaks the surface
+tension of the water.
+e. The marble has greater mass and volume than the water.
+Justify your choice, and for choices you did not pick, explain
+what is wrong about them.
+4. You have two beakers, one filled to the 100-mL mark with
+sugar (the sugar has a mass of 180.0 g) and the other filled to
+the 100-mL mark with water (the water has a mass of 100.0 g).
+You pour all the sugar and all the water together in a bigger
+beaker and stir until the sugar is completely dissolved.
+a. Which of the following is true about the mass of the
+solution? Explain.
+i. It is much greater than 280.0 g.
+ii. It is somewhat greater than 280.0 g.
+iii. It is exactly 280.0 g.
+iv. It is somewhat less than 280.0 g.
+v. It is much less than 280.0 g.
+b. Which of the following is true about the volume of the
+solution? Explain.
+i. It is much greater than 200.0 mL.
+ii. It is somewhat greater than 200.0 mL.
+iii. It is exactly 200.0 mL.
+iv. It is somewhat less than 200.0 mL.
+v. It is much less than 200.0 mL.
+5. You may have noticed that when water boils, you can see bubbles that rise to the surface of the water.
+a. What is inside these bubbles?
+i. air
+ii. hydrogen and oxygen gas
+iii. oxygen gas
+iv. water vapor
+v. carbon dioxide gas
+b. Is the boiling of water a chemical or physical change?
+Explain.
+6. If you place a glass rod over a burning candle, the glass
+appears to turn black. What is happening to each of the following (physical change, chemical change, both, or neither) as the
+candle burns? Explain each answer.
+a. the wax
+b. the wick
+c. the glass rod
+7. Which characteristics of a solid, a liquid, and a gas are exhibited by each of the following substances? How would you
+classify each substance?
+a. a bowl of pudding
+b. a bucketful of sand
+8. Sketch a magnified view (showing atoms/molecules) of each
+of the following and explain:
+a. a heterogeneous mixture of two different compounds
+b. a homogeneous mixture of an element and a compound
+9. Paracelsus, a sixteenth-century alchemist and healer, adopted
+as his slogan: “The patients are your textbook, the sickbed is
+your study.” Is this view consistent with using the scientific
+method?
+10. What is wrong with the following statement?
+“The results of the experiment do not agree with the theory.
+Something must be wrong with the experiment.”
+
+11. Why is it incorrect to say that the results of a measurement
+were accurate but not precise?
+12. What data would you need to estimate the money you would
+spend on gasoline to drive your car from New York to Chicago? Provide estimates of values and a sample calculation.
+13. Sketch two pieces of glassware: one that can measure volume
+to the thousandths place and one that can measure volume
+only to the ones place.
+14. You have a 1.0-cm3 sample of lead and a 1.0-cm3 sample of
+glass. You drop each in separate beakers of water. How do the
+volumes of water displaced by each sample compare? Explain.
+15. Consider the addition of 15.4 to 28. What would a mathematician say the answer is? What would a scientist say? Justify the
+scientist’s answer, not merely citing the rule, but explaining it.
+16. Consider multiplying 26.2 by 16.43. What would a mathematician say the answer is? What would a scientist say? Justify
+the scientist’s answer, not merely citing the rule, but explaining it.
+17. True or false? For mathematical operation performed on two
+measurements, the number of significant figures in the answer
+is the same as the least number of significant figures in either
+of the measurements. Explain your answer.
+18. Is there a difference between a homogeneous mixture of
+hydrogen and oxygen in a 2;1 ratio and a sample of water
+vapor? Explain.
+A blue question or exercise number indicates that the answer to
+that question or exercise appears at the back of this book and a
+solution appears in the Solutions Guide, as found on the Instructor
+Companion Site.
+
+Questions
+19. The difference between a law and a theory is the difference
+between what and why. Explain.
+20. The scientific method is a dynamic process. What does this
+mean?
+21. Explain the fundamental steps of the scientific method.
+22. What is the difference between random error and systematic
+error?
+23. A measurement is a quantitative observation involving both a
+number and a unit. What is a qualitative observation? What are
+the SI units for mass, length, and volume? What is the assumed
+uncertainty in a number (unless stated otherwise)? The uncertainty of a measurement depends on the precision of the measuring device. Explain.
+24. To determine the volume of a cube, a student measured one of
+the dimensions of the cube several times. If the true dimension
+of the cube is 10.62 cm, give an example of four sets of measurements that would illustrate the following.
+a. imprecise and inaccurate data
+b. precise but inaccurate data
+c. precise and accurate data
+Give a possible explanation as to why data can be imprecise or inaccurate. What is wrong with saying a set of measurements is imprecise but accurate?
+
+25. What are significant figures? Show how to indicate the number one thousand to 1 significant figure, 2 significant figures,
+3 significant figures, and 4 significant figures. Why is the
+answer, to the correct number of significant figures, not 1.0 for
+the following calculation?
+1.5 2 1.0
+0.50
+26. A cold front moves through and the temperature drops by
+20 degrees. In which temperature scale would this 20 degree
+change represent the largest change in temperature?
+27. When the temperature in degrees Fahrenheit (TF) is plotted vs.
+the temperature in degrees Celsius (TC), a straight-line plot
+results. A straight-line plot also results when TC is plotted vs.
+TK (the temperature in kelvins). Reference Appendix A1.3 and
+determine the slope and y-intercept of each of these two plots.
+28. In a multiple-step calculation, is it better to round off the numbers to the correct number of significant figures in each step of
+the calculation or to round off only the final answer?
+29. Is the density of a gaseous substance larger or smaller than the
+density of a liquid or a solid at the same temperature? Why?
+30. Give four examples illustrating each of the following terms.
+a. homogeneous mixture
+d. element
+b. heterogeneous mixture
+e. physical change
+c. compound
+f. chemical change
+
+34. How many significant figures are in each of the following?
+a. 100
+e. 0.0048
+b. 1.0 3 10
+f. 0.00480
+c. 1.00 3 103
+g. 4.80 3 1023
+d. 100.
+h. 4.800 3 1023
+35. Round off each of the following numbers to the indicated
+number of significant digits, and write the answer in standard
+scientific notation.
+a. 0.00034159 to three digits
+b. 103.351 3 102 to four digits
+c. 17.9915 to five digits
+d. 3.365 3 105 to three digits
+36. Use exponential notation to express the number 385,500 to
+a. one significant figure.
+b. two significant figures.
+c. three significant figures.
+d. five significant figures.
+37. You have liquid in each graduated cylinder shown:
+
+mL
+
+Exercises
+
+In this section similar exercises are paired.
+
+mL
+
+Significant Figures and Unit Conversions
+
+0.5
+
+31. Which of the following are exact numbers?
+a. There are 100 cm in 1 m.
+b. One meter equals 1.094 yards.
+c. We can use the equation
+
+°F 5 95°C 1 32
+to convert from Celsius to Fahrenheit temperature. Are the
+numbers 95 and 32 exact or inexact?
+d. p 5 3.1415927.
+32. Indicate the number of significant figures in each of the
+following:
+a. This book contains more than 1000 pages.
+b. A mile is about 5300 ft.
+c. A liter is equivalent to 1.059 qt.
+d. The population of the United States is approaching
+3.1 3 102 million.
+e. A kilogram is 1000 g.
+f. The Boeing 747 cruises at around 600 mi/h.
+33. How many significant figures are there in each of the following values?
+a. 6.07 3 10215
+e. 463.8052
+b. 0.003840
+f. 300
+c. 17.00
+g. 301
+d. 8 3 108
+h. 300.
+
+You then add both samples to a beaker. How would you write
+the number describing the total volume? What limits the precision of this number?
+38. The beakers shown below have different precisions.
+
+32.9
+
+32.8
+
+32.7
+
+a. Label the amount of water in each of the three beakers to
+the correct number of significant figures.
+b. Is it possible for each of the three beakers to contain the
+exact same amount of water? If no, why not? If yes, did
+you report the volumes as the same in part a? Explain.
+c. Suppose you pour the water from these three beakers into
+one container. What should be the volume in the container
+reported to the correct number of significant figures?
+
+For Review
+
+39. Evaluate each of the following, and write the answer to the
+appropriate number of significant figures.
+a. 212.2 1 26.7 1 402.09
+b. 1.0028 1 0.221 1 0.10337
+c. 52.331 1 26.01 2 0.9981
+d. 2.01 3 102 1 3.014 3 103
+e. 7.255 2 6.8350
+40. Perform the following mathematical operations, and express
+each result to the correct number of significant figures.
+0.102 3 0.0821 3 273
+a.
+1.01
+b. 0.14 3 6.022 3 1023
+c. 4.0 3 104 3 5.021 3 1023 3 7.34993 3 102
+2.00 3 106
+d.
+3.00 3 1027
+41. Perform the following mathematical operations, and express
+the result to the correct number of significant figures.
+0.470
+80.705
+2.526
+a.
+3.1
+0.623
+0.4326
+b. (6.404 3 2.91)y(18.7 2 17.1)
+c. 6.071 3 1025 2 8.2 3 1026 2 0.521 3 1024
+d. (3.8 3 10212 1 4.0 3 10213)y(4 3 1012 1 6.3 3 1013)
+9.5 1 4.1 1 2.8 1 3.175
+e.
+(Assume that this operation is taking the average of four
+numbers. Thus 4 in the denominator is exact.)
+8.925 2 8.905
+f.
+3 100
+8.925
+(This type of calculation is done many times in calculating a
+percentage error. Assume that this example is such a calculation; thus 100 can be considered to be an exact number.)
+42. Perform the following mathematical operations, and express
+the result to the correct number of significant figures.
+a. 6.022 3 1023 3 1.05 3 102
+6.6262 3 10234 3 2.998 3 108
+b.
+2.54 3 1029
+c. 1.285 3 1022 1 1.24 3 1023 1 1.879 3 1021
+11.00866 2 1.007282
+d.
+6.02205 3 1023
+9.875 3 102 2 9.795 3 102
+e.
+3 100 1100 is exact2
+9.875 3 102
+9.42 3 102 1 8.234 3 102 1 1.625 3 103
+13 is exact2
+f.
+43. Perform each of the following conversions.
+a. 8.43 cm to millimeters
+b. 2.41 3 102 cm to meters
+c. 294.5 nm to centimeters
+d. 1.445 3 104 m to kilometers
+e. 235.3 m to millimeters
+f. 903.3 nm to micrometers
+
+34a
+
+44. a. How many kilograms are in 1 teragram?
+b. How many nanometers are in 6.50 3 102 terameters?
+c. How many kilograms are in 25 femtograms?
+d. How many liters are in 8.0 cubic decimeters?
+e. How many microliters are in 1 milliliter?
+f. How many picograms are in 1 microgram?
+45. Perform the following unit conversions.
+a. Congratulations! You and your spouse are the proud
+parents of a new baby, born while you are studying in a
+country that uses the metric system. The nurse has
+informed you that the baby weighs 3.91 kg and measures
+51.4 cm. Convert your baby’s weight to pounds and
+ounces and her length to inches (rounded to the nearest
+quarter inch).
+b. The circumference of the earth is 25,000 mi at the equator. What is the circumference in kilometers? in meters?
+c. A rectangular solid measures 1.0 m by 5.6 cm by 2.1 dm.
+Express its volume in cubic meters, liters, cubic inches,
+and cubic feet.
+46. Perform the following unit conversions.
+a. 908 oz to kilograms
+b. 12.8 L to gallons
+c. 125 mL to quarts
+d. 2.89 gal to milliliters
+e. 4.48 lb to grams
+f. 550 mL to quarts
+47. Use the following exact conversion factors to perform the
+stated calculations:
+512 yd 5 1 rod
+40 rods 5 1 furlong
+8 furlongs 5 1 mile
+a. The Kentucky Derby race is 1.25 miles. How long is the
+race in rods, furlongs, meters, and kilometers?
+b. A marathon race is 26 miles, 385 yards. What is this
+distance in rods, furlongs, meters, and kilometers?
+48. Although the preferred SI unit of area is the square meter, land
+is often measured in the metric system in hectares (ha). One
+hectare is equal to 10,000 m2. In the English system, land is
+often measured in acres (1 acre 5 160 rod2). Use the exact
+conversions and those given in Exercise 47 to calculate the
+following.
+a. 1 ha 5 ________ km2
+b. The area of a 5.5-acre plot of land in hectares, square
+meters, and square kilometers
+c. A lot with dimensions 120 ft by 75 ft is to be sold for
+$6500. What is the price per acre? What is the price per
+hectare?
+
+34b
+
+49. Precious metals and gems are measured in troy weights in the
+English system:
+24 grains 5 1 pennyweight 1exact2
+20 pennyweight 5 1 troy ounce 1exact2
+12 troy ounces 5 1 troy pound 1exact2
+1 grain 5 0.0648 g
+1 carat 5 0.200 g
+
+a. The most common English unit of mass is the pound
+avoirdupois. What is 1 troy pound in kilograms and in
+pounds?
+b. What is the mass of a troy ounce of gold in grams and in
+carats?
+c. The density of gold is 19.3 g/cm3. What is the volume of a
+troy pound of gold?
+50. Apothecaries (druggists) use the following set of measures in
+the English system:
+20 grains ap 5 1 scruple 1exact2
+3 scruples 5 1 dram ap 1exact2
+8 dram ap 5 1 oz ap 1exact2
+1 dram ap 5 3.888 g
+a. Is an apothecary grain the same as a troy grain? (See
+Exercise 49.)
+b. 1 oz ap 5 ________ oz troy.
+c. An aspirin tablet contains 5.00 3 102 mg of active ingredient. What mass in grains ap of active ingredient does it
+contain? What mass in scruples?
+d. What is the mass of 1 scruple in grams?
+51. For a pharmacist dispensing pills or capsules, it is often easier
+to weigh the medication to be dispensed than to count the individual pills. If a single antibiotic capsule weighs 0.65 g, and a
+pharmacist weighs out 15.6 g of capsules, how many capsules
+have been dispensed?
+52. A children’s pain relief elixir contains 80. mg acetaminophen
+per 0.50 teaspoon. The dosage recommended for a child who
+weighs between 24 and 35 lb is 1.5 teaspoons. What is the range
+of acetaminophen dosages, expressed in mg acetaminophen/kg
+body weight, for children who weigh between 24 and 35 lb?
+53. Science fiction often uses nautical analogies to describe space
+travel. If the starship U.S.S. Enterprise is traveling at warp
+factor 1.71, what is its speed in knots and in miles per hour?
+(Warp 1.71 5 5.00 times the speed of light; speed of light 5
+3.00 3 108 m/s; 1 knot 5 2030 yd/h.)
+54. The world record for the hundred meter dash is 9.58 s. What is
+the corresponding average speed in units of m/s, km/h, ft/s,
+and mi/h? At this speed, how long would it take to run 1.00 3
+102 yards?
+55. You are driving 65 mi/h and take your eyes off the road for
+“just a second.” What distance (in feet) do you travel in this
+time?
+56. You pass a road sign saying “New York 112 km.” If you drive
+at a constant speed of 65 mi/h, how long should it take you to
+reach New York? If your car gets 28 miles to the gallon, how
+many liters of gasoline are necessary to travel 112 km?
+
+57. The dosage for an antibiotic is prescribed at 8.0 mg per kilogram of body weight, taken twice daily for two weeks. What
+total mass of antibiotic will be taken by a 180-lb person for the
+two-week period?
+58. In recent years, there has been a large push for an increase in
+the use of renewable resources to produce the energy we need
+to power our vehicles. One of the newer fuels that has become
+more widely available is E85, a mixture of 85% ethanol and
+15% gasoline. Despite being more environmentally friendly,
+one of the potential drawbacks of E85 fuel is that it produces
+less energy than conventional gasoline. Assume a car gets
+28.0 mi/gal using gasoline at $3.50/gal and 22.5 mi/gal using
+E85 at $2.85/gal. How much will it cost to drive 500. miles
+using each fuel?
+59. Mercury poisoning is a debilitating disease that is often fatal.
+In the human body, mercury reacts with essential enzymes
+leading to irreversible inactivity of these enzymes. If the
+amount of mercury in a polluted lake is 0.4 mg Hg/mL, what
+is the total mass in kilograms of mercury in the lake? (The lake
+has a surface area of 100 mi2 and an average depth of 20 ft.)
+60. Carbon monoxide (CO) detectors sound an alarm when peak
+levels of carbon monoxide reach 100 parts per million (ppm).
+This level roughly corresponds to a composition of air that
+contains 400,000 mg carbon monoxide per cubic meter of air
+(400,000 mg/m3). Assuming the dimensions of a room are
+18 ft 3 12 ft 3 8 ft, estimate the mass of carbon monoxide in
+the room that would register 100 ppm on a carbon monoxide
+detector.
+
+Temperature
+61. Convert the following Fahrenheit temperatures to the Celsius
+and Kelvin scales.
+a. 24598F, an extremely low temperature
+b. 240.8F, the answer to a trivia question
+c. 688F, room temperature
+d. 7 3 107 8F, temperature required to initiate fusion reactions in the sun
+62. A thermometer gives a reading of 96.18F 6 0.28F. What is the
+temperature in 8C? What is the uncertainty?
+63. Convert the following Celsius temperatures to Kelvin and to
+Fahrenheit degrees.
+a. the temperature of someone with a fever, 39.28C
+b. a cold wintery day, 2258C
+c. the lowest possible temperature, 22738C
+d. the melting-point temperature of sodium chloride, 8018C
+64. Convert the following Kelvin temperatures to Celsius and
+Fahrenheit degrees.
+a. the temperature that registers the same value on both the
+Fahrenheit and Celsius scales, 233 K
+b. the boiling point of helium, 4 K
+c. the temperature at which many chemical quantities are
+determined, 298 K
+d. the melting point of tungsten, 3680 K
+
+For Review
+
+65. At what temperature is the temperature in degrees Fahrenheit
+equal to twice the temperature in degrees Celsius?
+66. The average daytime temperatures on the earth and Jupiter are
+728F and 313 K, respectively. Calculate the difference in temperature, in 8C, between these two planets.
+67. Use the figure below to answer the following questions.
+
+130°C
+
+50°X
+
+−10°C
+
+0°X
+
+a. Derive the relationship between 8C and 8X.
+b. If the temperature outside is 22.08C, what is the temperature in units of 8X?
+c. Convert 58.08X to units of 8C, K, and 8F.
+68. Ethylene glycol is the main component in automobile antifreeze. To monitor the temperature of an auto cooling system,
+you intend to use a meter that reads from 0 to 100. You devise
+a new temperature scale based on the approximate melting
+and boiling points of a typical antifreeze solution (2458C and
+1158C). You wish these points to correspond to 08A and
+1008A, respectively.
+a. Derive an expression for converting between 8A and 8C.
+b. Derive an expression for converting between 8F and 8A.
+c. At what temperature would your thermometer and a
+Celsius thermometer give the same numerical reading?
+d. Your thermometer reads 868A. What is the temperature in
+8C and in 8F?
+e. What is a temperature of 458C in 8A?
+
+Density
+69. A material will float on the surface of a liquid if the material
+has a density less than that of the liquid. Given that the density
+of water is approximately 1.0 g/mL, will a block of material
+having a volume of 1.2 3 104 in3 and weighing 350 lb float or
+sink when placed in a reservoir of water?
+70. One metal object is a cube with edges of 3.00 cm and a mass of
+140.4 g. A second metal object is a sphere with a radius of
+1.42 cm and a mass of 61.6 g. Are these objects made of the
+same or different metals? Assume the calculated densities are
+accurate to 61.00%.
+
+34c
+
+71. A star is estimated to have a mass of 2 3 1036 kg. Assuming it
+to be a sphere of average radius 7.0 3 105 km, calculate the
+average density of the star in units of grams per cubic
+centimeter.
+72. A rectangular block has dimensions 2.9 cm 3 3.5 cm 3
+10.0 cm. The mass of the block is 615.0 g. What are the volume and density of the block?
+73. Diamonds are measured in carats, and 1 carat 5 0.200 g. The
+density of diamond is 3.51 g/cm3.
+a. What is the volume of a 5.0-carat diamond?
+b. What is the mass in carats of a diamond measuring 2.8 mL?
+74. At room temperature the element bromine, Br2, is a liquid with
+a density of 3.12 g/cm3. Calculate the mass of 125 mL of bromine. What volume does 85.0 g of bromine occupy?
+75. A sample containing 33.42 g of metal pellets is poured into a
+graduated cylinder initially containing 12.7 mL of water, causing the water level in the cylinder to rise to 21.6 mL. Calculate
+the density of the metal.
+76. The density of pure silver is 10.5 g/cm3 at 208C. If 5.25 g of
+pure silver pellets is added to a graduated cylinder containing
+11.2 mL of water, to what volume level will the water in the
+cylinder rise?
+77. In each of the following pairs, which has the greater mass?
+(See Table 1.5.)
+a. 1.0 kg of feathers or 1.0 kg of lead
+b. 1.0 mL of mercury or 1.0 mL of water
+c. 19.3 mL of water or 1.00 mL of gold
+d. 75 mL of copper or 1.0 L of benzene
+78. a. Calculate the mass of ethanol in 1.50 qt of ethanol. (See
+Table 1.5.)
+b. Calculate the mass of mercury in 3.5 in3 of mercury. (See
+Table 1.5.)
+79. In each of the following pairs, which has the greater volume?
+a. 1.0 kg of feathers or 1.0 kg of lead
+b. 100 g of gold or 100 g of water
+c. 1.0 L of copper or 1.0 L of mercury
+80. Using Table 1.5, calculate the volume of 25.0 g of each of the
+following substances at 1 atm.
+a. hydrogen gas
+b. water
+c. iron
+Chapter 5 discusses the properties of gases. One property
+unique to gases is that they contain mostly empty space.
+Explain using the results of your calculations.
+81. The density of osmium (the densest metal) is 22.57 g/cm3. If a
+1.00-kg rectangular block of osmium has two dimensions of
+4.00 cm 3 4.00 cm, calculate the third dimension of the block.
+82. A copper wire (density 5 8.96 g/cm3) has a diameter of
+0.25 mm. If a sample of this copper wire has a mass of 22 g,
+how long is the wire?
+
+34d
+
+Classification and Separation of Matter
+83. Match each description below with the following microscopic
+pictures. More than one picture may fit each description. A
+picture may be used more than once or not used at all.
+
+i
+
+ii
+
+iii
+
+iv
+
+v
+
+vi
+
+a. a gaseous compound
+b. a mixture of two gaseous elements
+c. a solid element
+d. a mixture of a gaseous element and a gaseous compound
+84. Define the following terms: solid, liquid, gas, pure substance,
+element, compound, homogeneous mixture, heterogeneous
+mixture, solution, chemical change, physical change.
+85. What is the difference between homogeneous and heterogeneous matter? Classify each of the following as homogeneous
+or heterogeneous.
+a. a door
+d. the water you drink
+b. the air you breathe
+e. salsa
+c. a cup of coffee (black)
+f. your lab partner
+86. Classify the following mixtures as homogeneous or heterogeneous.
+a. potting soil
+d. window glass
+b. white wine
+e. granite
+c. your sock drawer
+87. Classify each of the following as a mixture or a pure
+substance.
+a. water
+f. uranium
+b. blood
+g. wine
+c. the oceans
+h. leather
+d. iron
+i. table salt
+e. brass
+Of the pure substances, which are elements and which are
+compounds?
+88. Suppose a teaspoon of magnesium filings and a teaspoon of
+powdered sulfur are placed together in a metal beaker. Would
+this constitute a mixture or a pure substance? Suppose the
+magnesium filings and sulfur are heated so that they react with
+each other, forming magnesium sulfide. Would this still be a
+“mixture”? Why or why not?
+89. If a piece of hard, white blackboard chalk is heated strongly in
+a flame, the mass of the piece of chalk will decrease, and eventually the chalk will crumble into a fine white dust. Does this
+change suggest that the chalk is composed of an element or a
+compound?
+
+90. During a very cold winter, the temperature may remain below
+freezing for extended periods. However, fallen snow can still
+disappear, even though it cannot melt. This is possible because
+a solid can vaporize directly, without passing through the liquid state. Is this process (sublimation) a physical or a chemical
+change?
+91. Classify the following as physical or chemical changes.
+a. Moth balls gradually vaporize in a closet.
+b. Hydrofluoric acid attacks glass and is used to etch calibration marks on glass laboratory utensils.
+c. A French chef making a sauce with brandy is able to boil
+off the alcohol from the brandy, leaving just the brandy
+flavoring.
+d. Chemistry majors sometimes get holes in the cotton jeans
+they wear to lab because of acid spills.
+92. The properties of a mixture are typically averages of the properties of its components. The properties of a compound may
+differ dramatically from the properties of the elements that
+combine to produce the compound. For each process described
+below, state whether the material being discussed is most
+likely a mixture or a compound, and state whether the process
+is a chemical change or a physical change.
+a. An orange liquid is distilled, resulting in the collection of
+a yellow liquid and a red solid.
+b. A colorless, crystalline solid is decomposed, yielding a
+pale yellow-green gas and a soft, shiny metal.
+c. A cup of tea becomes sweeter as sugar is added to it.
+
+Additional Exercises
+93. Two spherical objects have the same mass. One floats on
+water; the other sinks. Which object has the greater diameter?
+Explain.
+94. A 194-g sample of caffeine (C8H10N4O2) contains 6.02 3 1023
+molecules of caffeine. If a typical 10-hour energy drink contains 422 mg of caffeine, how many molecules of caffeine are
+present in the drink?
+95. Lipitor, a pharmaceutical drug that has been shown to lower
+“bad” cholesterol levels while raising “good” cholesterol levels in patients taking the drug, had over $3 billion in sales in
+2015. Assuming one 2.5-g pill contains 4.0% of the active
+ingredient by mass, what mass in kg of active ingredient is
+present in one bottle of 100 pills?
+96. In Shakespeare’s Richard III, the First Murderer says:
+“Take that, and that! [Stabs Clarence]
+If that is not enough, I’ll drown you in a malmsey butt within!”
+Given that 1 butt 5 126 gal, in how many liters of malmsey (a
+foul brew similar to mead) was the unfortunate Clarence about
+to be drowned?
+97. The contents of one 40. lb bag of topsoil will cover 10. square
+feet of ground to a depth of 1.0 inch. What number of bags is
+needed to cover a plot that measures 200. by 300. m to a depth
+of 4.0 cm?
+
+For Review
+
+98. In the opening scenes of the movie Raiders of the Lost Ark,
+Indiana Jones tries to remove a gold idol from a booby-trapped
+pedestal. He replaces the idol with a bag of sand of approximately equal volume. (Density of gold 5 19.32 g/cm3; density
+of sand < 2 g/cm3.)
+a. Did he have a reasonable chance of not activating the
+mass-sensitive booby trap?
+b. In a later scene, he and an unscrupulous guide play catch
+with the idol. Assume that the volume of the idol is about
+1.0 L. If it were solid gold, what mass would the idol
+have? Is playing catch with it plausible?
+99. A parsec is an astronomical unit of distance where 1 parsec 5
+3.26 light years (1 light year equals the distance traveled by
+light in one year). If the speed of light is 186,000 mi/s, calculate the distance in meters of an object that travels 9.6 parsecs.
+100. The active ingredient of aspirin tablets is acetylsalicylic acid,
+which has a density of 1.4 g/cm3. In a lab class, a student used
+paper chromatography to isolate another common ingredient
+of headache remedies. The isolated sample had a mass of
+0.384 g and a volume of 0.32 cm3. Given the data in the following table, what was the other ingredient in the headache
+remedy?
+
+Density Values for Potential Headache Remedies
+Compound
+
+Density (g/cm3)
+
+White table sugar
+
+0.70
+
+Caffeine
+
+1.2
+
+Acetylsalicylic acid
+
+1.4
+
+Sodium chloride
+
+2.2
+
+101. This year, like many past years, you begin to feel very sleepy
+after eating a large helping of Thanksgiving turkey. Some
+people attribute this sleepiness to the presence of the amino
+acid tryptophan in turkey. Tryptophan can be used by the body
+to produce serotonin, which can calm the brain’s activity and
+help to bring on sleep.
+a. What mass in grams of tryptophan is in a 0.25-lb serving
+of turkey? (Assume tryptophan accounts for 1.0% of the
+turkey mass.)
+b. What mass in grams of tryptophan is in 0.25 quart of
+milk? (Assume tryptophan accounts for 2.0% of milk by
+mass and that the density of milk is 1.04 kg/L.)
+102. Which of the following are chemical changes? Which are
+physical changes?
+a. the cutting of food
+b. interaction of food with saliva and digestive enzymes
+c. proteins being broken down into amino acids
+d. complex sugars being broken down into simple sugars
+e. making maple syrup by heating maple sap to remove
+water through evaporation
+f. DNA unwinding
+
+34e
+
+103. A person with high cholesterol has 250 mg of cholesterol per
+100.0 mL of blood. If the total blood volume of the person is
+5.4 L, what is the total mass (in grams) of cholesterol present
+in the person’s blood?
+104. Assume the following numbers are known to 61 in the last
+digit. Perform the following divisions and estimate the maximum uncertainty in each result, that is, determine the largest
+and smallest number that could occur for each case (see
+Appendix 1.5).
+a. 103 4 101
+b. 101 4 99
+c. 99 4 101
+Considering your calculated error limits, to how many significant figures should each result be expressed? Do any of these
+constitute an exception to the rule for division listed in Section 1.5? Rationalize any discrepancies.
+105. A column of liquid is found to expand linearly on heating.
+Assume the column rises 5.25 cm for a 10.08F rise in temperature. If the initial temperature of the liquid is 98.68F, what will
+the final temperature be in 8C if the liquid has expanded by
+18.5 cm?
+106. A 25.00-g sample of a solid is placed in a graduated cylinder,
+and then the cylinder is filled to the 50.0-mL mark with benzene. The mass of benzene and solid together is 58.80 g.
+Assuming that the solid is insoluble in benzene and that the
+density of benzene is 0.880 g/cm3, calculate the density of the
+solid.
+107. For each of the following, decide which block is more dense:
+the orange block, the blue block, or it cannot be determined.
+Explain your answers.
+
+a
+
+b
+
+c
+
+d
+
+108. According to the Official Rules of Baseball, a baseball must
+have a circumference not more than 9.25 in or less than
+9.00 in and a mass not more than 5.25 oz or less than 5.00 oz.
+What range of densities can a baseball be expected to have?
+Express this range as a single number with an accompanying
+uncertainty limit.
+
+34f
+
+109. The density of an irregularly shaped object was determined as
+follows. The mass of the object was found to be 28.90 g 6
+0.03 g. A graduated cylinder was partially filled with water.
+The reading of the level of the water was 6.4 cm3 6 0.1 cm3.
+The object was dropped in the cylinder, and the level of the
+water rose to 9.8 cm3 6 0.1 cm3. What is the density of the
+object with appropriate error limits? (See Appendix 1.5.)
+110. The chemist in Example 1.14 did some further experiments.
+She found that the pipet used to measure the volume of the
+liquid is accurate to 60.03 cm3. The mass measurement is
+accurate to 60.002 g. Are these measurements sufficiently
+precise for the chemist to distinguish between isopropyl alcohol and ethanol?
+
+ChemWork Problems
+These multiconcept problems (and additional ones) are found interactively online with the same type of assistance a student would get
+from an instructor.
+111. The longest river in the world is the Nile River with a length
+of 4145 mi. How long is the Nile in cable lengths, meters, and
+nautical miles?
+Use these exact conversions to help solve the problem:
+6 ft 5 1 fathom
+100 fathoms 5 1 cable length
+10 cable lengths 5 1 nautical mile
+3 nautical miles 5 1 league
+112. Secretariat is known as the horse with the fastest run in the
+Kentucky Derby. If Secretariat’s record 1.25-mi run lasted
+1 minute 59.2 seconds, what was his average speed in m/s?
+113. The hottest temperature recorded in the United States is 1348F
+in Greenland Ranch, CA. The melting point of phosphorus
+is 448C. At this temperature, would phosphorus be a liquid or
+a solid?
+114. The radius of a neon atom is 69 pm, and its mass is 3.35 3
+10223 g. What is the density of the atom in grams per cubic
+centimeter (g/cm3)? Assume the nucleus is a sphere with volume 5 43 pr 3.
+115. Which of the following statements is(are) true?
+a. A spoonful of sugar is a mixture.
+b. Only elements are pure substances.
+c. Air is a mixture of gases.
+d. Gasoline is a pure substance.
+e. Compounds can be broken down only by chemical means.
+116. Which of the following describes a chemical property?
+a. The density of iron is 7.87 g/cm3.
+b. A platinum wire glows red when heated.
+c. An iron bar rusts.
+d. Aluminum is a silver-colored metal.
+
+Challenge Problems
+117. A rule of thumb in designing experiments is to avoid using a
+result that is the small difference between two large measured
+quantities. In terms of uncertainties in measurement, why is
+this good advice?
+118. Draw a picture showing the markings (graduations) on glassware that would allow you to make each of the following volume measurements of water, and explain your answers (the
+numbers given are as precise as possible).
+a. 128.7 mL
+b. 18 mL
+c. 23.45 mL
+If you made these measurements for three samples of water and
+then poured all of the water together in one container, what total
+volume of water should you report? Support your answer.
+119. Many times errors are expressed in terms of percentage. The
+percent error is the absolute value of the difference of the true
+value and the experimental value, divided by the true value,
+and multiplied by 100.
+
+0 true value 2 experimental value 0
+3 100
+true value
+Calculate the percent error for the following measurements.
+a. The density of an aluminum block determined in an
+experiment was 2.64 g/cm3. (True value 2.70 g/cm3.)
+b. The experimental determination of iron in iron ore was
+16.48%. (True value 16.12%.)
+c. A balance measured the mass of a 1.000-g standard as
+0.9981 g.
+120. A person weighed 15 pennies on a balance and recorded the
+following masses:
+Percent error 5
+
+3.112 g
+
+3.109 g
+
+3.059 g
+
+2.467 g
+
+3.079 g
+
+2.518 g
+
+3.129 g
+
+2.545 g
+
+3.050 g
+
+3.053 g
+
+3.054 g
+
+3.072 g
+
+3.081 g
+
+3.131 g
+
+3.064 g
+
+Curious about the results, he looked at the dates on each penny.
+Two of the light pennies were minted in 1983 and one in 1982.
+The dates on the 12 heavier pennies ranged from 1970 to 1982.
+Two of the 12 heavier pennies were minted in 1982.
+a. Do you think the Bureau of the Mint changed the way it
+made pennies? Explain.
+b. The person calculated the average mass of the 12 heavy
+pennies. He expressed this average as 3.0828 g 6 0.0482 g.
+What is wrong with the numbers in this result, and how
+should the value be expressed?
+
