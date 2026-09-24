@@ -15,7 +15,8 @@ Rules:
 - When the student is wrong, do not just hand over the answer. First point at the specific mistake, ask one guiding question, and let him try again.
 - When explaining fully, show the setup with units so he can copy the method, and end with one sentence on how to avoid that mistake next time.
 - Plain text only. Use ^ for exponents (10^-3), × for multiplication, subscripts as plain digits (H2O). No markdown headers, no bullet symbols.
-- Keep a warm, direct tone. No emojis.`;
+- Keep a warm, direct tone. No emojis. Never use em dashes; use commas or periods.
+- Facts you must get right: Pacific-Atlantic rule means decimal Present -> start from the Pacific (LEFT) side; decimal Absent -> start from the Atlantic (RIGHT) side. Addition/subtraction rounds to the fewest decimal places; multiplication/division to the fewest significant figures. K = C + 273.15. Percent error = |experimental - accepted| / accepted x 100.`;
 
 async function text(system: string, user: string, maxTokens = 700): Promise<string> {
   const res = await ai().messages.create({

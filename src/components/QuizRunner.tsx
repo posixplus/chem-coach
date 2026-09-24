@@ -313,7 +313,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
           <div className="rounded-lg bg-amber-50 p-3 text-sm text-amber-900">
             <p className="font-medium">Not quite. One more try.</p>
             {result.note && <p className="mt-1">{result.note}</p>}
-            {result.feedback && <p className="mt-1">{result.feedback}</p>}
+            {result.feedback && !result.remediation && <p className="mt-1">{result.feedback}</p>}
             {result.remediation && <p className="mt-2 whitespace-pre-wrap">{result.remediation}</p>}
           </div>
         )}
