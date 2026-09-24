@@ -6,6 +6,7 @@ import { listTopics, masteryByTopic } from "@/lib/questions";
 import { totals, upcomingAgenda } from "@/lib/stats";
 import { fmtDate, fmtDuration, daysUntil } from "@/lib/time";
 import { db } from "@/lib/supabase";
+import { listSheets } from "@/lib/revise";
 
 export const dynamic = "force-dynamic";
 
@@ -15,6 +16,7 @@ export default async function StudyPage() {
   const profile = "student"; // the parent's "student view" still shows Sachin's data
   const [topics, mastery, tot, agenda] = await Promise.all([listTopics(), masteryByTopic(profile), totals(profile), upcomingAgenda(8)]);
   const dueTotal = Object.values(mastery).reduce((s, m) => s + m.due, 0);
+  const sheets = listSheets();
   const { count: bankCount } = await db().from("chem_questions").select("id", { count: "exact", head: true }).eq("active", true);
 
   const next = agenda.find((a) => a.kind === "quiz" || a.kind === "test") ?? agenda[0];
@@ -67,6 +69,22 @@ export default async function StudyPage() {
             <Stat label="Bank size" value={String(bankCount ?? 0)} />
           </div>
         </section>
+
+        {sheets.length > 0 && (
+          <section className="card">
+            <div className="flex items-baseline justify-between gap-2">
+              <h2 className="text-sm font-medium uppercase tracking-wide text-stone-500">Revision sheets</h2>
+              <Link href="/revise" className="text-sm text-emerald-800 underline">All sheets</Link>
+            </div>
+            <div className="mt-2 flex flex-wrap gap-2">
+              {sheets.map((sh) => (
+                <Link key={sh.slug} href={`/revise/${sh.slug}`} className="btn-secondary">
+                  Unit {sh.unit}: {sh.title}
+                </Link>
+              ))}
+            </div>
+          </section>
+        )}
 
         {units.map((u) => (
           <section key={u}>
