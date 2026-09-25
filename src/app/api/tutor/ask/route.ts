@@ -13,6 +13,6 @@ export async function POST(req: Request) {
   const topic = q ? await getTopic(q.topic_id) : null;
   const context = q ? `Problem: ${q.prompt}\nCorrect answer (do not reveal unless the student already resolved it): ${q.answer}\nStudent's tries so far: ${(tries ?? []).join(" | ") || "none"}` : "";
   const answer = await askTutor(String(question), topic, context);
-  await db().from("chem_tutor_log").insert({ profile: s.profile, question_id: q?.id ?? null, kind: "ask", content: `Q: ${question}\nA: ${answer}` });
+  await db().from("chem_tutor_log").insert({ profile: s.profile, question_id: q?.id ?? null, kind: "ask", content: `Q: ${question}\nA: ${answer}`, subject: topic?.subject ?? "chem" });
   return NextResponse.json({ answer });
 }

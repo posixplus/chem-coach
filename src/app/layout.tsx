@@ -1,9 +1,10 @@
 import type { Metadata, Viewport } from "next";
+import "katex/dist/katex.min.css";
 import "./globals.css";
 
 export const metadata: Metadata = {
-  title: "Chem Coach",
-  description: "Chemistry practice and tutoring for MYP Chemistry",
+  title: "Study Coach",
+  description: "Practice and tutoring for MYP Chemistry and IB Extended Math",
 };
 
 export const viewport: Viewport = { width: "device-width", initialScale: 1 };

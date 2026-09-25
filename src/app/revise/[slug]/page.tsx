@@ -36,7 +36,7 @@ export default async function SheetPage({ params }: { params: Promise<{ slug: st
           </nav>
           <div className="mt-3 flex gap-2 print:hidden">
             <PrintButton />
-            <Link href={`/quiz/mixed`} className="btn-secondary">Quiz me on this unit</Link>
+            <Link href={`/subject/${sheet.subject}?next=/quiz/mixed`} prefetch={false} className="btn-secondary">Quiz me on this subject</Link>
           </div>
         </header>
         <article className="revise" dangerouslySetInnerHTML={{ __html: sheet.html }} />

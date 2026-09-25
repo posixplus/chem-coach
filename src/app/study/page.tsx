@@ -7,6 +7,7 @@ import { totals, upcomingAgenda } from "@/lib/stats";
 import { fmtDate, fmtDuration, daysUntil } from "@/lib/time";
 import { db } from "@/lib/supabase";
 import { listSheets } from "@/lib/revise";
+import { getSubject, SUBJECTS } from "@/lib/subject";
 
 export const dynamic = "force-dynamic";
 
@@ -14,10 +15,12 @@ export default async function StudyPage() {
   const session = await getSession();
   if (!session) redirect("/login");
   const profile = "student"; // the parent's "student view" still shows Sachin's data
-  const [topics, mastery, tot, agenda] = await Promise.all([listTopics(), masteryByTopic(profile), totals(profile), upcomingAgenda(8)]);
+  const subject = await getSubject();
+  const info = SUBJECTS[subject];
+  const [topics, mastery, tot, agenda] = await Promise.all([listTopics(subject), masteryByTopic(profile, subject), totals(profile, subject), upcomingAgenda(8, subject)]);
   const dueTotal = Object.values(mastery).reduce((s, m) => s + m.due, 0);
-  const sheets = listSheets();
-  const { count: bankCount } = await db().from("chem_questions").select("id", { count: "exact", head: true }).eq("active", true);
+  const sheets = listSheets(subject);
+  const { count: bankCount } = await db().from("chem_questions").select("id", { count: "exact", head: true }).eq("active", true).eq("subject", subject);
 
   const next = agenda.find((a) => a.kind === "quiz" || a.kind === "test") ?? agenda[0];
   const units = Array.from(new Set(topics.map((t) => t.unit))).sort();
@@ -28,7 +31,7 @@ export default async function StudyPage() {
       <main className="mx-auto w-full max-w-5xl flex-1 space-y-6 p-4">
         <section className="grid gap-4 md:grid-cols-3">
           <div className="card md:col-span-2">
-            <h2 className="text-sm font-medium uppercase tracking-wide text-stone-500">Study tonight</h2>
+            <h2 className="text-sm font-medium uppercase tracking-wide text-stone-500">Study tonight · {info.label}</h2>
             {next ? (
               <>
                 <p className="mt-1 text-xl font-semibold">
@@ -47,14 +50,28 @@ export default async function StudyPage() {
                 </div>
               </>
             ) : (
-              <p className="mt-1 text-stone-600">Nothing on the agenda yet. Try a mixed Quick 10.</p>
+              <>
+                <p className="mt-1 text-stone-600">No {info.label} quiz or test date on the calendar yet. A mixed Quick 10 keeps everything warm.</p>
+                <div className="mt-3 flex flex-wrap gap-2">
+                  <Link href="/quiz/mixed" className="btn-primary">Quick 10 (mixed)</Link>
+                  {dueTotal > 0 && <Link href="/quiz/review" className="btn-secondary">Review {dueTotal} missed</Link>}
+                </div>
+              </>
             )}
             {agenda.length > 1 && (
               <ul className="mt-4 space-y-1 text-sm text-stone-600">
                 {agenda.slice(0, 6).map((a) => (
                   <li key={a.id} className="flex gap-3">
                     <span className="w-24 shrink-0 text-stone-500">{fmtDate(a.date)}</span>
-                    <span className={a.kind === "test" ? "font-medium text-red-700" : a.kind === "quiz" ? "font-medium text-amber-700" : ""}>{a.text}</span>
+                    <span className={a.kind === "test" ? "font-medium text-red-700" : a.kind === "quiz" ? "font-medium text-amber-700" : ""}>
+                      {a.url ? (
+                        <a href={a.url} target="_blank" rel="noreferrer" className="underline decoration-stone-300 hover:decoration-stone-600">
+                          {a.text}
+                        </a>
+                      ) : (
+                        a.text
+                      )}
+                    </span>
                   </li>
                 ))}
               </ul>

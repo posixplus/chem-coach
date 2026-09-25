@@ -33,11 +33,11 @@ export async function POST(req: Request) {
   }
 
   const attemptNo = tries.length;
-  const resolved = correct || attemptNo >= MAX_TRIES;
+  const resolved = correct || attemptNo >= MAX_TRIES || q.qtype === "sketch";
   let remediation: string | undefined;
   let stage: "nudge" | "explain" | undefined;
 
-  if (!correct) {
+  if (!correct && q.qtype !== "sketch") {
     stage = resolved ? "explain" : "nudge";
     try {
       remediation = await remediate(q, topic, tries, stage);
@@ -60,6 +60,7 @@ export async function POST(req: Request) {
         first_try: correct && attemptNo === 1,
         hint_used: !!hintUsed,
         remediation: remediation ?? null,
+        subject: q.subject,
       })
       .select("id")
       .single();
@@ -73,6 +74,7 @@ export async function POST(req: Request) {
         profile,
         question_id: q.id,
         topic_id: q.topic_id,
+        subject: q.subject,
         box: nr.box,
         due_at: nr.dueAt.toISOString(),
         lapses: (existing ? 0 : 0) + (correct ? 0 : 1),
@@ -82,18 +84,18 @@ export async function POST(req: Request) {
     }
 
     if (remediation) {
-      await db().from("chem_tutor_log").insert({ profile, attempt_id: attempt?.id ?? null, question_id: q.id, kind: stage ?? "explain", content: remediation });
+      await db().from("chem_tutor_log").insert({ profile, attempt_id: attempt?.id ?? null, question_id: q.id, kind: stage ?? "explain", content: remediation, subject: q.subject });
     }
 
     // On a miss, quietly generate a fresh variant and queue it for the same review slot.
-    if (!correct && q.qtype !== "flashcard") {
+    if (!correct && q.qtype !== "flashcard" && q.qtype !== "sketch") {
       after(async () => {
         try {
           const vs = await generateQuestions(topic, 1, [q], { variantOf: q, difficulty: q.difficulty });
           if (!vs.length) return;
           const { data: ins } = await db()
             .from("chem_questions")
-            .insert({ ...vs[0], topic_id: q.topic_id, source: "variant" })
+            .insert({ ...vs[0], topic_id: q.topic_id, source: "variant", subject: q.subject })
             .select("id")
             .single();
           if (ins) {
@@ -101,6 +103,7 @@ export async function POST(req: Request) {
               profile,
               question_id: ins.id,
               topic_id: q.topic_id,
+              subject: q.subject,
               box: 1,
               due_at: new Date(Date.now() + 10 * 60 * 1000).toISOString(),
               lapses: 0,
@@ -114,7 +117,7 @@ export async function POST(req: Request) {
       });
     }
   } else if (remediation) {
-    await db().from("chem_tutor_log").insert({ profile, question_id: q.id, kind: "nudge", content: remediation });
+    await db().from("chem_tutor_log").insert({ profile, question_id: q.id, kind: "nudge", content: remediation, subject: q.subject });
   }
 
   return NextResponse.json({
@@ -125,6 +128,7 @@ export async function POST(req: Request) {
     remediation,
     stage,
     correctAnswer: resolved ? q.answer : undefined,
-    explanation: resolved && correct ? q.explanation ?? undefined : undefined,
+    answerTex: resolved ? q.meta?.answer_tex ?? undefined : undefined,
+    explanation: resolved && (correct || q.qtype === "sketch") ? q.explanation ?? undefined : undefined,
   });
 }

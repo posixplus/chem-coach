@@ -4,19 +4,21 @@ import TopBar from "@/components/TopBar";
 import { getSession } from "@/lib/auth";
 import { listSheets } from "@/lib/revise";
 import { fmtDate } from "@/lib/time";
+import { getSubject, SUBJECTS } from "@/lib/subject";
 
 export const dynamic = "force-dynamic";
 
 export default async function RevisePage() {
   const session = await getSession();
   if (!session) redirect("/login");
-  const sheets = listSheets();
+  const subject = await getSubject();
+  const sheets = listSheets(subject);
   return (
     <>
-      <TopBar session={session} />
+      <TopBar session={session} here="/revise" />
       <main className="mx-auto w-full max-w-3xl flex-1 space-y-4 p-4">
         <div>
-          <h1 className="text-2xl font-semibold">Revision sheets</h1>
+          <h1 className="text-2xl font-semibold">{SUBJECTS[subject].label} revision sheets</h1>
           <p className="text-sm text-stone-500">One page per unit: only the rules, formulas and traps that earn points. They stay here for revising the basics later.</p>
         </div>
         {sheets.length === 0 && <p className="card text-stone-500">No sheets yet. Add a markdown file to content/revise.</p>}

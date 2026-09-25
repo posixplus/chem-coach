@@ -21,7 +21,7 @@ export async function POST(req: Request) {
   if (!generated.length) return NextResponse.json({ inserted: 0 });
   const { data, error } = await db()
     .from("chem_questions")
-    .insert(generated.map((g) => ({ ...g, topic_id: topicId, source: "generated" })))
+    .insert(generated.map((g) => ({ ...g, topic_id: topicId, source: "generated", subject: topic.subject })))
     .select("id");
   if (error) return NextResponse.json({ error: error.message }, { status: 500 });
   return NextResponse.json({ inserted: data.length });

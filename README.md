@@ -1,6 +1,6 @@
-# Chem Coach
+# Study Coach (Chem + IB Math)
 
-Practice, quizzing and tutoring for Sachin's IB MYP Chemistry (Mr. Knapik's class). Next.js 16 on Vercel, Supabase Postgres, Claude for tutoring and question generation, built-in macOS voices for read-aloud and voice answers.
+Practice, quizzing and tutoring for Sachin's IB MYP Chemistry (Mr. Knapik) and IB Extended Math (Mrs. Yan). The subject switcher in the header changes every page, the quiz pool, the revision sheets and the parent dashboard; the weekly digest has one section per subject. Next.js 16 on Vercel, Supabase Postgres, Claude for tutoring and question generation, built-in macOS voices for read-aloud and voice answers.
 
 ## What it does
 
@@ -44,3 +44,22 @@ Questions Claude generates (parent "Generate" button, and automatic variants of 
 - `CLAUDE_MODEL` defaults to `claude-sonnet-4-5`; change it in env when a newer model is preferred.
 - Cost: a 30-minute session is typically 5 to 20 cents of API usage (explanations and short-answer grading only; bank questions are free to serve).
 - `npm test` runs the grading unit tests.
+
+## IB Extended Math (added 2026-09-25)
+
+Content lives in `content/math/` (chem stays at the `content/` root):
+
+- `topics.json`: 10 topics in two units (Algebra 2 Review; Functions). Topic ids start with `m1-` / `m2-`.
+- `questions/*.json`: **generated** by `python3 scripts/math-bank/build.py` from `scripts/math-bank/unit*.py`. Every answer is verified with sympy at build time; `npm test` then checks every answer, and a list of classic wrong answers, against the app's own grader (`scripts/test-bank.ts`). Edit the Python, not the JSON.
+- `notes/`: teacher handouts (pdf, docx, md). Math PDFs are transcribed by Claude once and cached in `notes/.transcripts/` (commit the cache).
+- `agenda/*.docx`: Mrs. Yan's calendar, parsed month by month (Monday of each week found by voting on the day numbers). `agenda/dates.json` (optional) for hand-entered dates. Dates added on the parent dashboard ("Add IB Math date") are stored as `source = manual` and survive re-ingest.
+- `source/`: reference files that are NOT ingested (the syllabus, a classmate's graded paper that has a few notation slips).
+- Revision sheets: `content/revise/math-*.md` with `subject: math` in the frontmatter; `$...$` LaTeX renders with KaTeX.
+
+Math grading is deterministic (`src/lib/mathgrade.ts`, mathjs): `number`, `expr` (equal as functions of x), `interval` (strict interval notation), `set` (asymptotes, zeros), `point`, `equation` (any rearrangement of the same line/curve). `meta.form` adds a required form: `factored` (fully, checked for leftover rational roots), `vertex`, `sci`. Claude only grades `text` answers and writes the nudges/explanations.
+
+Question types for math: `math` (typed answer with an on-screen key row and a live "reads as" preview), `mcq` (optionally with `meta.choice_graphs` to pick a graph), and `sketch` (Desmos calculator; reveal the reference curve and self-check against a list). Graphs in prompts are drawn by `src/components/GraphView.tsx` from a small JSON spec (functions, point paths, open/closed dots, asymptotes, arrows).
+
+Env: `NEXT_PUBLIC_DESMOS_API_KEY` (Desmos API key; without it, sketch items fall back to "sketch on paper, then reveal").
+
+Ingest now runs per subject: `npm run ingest` (all) or `npm run ingest -- math`. The `--sql` mode was removed.

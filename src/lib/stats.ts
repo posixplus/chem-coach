@@ -1,14 +1,18 @@
 import { db } from "./supabase";
 import { localDateKey } from "./time";
+import type { Subject } from "./subject";
 
 export type DayStat = { date: string; seconds: number; attempts: number; correct: number };
 
-export async function dailyStats(profile: string, days = 28): Promise<DayStat[]> {
+export async function dailyStats(profile: string, days = 28, subject?: Subject): Promise<DayStat[]> {
   const since = new Date(Date.now() - days * 86400000).toISOString();
-  const [{ data: sessions }, { data: attempts }] = await Promise.all([
-    db().from("chem_sessions").select("started_at, active_seconds").eq("profile", profile).gte("started_at", since),
-    db().from("chem_attempts").select("created_at, correct").eq("profile", profile).gte("created_at", since),
-  ]);
+  let sq = db().from("chem_sessions").select("started_at, active_seconds").eq("profile", profile).gte("started_at", since);
+  let aq = db().from("chem_attempts").select("created_at, correct").eq("profile", profile).gte("created_at", since);
+  if (subject) {
+    sq = sq.eq("subject", subject);
+    aq = aq.eq("subject", subject);
+  }
+  const [{ data: sessions }, { data: attempts }] = await Promise.all([sq, aq]);
   const map: Record<string, DayStat> = {};
   for (let i = days - 1; i >= 0; i--) {
     const k = localDateKey(new Date(Date.now() - i * 86400000));
@@ -28,9 +32,14 @@ export async function dailyStats(profile: string, days = 28): Promise<DayStat[]>
   return Object.values(map);
 }
 
-export async function totals(profile: string) {
-  const { data: sessions } = await db().from("chem_sessions").select("active_seconds, started_at").eq("profile", profile);
-  const { data: attempts } = await db().from("chem_attempts").select("correct, first_try").eq("profile", profile);
+export async function totals(profile: string, subject?: Subject) {
+  let sq = db().from("chem_sessions").select("active_seconds, started_at").eq("profile", profile);
+  let aq = db().from("chem_attempts").select("correct, first_try").eq("profile", profile);
+  if (subject) {
+    sq = sq.eq("subject", subject);
+    aq = aq.eq("subject", subject);
+  }
+  const [{ data: sessions }, { data: attempts }] = await Promise.all([sq, aq]);
   const secs = (sessions ?? []).reduce((s, x) => s + x.active_seconds, 0);
   const n = attempts?.length ?? 0;
   const c = (attempts ?? []).filter((a) => a.correct).length;
@@ -47,24 +56,28 @@ export async function totals(profile: string) {
   return { seconds: secs, sessions: sessions?.length ?? 0, attempts: n, correct: c, firstTry: ft, streak };
 }
 
-export async function recentMisses(profile: string, limit = 15) {
-  const { data } = await db()
+export async function recentMisses(profile: string, limit = 15, subject?: Subject) {
+  let q = db()
     .from("chem_attempts")
-    .select("id, created_at, answer, topic_id, remediation, question:chem_questions(prompt, answer, answer_unit)")
+    .select("id, created_at, answer, topic_id, remediation, subject, question:chem_questions(prompt, answer, answer_unit, meta)")
     .eq("profile", profile)
-    .eq("correct", false)
-    .order("created_at", { ascending: false })
-    .limit(limit);
+    .eq("correct", false);
+  if (subject) q = q.eq("subject", subject);
+  const { data } = await q.order("created_at", { ascending: false }).limit(limit);
   return data ?? [];
 }
 
-export async function recentSessions(profile: string, limit = 10) {
-  const { data } = await db().from("chem_sessions").select("*").eq("profile", profile).order("started_at", { ascending: false }).limit(limit);
+export async function recentSessions(profile: string, limit = 10, subject?: Subject) {
+  let q = db().from("chem_sessions").select("*").eq("profile", profile);
+  if (subject) q = q.eq("subject", subject);
+  const { data } = await q.order("started_at", { ascending: false }).limit(limit);
   return data ?? [];
 }
 
-export async function upcomingAgenda(limit = 6) {
+export async function upcomingAgenda(limit = 6, subject?: Subject) {
   const today = localDateKey();
-  const { data } = await db().from("chem_agenda").select("*").gte("date", today).order("date").limit(limit);
+  let q = db().from("chem_agenda").select("*").gte("date", today);
+  if (subject) q = q.eq("subject", subject);
+  const { data } = await q.order("date").limit(limit);
   return data ?? [];
 }

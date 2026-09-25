@@ -3,19 +3,48 @@
 import { useCallback, useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { useSpeech } from "./useSpeech";
+import MathText from "./MathText";
+import GraphView from "./GraphView";
+import MathInput, { type MathInputHandle } from "./MathInput";
+import DesmosSketch from "./DesmosSketch";
+import type { AnswerKind, GraphSpec } from "@/lib/supabase";
 
 type ClientQuestion = {
   id: string;
   topic_id: string;
   topic_name: string;
-  qtype: "mcq" | "numeric" | "short" | "flashcard";
+  qtype: "mcq" | "numeric" | "short" | "flashcard" | "math" | "sketch";
   prompt: string;
   choices: string[] | null;
   answer_unit: string | null;
   sig_figs: number | null;
   difficulty: number;
   isReview: boolean;
+  graph: GraphSpec | null;
+  calc: "calc" | "no-calc" | null;
+  kind: AnswerKind | null;
+  placeholder: string | null;
+  choice_graphs: Record<string, GraphSpec> | null;
+  desmos: { expressions: string[]; checklist: string[] } | null;
+  subject: string;
 };
+
+/** Speech: read LaTeX in a way the Mac voice can say. */
+function speakable(s: string) {
+  return s
+    .replace(/\$/g, "")
+    .replace(/\\frac\{([^}]*)\}\{([^}]*)\}/g, "$1 over $2")
+    .replace(/\\sqrt\{([^}]*)\}/g, "square root of $1")
+    .replace(/\\log_\{?(\w+)\}?/g, "log base $1 of")
+    .replace(/\\circ/g, " composed with ")
+    .replace(/\^\{?-1\}?/g, " inverse")
+    .replace(/\^\{?2\}?/g, " squared")
+    .replace(/\^\{?3\}?/g, " cubed")
+    .replace(/\^\{?([^} ]+)\}?/g, " to the $1")
+    .replace(/\\infty/g, "infinity")
+    .replace(/\\(left|right|,|;|quad|cdot|times)/g, " ")
+    .replace(/[{}\\]/g, "");
+}
 
 type AnswerResult = {
   correct: boolean;
@@ -25,6 +54,7 @@ type AnswerResult = {
   remediation?: string; // nudge or explanation text
   stage?: "nudge" | "explain";
   correctAnswer?: string;
+  answerTex?: string;
   explanation?: string;
 };
 
@@ -48,6 +78,8 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
   const sessionId = useRef<string | null>(null);
   const lastActivity = useRef(0);
   const inputRef = useRef<HTMLInputElement | HTMLTextAreaElement | null>(null);
+  const mathRef = useRef<MathInputHandle>(null);
+  const [revealed, setRevealed] = useState(false);
   const speech = useSpeech();
 
   const q = questions[idx];
@@ -105,9 +137,10 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
   // Auto-read the question when it appears.
   useEffect(() => {
     if (q && phase === "answering" && speech.autoRead) {
-      speech.speak(q.prompt + (q.choices ? ". Choices: " + q.choices.join(". ") : ""));
+      speech.speak(speakable(q.prompt) + (q.choices && !q.choice_graphs ? ". Choices: " + q.choices.map(speakable).join(". ") : ""));
     }
     inputRef.current?.focus();
+    mathRef.current?.focus();
     // eslint-disable-next-line react-hooks/exhaustive-deps
   }, [q?.id, phase === "answering"]);
 
@@ -134,7 +167,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
           setPhase("retry");
           setAnswer("");
         }
-        if (speech.autoRead && j.remediation) speech.speak(j.remediation);
+        if (speech.autoRead && j.remediation) speech.speak(speakable(j.remediation));
         else if (speech.autoRead && j.correct) speech.speak("Correct. " + (j.note ?? ""));
       } catch (e) {
         setErrorMsg(String(e));
@@ -154,6 +187,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
     setHintUsed(false);
     setAskOpen(false);
     setAskReply(null);
+    setRevealed(false);
     if (idx + 1 >= questions.length) setPhase("done");
     else {
       setIdx(idx + 1);
@@ -167,7 +201,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
     const r = await fetch(`/api/quiz/hint?id=${q.id}`);
     const j = await r.json();
     setHint(j.hint || "No hint for this one. Think about where you start and where you need to end up.");
-    if (speech.autoRead) speech.speak(j.hint);
+    if (speech.autoRead && j.hint) speech.speak(speakable(j.hint));
   };
 
   const ask = async () => {
@@ -181,7 +215,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
       });
       const j = await r.json();
       setAskReply(j.answer);
-      if (speech.autoRead) speech.speak(j.answer);
+      if (speech.autoRead) speech.speak(speakable(j.answer));
     } finally {
       setBusy(false);
     }
@@ -222,7 +256,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
             </button>
           )}
           {speech.supported.tts && (
-            <button className="btn-ghost" onClick={() => (speech.speaking ? speech.stop() : speech.speak(q.prompt + (q.choices ? ". Choices: " + q.choices.join(". ") : "")))} title="Read this question">
+            <button className="btn-ghost" onClick={() => (speech.speaking ? speech.stop() : speech.speak(speakable(q.prompt) + (q.choices && !q.choice_graphs ? ". Choices: " + q.choices.map(speakable).join(". ") : "")))} title="Read this question">
               {speech.speaking ? "Stop" : "Speak"}
             </button>
           )}
@@ -233,13 +267,44 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
         <div className="flex items-center gap-2 text-xs text-stone-500">
           <span className="rounded bg-stone-100 px-2 py-0.5">{q.topic_name}</span>
           {q.isReview && <span className="rounded bg-amber-100 px-2 py-0.5 text-amber-800">Review</span>}
+          {q.calc === "no-calc" && <span className="rounded bg-rose-50 px-2 py-0.5 text-rose-800">No calculator</span>}
+          {q.calc === "calc" && <span className="rounded bg-sky-50 px-2 py-0.5 text-sky-800">TI-84 allowed</span>}
           <span>{"●".repeat(q.difficulty)}{"○".repeat(4 - q.difficulty)}</span>
         </div>
-        <p className="text-lg leading-relaxed whitespace-pre-wrap">{q.prompt}</p>
+        <MathText as="p" className="text-lg leading-relaxed whitespace-pre-wrap" text={q.prompt} />
+        {q.graph && (q.qtype !== "sketch" || revealed) && (
+          <div className="flex justify-center">
+            <GraphView spec={q.graph} />
+          </div>
+        )}
 
         {phase !== "resolved" && (
           <>
-            {q.qtype === "mcq" && q.choices ? (
+            {q.qtype === "sketch" && q.desmos ? (
+              <div className="space-y-3">
+                <DesmosSketch expressions={q.desmos.expressions} checklist={q.desmos.checklist} revealed={revealed} onReveal={() => setRevealed(true)} />
+                {revealed && (
+                  <div className="flex flex-wrap gap-2">
+                    <button className="btn-primary" disabled={busy} onClick={() => submit("got-it")}>My sketch matches</button>
+                    <button className="btn-secondary" disabled={busy} onClick={() => submit("missed")}>I missed something</button>
+                  </div>
+                )}
+              </div>
+            ) : q.qtype === "mcq" && q.choices && q.choice_graphs ? (
+              <div className="grid gap-2 sm:grid-cols-2">
+                {q.choices.map((c) => (
+                  <button
+                    key={c}
+                    disabled={busy || tries.includes(c)}
+                    onClick={() => submit(c)}
+                    className={`rounded-lg border p-2 text-left transition hover:border-emerald-600 ${tries.includes(c) ? "border-red-300 bg-red-50 opacity-60" : "border-stone-300 bg-white"}`}
+                  >
+                    <span className="text-sm font-semibold">{c}</span>
+                    {q.choice_graphs![c] && <GraphView spec={q.choice_graphs![c]} size={260} className="w-full" />}
+                  </button>
+                ))}
+              </div>
+            ) : q.qtype === "mcq" && q.choices ? (
               <div className="grid gap-2">
                 {q.choices.map((c) => (
                   <button
@@ -248,7 +313,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
                     onClick={() => submit(c)}
                     className={`rounded-lg border px-4 py-3 text-left transition hover:border-emerald-600 ${tries.includes(c) ? "border-red-300 bg-red-50 line-through" : "border-stone-300 bg-white"}`}
                   >
-                    {c}
+                    <MathText text={c} />
                   </button>
                 ))}
               </div>
@@ -260,7 +325,9 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
                 }}
                 className="space-y-2"
               >
-                {q.qtype === "short" ? (
+                {q.qtype === "math" && q.kind && q.kind !== "text" ? (
+                  <MathInput ref={mathRef} value={answer} onChange={setAnswer} kind={q.kind} disabled={busy} placeholder={q.placeholder} />
+                ) : q.qtype === "short" || (q.qtype === "math" && q.kind === "text") ? (
                   <textarea ref={(el) => { inputRef.current = el; }} className="input min-h-24" value={answer} onChange={(e) => setAnswer(e.target.value)} placeholder="Type your answer (a sentence or two)" disabled={busy} />
                 ) : (
                   <div className="flex items-center gap-2">
@@ -281,7 +348,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
                   <button className="btn-primary" type="submit" disabled={busy || !answer.trim()}>
                     {busy ? "Checking…" : "Check"}
                   </button>
-                  {speech.supported.stt && (
+                  {speech.supported.stt && q.qtype !== "math" && (
                     <button type="button" className={`btn-secondary ${speech.listening ? "border-red-400 text-red-700" : ""}`} onClick={() => speech.listen((t) => setAnswer(t))}>
                       {speech.listening ? "Listening… (tap to stop)" : "Speak answer"}
                     </button>
@@ -305,7 +372,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
         {hint && phase !== "resolved" && (
           <div className="rounded-lg bg-sky-50 p-3 text-sm text-sky-900">
             <span className="font-medium">Hint: </span>
-            {hint}
+            <MathText text={hint} />
           </div>
         )}
 
@@ -314,23 +381,33 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
             <p className="font-medium">Not quite. One more try.</p>
             {result.note && <p className="mt-1">{result.note}</p>}
             {result.feedback && !result.remediation && <p className="mt-1">{result.feedback}</p>}
-            {result.remediation && <p className="mt-2 whitespace-pre-wrap">{result.remediation}</p>}
+            {result.remediation && <MathText as="p" className="mt-2 whitespace-pre-wrap" text={result.remediation} />}
           </div>
         )}
 
         {result && phase === "resolved" && (
           <div className={`rounded-lg p-3 text-sm ${result.correct ? "bg-emerald-50 text-emerald-900" : "bg-red-50 text-red-900"}`}>
-            <p className="font-medium">{result.correct ? (tries.length === 1 ? "Correct, first try." : "Correct on the retry.") : "Still not it."}</p>
+            <p className="font-medium">
+              {q.qtype === "sketch"
+                ? result.correct
+                  ? "Nice sketch."
+                  : "Worth another look. Compare feature by feature."
+                : result.correct
+                  ? tries.length === 1
+                    ? "Correct, first try."
+                    : "Correct on the retry."
+                  : "Still not it."}
+            </p>
             {result.note && <p className="mt-1">{result.note}</p>}
             {result.feedback && <p className="mt-1">{result.feedback}</p>}
-            {!result.correct && result.correctAnswer && (
+            {!result.correct && result.correctAnswer && q.qtype !== "sketch" && (
               <p className="mt-1">
-                Answer: <span className="font-semibold">{result.correctAnswer}</span>
+                Answer: <MathText className="font-semibold" text={result.answerTex ? `$${result.answerTex}$` : result.correctAnswer} />
                 {q.answer_unit ? ` ${q.answer_unit}` : ""}
               </p>
             )}
-            {(result.remediation || result.explanation) && <p className="mt-2 whitespace-pre-wrap">{result.remediation || result.explanation}</p>}
-            {!result.correct && <p className="mt-2 text-xs opacity-80">A fresh version of this problem will come back in about 10 minutes and again later this week.</p>}
+            {(result.remediation || result.explanation) && <MathText as="p" className="mt-2 whitespace-pre-wrap" text={result.remediation || result.explanation || ""} />}
+            {!result.correct && q.qtype !== "sketch" && <p className="mt-2 text-xs opacity-80">A fresh version of this problem will come back in about 10 minutes and again later this week.</p>}
           </div>
         )}
 
@@ -352,7 +429,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
 
         {askOpen && (
           <div className="space-y-2 rounded-lg border border-stone-200 p-3">
-            <input className="input" value={askText} onChange={(e) => setAskText(e.target.value)} placeholder="e.g. Why does the trailing zero count here?" onKeyDown={(e) => e.key === "Enter" && ask()} />
+            <input className="input" value={askText} onChange={(e) => setAskText(e.target.value)} placeholder={q.subject === "math" ? "e.g. Why is this a hole and not an asymptote?" : "e.g. Why does the trailing zero count here?"} onKeyDown={(e) => e.key === "Enter" && ask()} />
             <div className="flex gap-2">
               <button className="btn-secondary" onClick={ask} disabled={busy || !askText.trim()}>
                 Ask
@@ -363,7 +440,7 @@ export default function QuizRunner({ topicId, title, studentName }: { topicId: s
                 </button>
               )}
             </div>
-            {askReply && <p className="whitespace-pre-wrap text-sm text-stone-800">{askReply}</p>}
+            {askReply && <MathText as="p" className="whitespace-pre-wrap text-sm text-stone-800" text={askReply} />}
           </div>
         )}
       </div>

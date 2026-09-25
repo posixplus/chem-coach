@@ -1,6 +1,6 @@
 import { gradeLocal, parseNumber, countSigFigs } from "../src/lib/grading";
 import type { Question } from "../src/lib/supabase";
-const q = (o: Partial<Question>): Question => ({ id: "x", topic_id: "t", qtype: "numeric", prompt: "", choices: null, answer: "0", answer_unit: null, tolerance_pct: 1, sig_figs: null, explanation: null, hint: null, difficulty: 1, source: "bank", active: true, ...o });
+const q = (o: Partial<Question>): Question => ({ id: "x", topic_id: "t", qtype: "numeric", prompt: "", choices: null, answer: "0", answer_unit: null, tolerance_pct: 1, sig_figs: null, explanation: null, hint: null, difficulty: 1, source: "bank", active: true, subject: "chem", meta: null, graph: null, calc: null, ...o });
 const cases: [string, number | null][] = [["3.98e8", 3.98e8], ["3.98 x 10^8", 3.98e8], ["3.98×10^8", 3.98e8], ["3.98 * 10^-4", 3.98e-4], ["1,200", 1200], ["-273.15 C", -273.15], ["abc", null], ["0.40 s", 0.4]];
 for (const [inp, want] of cases) { const got = parseNumber(inp); if (got !== want) throw new Error(`parseNumber(${inp}) = ${got}, want ${want}`); }
 const sf: [string, number][] = [["0.00130", 3], ["1.3000", 5], ["7400", 2], ["7040", 3], ["3.98e8", 3], ["100.005", 6], ["0.40", 2], ["12", 2]];

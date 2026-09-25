@@ -2,7 +2,7 @@
 
 One markdown file per unit. Drop a new file here and it appears on the site at /revise automatically (no ingest step; the site reads this folder at build time).
 
-Frontmatter fields:
+Frontmatter fields (add `subject: math` for IB Math sheets; default is chem):
 
 ```
 ---
@@ -19,3 +19,4 @@ Body is plain markdown. Conventions that render nicely:
 - A blockquote starting with **Trap:** is styled as an amber callout.
 - Formulas in backticks render in monospace; use ^ or Unicode superscripts.
 - Keep it to what earns points on the test. These sheets are meant to still be useful for revising the basics next year.
+- Math sheets: write math as `$...$` (inline) or `$$...$$` (display) LaTeX; it renders with KaTeX. Keep TeX out of `##` headings.

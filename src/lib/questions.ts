@@ -1,7 +1,10 @@
 import { db, type Question, type Topic } from "./supabase";
+import type { Subject } from "./subject";
 
-export async function listTopics(): Promise<Topic[]> {
-  const { data } = await db().from("chem_topics").select("*").order("unit").order("sort");
+export async function listTopics(subject?: Subject): Promise<Topic[]> {
+  let q = db().from("chem_topics").select("*");
+  if (subject) q = q.eq("subject", subject);
+  const { data } = await q.order("unit").order("sort");
   return (data ?? []) as Topic[];
 }
 
@@ -25,11 +28,14 @@ export type TopicMastery = {
 };
 
 /** Mastery per topic: first-try accuracy over the last 20 attempts, blended with SRS boxes. */
-export async function masteryByTopic(profile: string): Promise<Record<string, TopicMastery>> {
-  const [{ data: attempts }, { data: queue }] = await Promise.all([
-    db().from("chem_attempts").select("topic_id, correct, first_try, created_at").eq("profile", profile).order("created_at", { ascending: false }).limit(2000),
-    db().from("chem_review_queue").select("topic_id, box, due_at").eq("profile", profile),
-  ]);
+export async function masteryByTopic(profile: string, subject?: Subject): Promise<Record<string, TopicMastery>> {
+  let aq = db().from("chem_attempts").select("topic_id, correct, first_try, created_at").eq("profile", profile);
+  let rq = db().from("chem_review_queue").select("topic_id, box, due_at").eq("profile", profile);
+  if (subject) {
+    aq = aq.eq("subject", subject);
+    rq = rq.eq("subject", subject);
+  }
+  const [{ data: attempts }, { data: queue }] = await Promise.all([aq.order("created_at", { ascending: false }).limit(2000), rq]);
   const out: Record<string, TopicMastery> = {};
   const recentCount: Record<string, number> = {};
   for (const a of attempts ?? []) {
@@ -67,15 +73,15 @@ export async function masteryByTopic(profile: string): Promise<Record<string, To
  * Pick a batch: due review items first (fresh variants when available), then bank questions the student
  * has seen least. For "mixed", weight toward weaker topics.
  */
-export async function pickBatch(profile: string, topicId: string | "mixed", n: number): Promise<Question[]> {
+export async function pickBatch(profile: string, topicId: string | "mixed", n: number, subject: Subject): Promise<Question[]> {
   const now = new Date().toISOString();
-  let dueQ = db().from("chem_review_queue").select("question_id, topic_id").eq("profile", profile).lte("due_at", now).order("due_at").limit(Math.ceil(n / 2));
+  let dueQ = db().from("chem_review_queue").select("question_id, topic_id").eq("profile", profile).eq("subject", subject).lte("due_at", now).order("due_at").limit(Math.ceil(n / 2));
   if (topicId !== "mixed") dueQ = dueQ.eq("topic_id", topicId);
   const { data: due } = await dueQ;
   const dueIds = (due ?? []).map((d) => d.question_id);
 
   // Attempt counts per question for this profile, to prefer unseen questions.
-  const { data: seen } = await db().from("chem_attempts").select("question_id, created_at").eq("profile", profile).order("created_at", { ascending: false }).limit(3000);
+  const { data: seen } = await db().from("chem_attempts").select("question_id, created_at").eq("profile", profile).eq("subject", subject).order("created_at", { ascending: false }).limit(3000);
   const lastSeen: Record<string, number> = {};
   const seenCount: Record<string, number> = {};
   for (const s of seen ?? []) {
@@ -84,13 +90,13 @@ export async function pickBatch(profile: string, topicId: string | "mixed", n: n
     lastSeen[s.question_id] ??= new Date(s.created_at).getTime();
   }
 
-  let bankQ = db().from("chem_questions").select("*").eq("active", true);
+  let bankQ = db().from("chem_questions").select("*").eq("active", true).eq("subject", subject);
   if (topicId !== "mixed") bankQ = bankQ.eq("topic_id", topicId);
   const { data: bank } = await bankQ.limit(2000);
   let pool = ((bank ?? []) as Question[]).filter((q) => !dueIds.includes(q.id));
 
   if (topicId === "mixed") {
-    const mastery = await masteryByTopic(profile);
+    const mastery = await masteryByTopic(profile, subject);
     // Weight: weaker topics (low mastery) get more slots. Unknown topics get medium weight.
     const weight = (q: Question) => {
       const m = mastery[q.topic_id];

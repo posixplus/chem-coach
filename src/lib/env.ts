@@ -17,7 +17,7 @@ export const env = {
   timezone: () => process.env.APP_TIMEZONE || "America/New_York",
   resendKey: () => process.env.RESEND_API_KEY || "",
   digestTo: () => process.env.DIGEST_EMAIL_TO || "",
-  digestFrom: () => process.env.DIGEST_EMAIL_FROM || "Chem Coach <onboarding@resend.dev>",
+  digestFrom: () => process.env.DIGEST_EMAIL_FROM || "Study Coach <onboarding@resend.dev>",
   cronSecret: () => process.env.CRON_SECRET || "",
   appUrl: () => process.env.APP_URL || "",
 };

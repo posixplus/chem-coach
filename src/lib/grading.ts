@@ -1,4 +1,5 @@
 import type { Question } from "./supabase";
+import { gradeMath } from "./mathgrade";
 
 /** Parse numbers like "3.98e8", "3.98 x 10^8", "3.98×10^8", "1,200", "-273.15 C". */
 export function parseNumber(raw: string): number | null {
@@ -32,6 +33,11 @@ export type GradeResult = { correct: boolean; note?: string };
 
 export function gradeLocal(q: Question, raw: string): GradeResult | null {
   const a = raw.trim();
+  if (q.qtype === "math") return gradeMath(a, q.answer, q.meta);
+  if (q.qtype === "sketch") {
+    // Self-checked against the reference graph: the client sends "got-it" or "missed".
+    return { correct: a === "got-it" };
+  }
   if (q.qtype === "mcq") {
     return { correct: normalize(a) === normalize(q.answer) };
   }

@@ -1,0 +1,22 @@
+[
+  { "id": "m1-linear", "unit": 1, "unit_name": "Algebra 2 Review", "sort": 1, "name": "Linear functions: slope, forms, parallel and perpendicular", "description": "Slope from two points, slope-intercept and point-slope form, horizontal/vertical lines, parallel (same slope) and perpendicular (negative reciprocal) lines.",
+    "keywords": ["linear", "slope", "parallel", "perpendicular", "intercept form", "point-slope", "horizontal line", "vertical line"] },
+  { "id": "m1-quadratics", "unit": 1, "unit_name": "Algebra 2 Review", "sort": 2, "name": "Factoring and completing the square", "description": "GCF, trinomials, difference of squares, sum/difference of cubes, completing the square to vertex form, solving quadratics.",
+    "keywords": ["factor", "completing", "complete the square", "vertex form", "trinomial", "difference of squares", "quadratic"] },
+  { "id": "m1-exponents", "unit": 1, "unit_name": "Algebra 2 Review", "sort": 3, "name": "Exponent rules and scientific notation", "description": "Product, quotient and power rules, negative exponents, converting to and from scientific notation, multiplying and dividing in scientific notation (coefficient between 1 and 10).",
+    "keywords": ["scientific notation", "exponent", "power of ten", "10^"] },
+  { "id": "m1-logs", "unit": 1, "unit_name": "Algebra 2 Review", "sort": 4, "name": "Logarithms: evaluate and solve", "description": "log_b(a) = c means b^c = a, evaluating logs mentally (including fractions and roots), common log, solving simple log equations, change of base.",
+    "keywords": ["log", "logarithm"] },
+  { "id": "m2-domain-range", "unit": 2, "unit_name": "Functions", "sort": 1, "name": "Domain, range and interval notation", "description": "Reading domain and range from graphs (open/closed dots, arrows), interval notation, domain from equations (square roots, denominators), function vs relation (vertical line test).",
+    "keywords": ["domain", "range", "interval notation", "vertical line test", "relation"] },
+  { "id": "m2-composition", "unit": 2, "unit_name": "Functions", "sort": 2, "name": "Composition of functions", "description": "f(g(x)) and (f∘g)(x), evaluating at a number (inside out), building the composite expression, order matters.",
+    "keywords": ["composition", "composite", "f(g(", "g(f(", "∘", "circ"] },
+  { "id": "m2-inverses", "unit": 2, "unit_name": "Functions", "sort": 3, "name": "Inverse functions", "description": "Find f⁻¹ by swapping x and y, verify with f(g(x)) = x and g(f(x)) = x, one-to-one and the horizontal line test, restricting the domain, reflection in y = x.",
+    "keywords": ["inverse", "f^-1", "f⁻¹", "one-to-one", "horizontal line test"] },
+  { "id": "m2-polynomials", "unit": 2, "unit_name": "Functions", "sort": 4, "name": "Polynomial graph behavior", "description": "Degree and leading coefficient from end behavior, real zeros and multiplicity (cross vs bounce), complex roots in conjugate pairs, sketching from factored form.",
+    "keywords": ["polynomial", "degree", "leading coefficient", "end behavior", "multiplicity", "double root", "complex root", "quartic", "cubic"] },
+  { "id": "m2-rational", "unit": 2, "unit_name": "Functions", "sort": 5, "name": "Rational functions: intercepts, asymptotes, holes", "description": "Factor and cancel first; holes vs vertical asymptotes; horizontal asymptote by comparing degrees; y-intercept; slant (oblique) asymptotes; writing a rational function from given features.",
+    "keywords": ["rational", "asymptote", "hole", "graph behavior", "oblique", "slant"] },
+  { "id": "m2-transformations", "unit": 2, "unit_name": "Functions", "sort": 6, "name": "Parent functions and transformations", "description": "Family of functions: linear, quadratic, cubic, square root, cube root, absolute value, reciprocal, exponential, log. Shifts, reflections and stretches of y = a f(b(x - h)) + k.",
+    "keywords": ["parent function", "family of functions", "transformation", "shift", "reflect", "stretch", "translation", "absolute value"] }
+]

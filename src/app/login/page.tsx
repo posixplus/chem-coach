@@ -6,7 +6,7 @@ export default async function LoginPage({ searchParams }: { searchParams: Promis
     <main className="flex flex-1 items-center justify-center p-6">
       <form action={login} className="card w-full max-w-sm space-y-4">
         <div>
-          <h1 className="text-2xl font-semibold">Chem Coach</h1>
+          <h1 className="text-2xl font-semibold">Study Coach</h1>
           <p className="text-sm text-stone-500">Enter your passcode to start.</p>
         </div>
         <input

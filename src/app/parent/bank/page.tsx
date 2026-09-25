@@ -5,6 +5,9 @@ import { getSession } from "@/lib/auth";
 import { listTopics } from "@/lib/questions";
 import { db } from "@/lib/supabase";
 import { toggleQuestion } from "./actions";
+import { getSubject } from "@/lib/subject";
+import MathText from "@/components/MathText";
+import GraphView from "@/components/GraphView";
 
 export const dynamic = "force-dynamic";
 
@@ -12,16 +15,17 @@ export default async function BankPage({ searchParams }: { searchParams: Promise
   const session = await getSession();
   if (!session || session.role !== "parent") redirect("/study");
   const { topic } = await searchParams;
-  const topics = await listTopics();
+  const subject = await getSubject();
+  const topics = await listTopics(subject);
   const counts: Record<string, number> = {};
-  const { data: all } = await db().from("chem_questions").select("topic_id, active");
+  const { data: all } = await db().from("chem_questions").select("topic_id, active").eq("subject", subject);
   for (const q of all ?? []) if (q.active) counts[q.topic_id] = (counts[q.topic_id] ?? 0) + 1;
   const sel = topic && topics.find((t) => t.id === topic) ? topic : topics[0]?.id;
   const { data: qs } = await db().from("chem_questions").select("*").eq("topic_id", sel).order("created_at", { ascending: false }).limit(300);
 
   return (
     <>
-      <TopBar session={session} />
+      <TopBar session={session} here="/parent/bank" />
       <main className="mx-auto w-full max-w-5xl flex-1 space-y-6 p-4">
         <h1 className="text-2xl font-semibold">Question bank</h1>
         <BankTools topics={topics.map((t) => ({ id: t.id, name: `Unit ${t.unit}: ${t.name}`, count: counts[t.id] ?? 0 }))} selected={sel} />
@@ -31,15 +35,18 @@ export default async function BankPage({ searchParams }: { searchParams: Promise
               <div className="flex items-start justify-between gap-3">
                 <div className="space-y-1">
                   <p className="text-xs text-stone-500">
-                    {q.qtype} · difficulty {q.difficulty} · {q.source}
+                    {q.qtype}
+                    {q.meta?.kind ? ` (${q.meta.kind})` : ""} · difficulty {q.difficulty} · {q.source}
+                    {q.calc ? ` · ${q.calc}` : ""}
                   </p>
-                  <p className="font-medium">{q.prompt}</p>
-                  {q.choices && <p className="text-stone-600">Choices: {(q.choices as string[]).join(" | ")}</p>}
+                  <MathText as="p" className="font-medium whitespace-pre-wrap" text={q.prompt} />
+                  {q.graph && <GraphView spec={q.graph} size={220} className="w-44" />}
+                  {q.choices && !q.meta?.choice_graphs && <MathText as="p" className="text-stone-600" text={"Choices: " + (q.choices as string[]).join(" | ")} />}
                   <p className="text-stone-700">
-                    Answer: <span className="font-semibold">{q.answer}</span> {q.answer_unit ?? ""}
+                    Answer: <MathText className="font-semibold" text={q.meta?.answer_tex ? `$${q.meta.answer_tex}$` : q.answer} /> {q.answer_unit ?? ""}
                     {q.sig_figs ? ` (${q.sig_figs} sf)` : ""}
                   </p>
-                  {q.explanation && <p className="text-stone-500">{q.explanation}</p>}
+                  {q.explanation && <MathText as="p" className="text-stone-500" text={q.explanation} />}
                 </div>
                 <form action={toggleQuestion}>
                   <input type="hidden" name="id" value={q.id} />
